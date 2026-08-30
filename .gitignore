@@ -3,6 +3,9 @@ node_modules/
 __pycache__/
 *.py[cod]
 
+# Third-party downloads and raw provider-page captures remain isolated locally.
+network-supplements/
+
 # PowerPoint source, master, and validation binaries stay local. The repository
 # contains scripts plus machine-readable registries that reproduce their intake
 # and verification; external source terms remain manual-review gated.
