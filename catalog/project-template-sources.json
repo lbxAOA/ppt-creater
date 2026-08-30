@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "purpose": "Immutable in-project copies of the six local source PPTX families used by the complete production library.",
+  "copy_policy": "Copied byte-for-byte from C:/PPT模板; source hashes are recorded for integrity verification. Do not edit these source copies in place.",
+  "sources": [
+    {
+      "id": "modern-report-ai-investor-academic",
+      "project_path": "template-library/local-production-sources/modern-report-ai-investor-academic/source.pptx",
+      "original_relative_path": "01_应用场景/02_汇报与答辩/模板/101_16比9比例.pptx",
+      "targets": ["ai-industry", "investor-pitch", "academic-clean"],
+      "bytes": 7200919,
+      "sha256": "e43009b13153cea718f16d672018be4a91b30f2936854ade408abe990fddffda",
+      "verification": "source_hash_matches"
+    },
+    {
+      "id": "data-boardroom-corporate",
+      "project_path": "template-library/local-production-sources/data-boardroom-corporate/source.pptx",
+      "original_relative_path": "04_设计素材/04_汇报总结模板/模板/001_汇报总结模板.pptx",
+      "targets": ["data-boardroom", "generic-corporate"],
+      "bytes": 62176719,
+      "sha256": "36df6642afe72d1d56d7dae5619f09ef8d7d7858882980490d67c1f45b855c16",
+      "verification": "source_hash_matches"
+    },
+    {
+      "id": "brand-company-profile",
+      "project_path": "template-library/local-production-sources/brand-company-profile/source.pptx",
+      "original_relative_path": "02_视觉风格/07_扁平化/模板/015_扁平化模板.pptx",
+      "targets": ["brand-company-profile"],
+      "bytes": 10839344,
+      "sha256": "6abc8992b73134d0b9fd5ed8a46be026adc24970288b4c86dc9dd92eb666b2d4",
+      "verification": "source_hash_matches"
+    },
+    {
+      "id": "marketing-event-culture",
+      "project_path": "template-library/local-production-sources/marketing-event-culture/source.pptx",
+      "original_relative_path": "03_主题场景/01_主题活动/模板/011_PPT模板宣传类.pptx",
+      "targets": ["marketing-event", "culture-tourism"],
+      "bytes": 2338074,
+      "sha256": "e578b3d7879218a2901dc3a6d7fa15e1605308e98d3e986758ecb6ea75df1a13",
+      "verification": "source_hash_matches"
+    },
+    {
+      "id": "wedding-bridal",
+      "project_path": "template-library/local-production-sources/wedding-bridal/source.pptx",
+      "original_relative_path": "03_主题场景/01_主题活动/模板/003_PPT模板.pptx",
+      "targets": ["wedding-bridal"],
+      "bytes": 11610262,
+      "sha256": "fee642cae531c26547945879a62ae42c85fef6ec943a176f6e22e41afcd0b3a1",
+      "verification": "source_hash_matches"
+    },
+    {
+      "id": "career-portfolio",
+      "project_path": "template-library/local-production-sources/career-portfolio/source.pptx",
+      "original_relative_path": "01_应用场景/04_求职与竞聘/模板/039_模板组.pptx",
+      "targets": ["career-portfolio"],
+      "bytes": 691513,
+      "sha256": "81c935dd9cb63e93036084bbf842bb00575290e258fd77cde288a861848f762d",
+      "verification": "source_hash_matches"
+    }
+  ]
+}

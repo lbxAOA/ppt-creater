@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "status": "candidate_only",
+  "policy": {
+    "destination": "C:/ppt-creater/network-supplements",
+    "original_library_write": false,
+    "production_auto_promotion": false,
+    "single_source_deck_required": true,
+    "license_review_required": true,
+    "style_review_required": true
+  },
+  "candidates": [
+    {
+      "id": "NET-01",
+      "title": "Pitch with Confidence",
+      "targets": ["ai-industry", "investor-pitch"],
+      "missing_page_types": ["market", "value_proposition", "funding_logic", "simple_data"],
+      "page_url": "https://slidesmania.com/free-simple-business-pitch-free-template/",
+      "pptx_url": "https://docs.google.com/presentation/d/1K2cIYoHSqmtNhbO17D_PFgfJArEKPcg3feRxuByx8WY/export/pptx",
+      "source": "SlidesMania",
+      "license_status": "review_required",
+      "ingest_status": "ready_for_isolated_download"
+    },
+    {
+      "id": "NET-02",
+      "title": "Simple & Professional",
+      "targets": ["data-boardroom", "brand-company-profile", "generic-corporate"],
+      "missing_page_types": ["kpi", "product_service", "team", "action_plan"],
+      "page_url": "https://slidesmania.com/simple-professional-free-presentation-template/",
+      "source": "SlidesMania",
+      "license_status": "review_required",
+      "ingest_status": "manual_download_url_discovery_required"
+    },
+    {
+      "id": "NET-03",
+      "title": "My Portfolio",
+      "targets": ["career-portfolio"],
+      "missing_page_types": ["case_study", "project_gallery", "about", "process"],
+      "page_url": "https://slidesmania.com/my-portfolio-free-presentation-template/",
+      "source": "SlidesMania",
+      "license_status": "review_required",
+      "ingest_status": "manual_download_url_discovery_required"
+    },
+    {
+      "id": "NET-04",
+      "title": "Amelia / Rochester",
+      "targets": ["wedding-bridal"],
+      "missing_page_types": ["timeline", "story", "album", "thanks"],
+      "page_url": "https://slidesmania.com/amelia-free-presentation-template/",
+      "source": "SlidesMania",
+      "license_status": "review_required",
+      "ingest_status": "manual_download_url_discovery_required"
+    },
+    {
+      "id": "NET-05",
+      "title": "Travel and Tourism Industry",
+      "targets": ["culture-tourism", "marketing-event"],
+      "missing_page_types": ["market", "itinerary", "destination", "industry_data"],
+      "page_url": "https://slidescarnival.com/template/travel-and-tourism-industry-in-india-slides/215633",
+      "source": "SlidesCarnival",
+      "license_status": "review_required",
+      "ingest_status": "manual_download_url_discovery_required"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+$input='C:\ppt-creater\output\embodied-world-model-investor-briefing-investor-animation-preview.pptx'
+$out='C:\ppt-creater\catalog\strict-native-animation-inventory.json'
+$app=New-Object -ComObject PowerPoint.Application;$app.Visible=-1
+try{$p=$app.Presentations.Open($input,$true,$false,$false);$data=@();for($s=1;$s -le $p.Slides.Count;$s++){$seq=$p.Slides.Item($s).TimeLine.MainSequence;$effects=@();for($i=1;$i -le $seq.Count;$i++){$e=$seq.Item($i);$effects += [ordered]@{index=$i;shape_name=$e.Shape.Name;shape_id=$e.Shape.Id;effect_type=$e.EffectType;trigger=$e.Timing.TriggerType;duration=$e.Timing.Duration;delay=$e.Timing.TriggerDelayTime}};$data += [ordered]@{slide=$s;effects=$effects}};$p.Close();$data|ConvertTo-Json -Depth 8|Set-Content $out -Encoding utf8}finally{try{$app.Quit()}catch{};try{[System.Runtime.Interopservices.Marshal]::ReleaseComObject($app)|Out-Null}catch{}}

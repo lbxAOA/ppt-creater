@@ -1,0 +1,29 @@
+# Runtime and dependency artifacts
+node_modules/
+__pycache__/
+*.py[cod]
+
+# PowerPoint source, master, and validation binaries stay local. The repository
+# contains scripts plus machine-readable registries that reproduce their intake
+# and verification; external source terms remain manual-review gated.
+*.ppt
+*.pptx
+
+# Generated decks and visual-review renders stay local.
+output/
+candidate-previews/
+network-supplements/**/previews/
+network-production-library/validation/
+production-library/**/validation/
+complete-production-library/validation/
+approved-template-additions/validation/
+
+# Historic and intermediate build outputs.
+legacy-converted/
+curated/
+approved-template-additions/
+complete-production-library/
+production-template-library/
+
+# Old oversized visual-review PDFs are local inspection artifacts.
+*.pdf

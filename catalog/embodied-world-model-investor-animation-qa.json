@@ -1,0 +1,17 @@
+﻿{
+    "source_pptx":  "C:\\ppt-creater\\output\\embodied-world-model-investor-briefing-strict-native.pptx",
+    "output_pptx":  "C:\\ppt-creater\\output\\embodied-world-model-investor-briefing-investor-animation-preview.pptx",
+    "new_shapes":  0,
+    "animation_style":  "native_object_fade_sequence",
+    "animation_effects_before":  55,
+    "animation_effects_after":  55,
+    "reworked_slides":  [
+                            4,
+                            7,
+                            8,
+                            9
+                        ],
+    "animation_policy":  "0.30-0.35s, one click per investment argument, supporting elements with previous",
+    "powerpoint_playback":  true,
+    "status":  "verified"
+}

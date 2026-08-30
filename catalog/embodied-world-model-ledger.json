@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world",
+      "title": "",
+      "accessed": "2026-08-26"
+    },
+    {
+      "id": 2,
+      "url": "https://www.nvidia.com/en-us/ai/cosmos",
+      "title": "",
+      "accessed": "2026-08-26"
+    },
+    {
+      "id": 3,
+      "url": "https://www.figure.ai/news/helix",
+      "title": "",
+      "accessed": "2026-08-26"
+    },
+    {
+      "id": 4,
+      "url": "https://physicalintelligence.company/blog/pi0",
+      "title": "",
+      "accessed": "2026-08-26"
+    }
+  ]
+}

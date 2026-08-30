@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "generated_from": "visual review of 40 candidate contact sheets",
+  "status_definitions": {
+    "primary_candidate": "Best visual fit; must still receive slot annotation and native fill verification.",
+    "secondary_candidate": "Useful for the target but not default.",
+    "reference_only": "May provide artwork or page ideas; not a default automation family.",
+    "hold": "Do not route new decks here until a stronger visual review or redesign."
+  },
+  "targets": {
+    "academic-clean": {
+      "primary": ["02-005", "01-003"],
+      "secondary": ["02-006", "01-009"],
+      "notes": "02-005 is the modern restrained default. 01-003 remains for soft thesis defense only, not technical research."
+    },
+    "ai-industry": {
+      "primary": ["02-005"],
+      "secondary": ["04-004", "04-008"],
+      "notes": "Use 02-005 as the native visual family. Add selected chart pages from 04-004 only after restyling/localization; 04-008 is for internal AI KPI reviews, not external research."
+    },
+    "investor-pitch": {
+      "primary": ["02-005"],
+      "secondary": ["01-007"],
+      "notes": "02-005 is closest to modern investor/strategy tone. 01-007 is an older business-plan structure and requires redesign, evidence-first rewriting, and removal of 2017-era visual signals."
+    },
+    "data-boardroom": {
+      "primary": ["04-008"],
+      "secondary": ["04-004", "02-005"],
+      "notes": "04-008 has KPI, issue and action patterns. Its blue glossy visuals are serviceable for internal Chinese reports but must not be the external premium default."
+    },
+    "brand-company-profile": {
+      "primary": ["02-001"],
+      "secondary": ["03-008"],
+      "notes": "02-001 is the professional editorial default for company profiles, design/architecture/agency proposals. Use 03-008 only for hospitality, luxury or leadership-story openings."
+    },
+    "marketing-event": {
+      "primary": ["02-003", "02-004"],
+      "secondary": ["02-007", "03-003"],
+      "notes": "Route culture, tourism, education and event storytelling to Chinese-style families; retain their special-purpose identity rather than forcing corporate charts into them."
+    },
+    "wedding-bridal": {
+      "primary": ["03-007"],
+      "secondary": ["03-002", "03-005"],
+      "notes": "03-007 is the most restrained vintage-album family; keep it strictly for wedding, venue, anniversary and bridal contexts."
+    },
+    "career-portfolio": {
+      "primary": ["01-006"],
+      "secondary": [],
+      "notes": "Dedicated resume/portfolio use only; exclude from reporting, technical and investor routes."
+    },
+    "generic-corporate": {
+      "primary": ["04-008"],
+      "secondary": ["01-001", "02-002", "02-010"],
+      "notes": "Older corporate families remain usable for low-stakes internal reporting; they are deliberately not global defaults."
+    }
+  },
+  "family_reviews": {
+    "01-001": {"status":"secondary_candidate","targets":["generic-corporate"],"visual_score":2,"risks":["2017-era sky/gradient imagery","limited analytics"]},
+    "01-003": {"status":"secondary_candidate","targets":["academic-clean"],"visual_score":3,"risks":["watercolor thesis signal","not data-heavy"]},
+    "01-006": {"status":"primary_candidate","targets":["career-portfolio"],"visual_score":2,"risks":["resume-only","small text"]},
+    "01-007": {"status":"secondary_candidate","targets":["investor-pitch"],"visual_score":2,"risks":["2017 business-plan styling","requires complete evidence/design refresh"]},
+    "02-002": {"status":"secondary_candidate","targets":["generic-corporate"],"visual_score":2,"risks":["pixel border dated","weak technical reporting"]},
+    "02-003": {"status":"primary_candidate","targets":["marketing-event"],"visual_score":4,"risks":["culture-specific","not dense data"]},
+    "02-004": {"status":"primary_candidate","targets":["marketing-event"],"visual_score":4,"risks":["culture-specific","not dense data"]},
+    "02-005": {"status":"primary_candidate","targets":["academic-clean","ai-industry","investor-pitch","data-boardroom"],"visual_score":4.5,"risks":["fine gray detail needs contrast check","slot annotation required"]},
+    "02-006": {"status":"secondary_candidate","targets":["academic-clean","generic-corporate"],"visual_score":3,"risks":["generic flat-design look","small text"]},
+    "02-008": {"status":"reference_only","targets":[],"visual_score":2,"risks":["black-gold 2017 aesthetic","not current"]},
+    "02-010": {"status":"secondary_candidate","targets":["generic-corporate"],"visual_score":2,"risks":["world-map/3D tile motif dated","weak investor/data fit"]},
+    "04-004": {"status":"secondary_candidate","targets":["ai-industry","data-boardroom"],"visual_score":3,"risks":["English-first infographic library","small labels","restyle before use"]},
+    "04-006": {"status":"reference_only","targets":[],"visual_score":3,"risks":["generic mid-2010s icons","not a cohesive deck"]},
+    "04-008": {"status":"primary_candidate","targets":["data-boardroom","generic-corporate","ai-industry"],"visual_score":3,"risks":["blue glossy template look","internal use favored"]}
+  },
+  "hard_rule": "No family is animation_ready until reusable text/image shapes are explicitly named slot_* and a copied/fill deck plays successfully in Microsoft PowerPoint."
+}

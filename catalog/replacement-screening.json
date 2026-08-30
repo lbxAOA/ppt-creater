@@ -1,0 +1,5665 @@
+{
+  "schema_version": 1,
+  "screening_scope": "all indexed readable PPTX files",
+  "screening_note": "Structural scores are triage only and do not equal visual approval. No production route was changed.",
+  "records_read": 1248,
+  "unique_hashes": 1248,
+  "by_category": {
+    "01_应用场景": 786,
+    "02_视觉风格": 380,
+    "03_主题场景": 53,
+    "04_设计素材": 29
+  },
+  "candidate_families_with_existing_project_copies": 40,
+  "ranked_by_target": {
+    "ai-industry": [
+      {
+        "score": 104.13,
+        "relative_path": "04_设计素材\\01_图表与图标\\模板\\013_精品图表精品推荐.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\01_图表与图标\\模板\\013_精品图表精品推荐.pptx",
+        "source_exists": false,
+        "sha256": "a003d545f01ce87825e135eaf921c80d163c4cd5bcf8c9b7f59c94861381feca",
+        "slides": 174,
+        "charts": 8,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 27,
+          "dense-composition": 139,
+          "chart": 8
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-004",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-004\\013_精品图表精品推荐.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "ai-industry",
+              "data-boardroom"
+            ],
+            "risks": [
+              "English-first infographic library",
+              "small labels",
+              "restyle before use"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 93.37,
+        "relative_path": "04_设计素材\\01_图表与图标\\模板\\007_常用图表.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\01_图表与图标\\模板\\007_常用图表.pptx",
+        "source_exists": false,
+        "sha256": "90055c6b974c3460639bb770d44bfc7936cfec167649ecc7597f22df6b66f452",
+        "slides": 38,
+        "charts": 3,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 15,
+          "dense-composition": 20,
+          "chart": 3
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-006",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-006\\007_常用图表.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "reference_only",
+            "visual_score": 3,
+            "review_targets": [],
+            "risks": [
+              "generic mid-2010s icons",
+              "not a cohesive deck"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 87.57,
+        "relative_path": "04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "source_exists": true,
+        "sha256": "36df6642afe72d1d56d7dae5619f09ef8d7d7858882980490d67c1f45b855c16",
+        "slides": 27,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 14,
+          "agenda": 1,
+          "chart": 1,
+          "content": 11
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-008",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-008\\001_汇报总结模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "data-boardroom",
+              "generic-corporate",
+              "ai-industry"
+            ],
+            "risks": [
+              "blue glossy template look",
+              "internal use favored"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 84.85,
+        "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\048_16比9比例.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\02_汇报与答辩\\模板\\048_16比9比例.pptx",
+        "source_exists": false,
+        "sha256": "b8e96f8a633283730054f27c5b6cd44f321373cf3bfd29c8eab464f61842c65b",
+        "slides": 28,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 11,
+          "minimal": 2,
+          "agenda": 1,
+          "dense-composition": 14
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-003",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-003\\048_16比9比例.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "academic-clean"
+            ],
+            "risks": [
+              "watercolor thesis signal",
+              "not data-heavy"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 101.34,
+        "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\039_模板组.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\04_求职与竞聘\\模板\\039_模板组.pptx",
+        "source_exists": true,
+        "sha256": "81c935dd9cb63e93036084bbf842bb00575290e258fd77cde288a861848f762d",
+        "slides": 23,
+        "charts": 6,
+        "tables": 11,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 18,
+          "chart": 2,
+          "table": 2,
+          "content": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-006",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-006\\039_模板组.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "career-portfolio"
+            ],
+            "risks": [
+              "resume-only",
+              "small text"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 94.34,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\040_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\040_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "9972f796726031d7bb4a79bec9b6973e3f6a1b77bbfae31524c69a364df21a67",
+        "slides": 23,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 19,
+          "agenda": 1,
+          "chart": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-002",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-002\\040_静态模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "pixel border dated",
+              "weak technical reporting"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 92.42,
+        "relative_path": "02_视觉风格\\07_扁平化\\模板\\013_扁平化模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\07_扁平化\\模板\\013_扁平化模板.pptx",
+        "source_exists": false,
+        "sha256": "841b82591f99877e3a15bcfc89bac628cc8dc8811bcd935ffa5bd32271d90d46",
+        "slides": 39,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 10,
+          "agenda": 23,
+          "content": 3,
+          "chart": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-008",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-008\\013_扁平化模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "reference_only",
+            "visual_score": 2,
+            "review_targets": [],
+            "risks": [
+              "black-gold 2017 aesthetic",
+              "not current"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 91.19,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\007_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\007_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "80a91226e145d048f60a649a5c6460e91ca9a5962c4a0980715451a972099944",
+        "slides": 40,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 34,
+          "agenda": 1,
+          "chart": 2,
+          "content": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-010",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-010\\007_动态模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "world-map/3D tile motif dated",
+              "weak investor/data fit"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 89.3,
+        "relative_path": "01_应用场景\\13_通用商务演示\\模板\\001_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\13_通用商务演示\\模板\\001_旧版.pptx",
+        "source_exists": true,
+        "sha256": "9069bd87d1e59dab08780bb95673bc779da184fe11f9b54a7f0ee0bee7fbb0a6",
+        "slides": 35,
+        "charts": 0,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 1,
+          "agenda": 4,
+          "dense-composition": 28,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-001",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-001\\001_旧版.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "2017-era sky/gradient imagery",
+              "limited analytics"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 89.2,
+        "relative_path": "01_应用场景\\05_商业策划\\模板\\010_商业策划模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\05_商业策划\\模板\\010_商业策划模板.pptx",
+        "source_exists": false,
+        "sha256": "36ac35d78b33e27d0a12262e35c66e3d6be5905b78c25aa272f3118d449ebd64",
+        "slides": 40,
+        "charts": 1,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 36,
+          "agenda": 1,
+          "chart": 1,
+          "content": 1,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-007",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-007\\010_商业策划模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "investor-pitch"
+            ],
+            "risks": [
+              "2017 business-plan styling",
+              "requires complete evidence/design refresh"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 105.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "397c0a250e4601e424352cdb7f4c51b00e3652ebb3ed22c73a934f9308678857",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 105.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "9fb5f4a52672132ea9a3ff4e55c694041c6af9c4f9e0360f14f7d0ea1077b9b8",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 105.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "3c24291b7663c134bd492568fb3c91814366a720b22f5d8455f7506031af45a6",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 105.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "2c96db3c5e83a0bcec5cf2b9e9f04a75c8ead38a97b179be0f8836820239c062",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 104.68,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "64582c88ab64452830d3630c1145a19e22c4a9f504a05d41fcab0f439d8f8bd1",
+        "slides": 100,
+        "charts": 20,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 29,
+          "dense-composition": 57,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 104.68,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "6038e6047ebe1e788bfea6274800645781a028eed5162a16adec182c6e82eece",
+        "slides": 100,
+        "charts": 20,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 29,
+          "dense-composition": 57,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.52,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\008_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\008_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "73ce3f5f6b1090337909834b5716e30b6f88abb181806380d982a7eb94f0dbe4",
+        "slides": 65,
+        "charts": 30,
+        "tables": 3,
+        "animation_xml": true,
+        "patterns": {
+          "content": 27,
+          "dense-composition": 20,
+          "chart": 14,
+          "minimal": 2,
+          "table": 2
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.5,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\054_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\054_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "e8bfd366cab843a7f14214f1dd2dfc19101d64f0ed783bbcd65641c7267470a2",
+        "slides": 72,
+        "charts": 11,
+        "tables": 2,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 2,
+          "content": 27,
+          "dense-composition": 29,
+          "chart": 11,
+          "table": 2,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "8a23c241bd7d4a9ae9aded16e07b68aca5021464d1b560270c63d62e5b0e6e36",
+        "slides": 59,
+        "charts": 12,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 27,
+          "dense-composition": 22,
+          "chart": 7,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "dc856ff26b91d8c7f328dd25c5ed1e2aab2a41c459f3a9800b02070839a4ad84",
+        "slides": 49,
+        "charts": 6,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 18,
+          "dense-composition": 25,
+          "chart": 4,
+          "table": 1,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "95073707ffd3e8d2725930f9f7045c2c241983e1e6061a500d49e31014c8cc16",
+        "slides": 59,
+        "charts": 12,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 27,
+          "dense-composition": 22,
+          "chart": 7,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "ad6c62d885fddac59a9c1c9738bb5eac13522130b632384dabdb624f8f16e080",
+        "slides": 49,
+        "charts": 6,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 18,
+          "dense-composition": 25,
+          "chart": 4,
+          "table": 1,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 101.98,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "bab1824bc177b3d9c50329482d803bb9a42e57c41e0f7fa3b0c2c163ebad4948",
+        "slides": 86,
+        "charts": 15,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 34,
+          "agenda": 1,
+          "dense-composition": 38,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 101.98,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\038_工作模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\038_工作模板.pptx",
+        "source_exists": true,
+        "sha256": "700a17b04f8e133b44be73628a5908647abbc4acc4696b4132b119526e6d25f0",
+        "slides": 38,
+        "charts": 18,
+        "tables": 2,
+        "animation_xml": true,
+        "patterns": {
+          "content": 14,
+          "agenda": 1,
+          "chart": 11,
+          "dense-composition": 9,
+          "table": 2,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 101.98,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "e24ec748b4ce3f777eb9921047311e29621b0b9ba1df13facff2cf954a38b496",
+        "slides": 86,
+        "charts": 15,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 34,
+          "agenda": 1,
+          "dense-composition": 38,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      }
+    ],
+    "investor-pitch": [
+      {
+        "score": 104.13,
+        "relative_path": "04_设计素材\\01_图表与图标\\模板\\013_精品图表精品推荐.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\01_图表与图标\\模板\\013_精品图表精品推荐.pptx",
+        "source_exists": false,
+        "sha256": "a003d545f01ce87825e135eaf921c80d163c4cd5bcf8c9b7f59c94861381feca",
+        "slides": 174,
+        "charts": 8,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 27,
+          "dense-composition": 139,
+          "chart": 8
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-004",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-004\\013_精品图表精品推荐.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "ai-industry",
+              "data-boardroom"
+            ],
+            "risks": [
+              "English-first infographic library",
+              "small labels",
+              "restyle before use"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 87.57,
+        "relative_path": "04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "source_exists": true,
+        "sha256": "36df6642afe72d1d56d7dae5619f09ef8d7d7858882980490d67c1f45b855c16",
+        "slides": 27,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 14,
+          "agenda": 1,
+          "chart": 1,
+          "content": 11
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-008",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-008\\001_汇报总结模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "data-boardroom",
+              "generic-corporate",
+              "ai-industry"
+            ],
+            "risks": [
+              "blue glossy template look",
+              "internal use favored"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 84.85,
+        "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\048_16比9比例.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\02_汇报与答辩\\模板\\048_16比9比例.pptx",
+        "source_exists": false,
+        "sha256": "b8e96f8a633283730054f27c5b6cd44f321373cf3bfd29c8eab464f61842c65b",
+        "slides": 28,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 11,
+          "minimal": 2,
+          "agenda": 1,
+          "dense-composition": 14
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-003",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-003\\048_16比9比例.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "academic-clean"
+            ],
+            "risks": [
+              "watercolor thesis signal",
+              "not data-heavy"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 101.34,
+        "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\039_模板组.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\04_求职与竞聘\\模板\\039_模板组.pptx",
+        "source_exists": true,
+        "sha256": "81c935dd9cb63e93036084bbf842bb00575290e258fd77cde288a861848f762d",
+        "slides": 23,
+        "charts": 6,
+        "tables": 11,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 18,
+          "chart": 2,
+          "table": 2,
+          "content": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-006",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-006\\039_模板组.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "career-portfolio"
+            ],
+            "risks": [
+              "resume-only",
+              "small text"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 94.34,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\040_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\040_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "9972f796726031d7bb4a79bec9b6973e3f6a1b77bbfae31524c69a364df21a67",
+        "slides": 23,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 19,
+          "agenda": 1,
+          "chart": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-002",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-002\\040_静态模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "pixel border dated",
+              "weak technical reporting"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 92.42,
+        "relative_path": "02_视觉风格\\07_扁平化\\模板\\013_扁平化模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\07_扁平化\\模板\\013_扁平化模板.pptx",
+        "source_exists": false,
+        "sha256": "841b82591f99877e3a15bcfc89bac628cc8dc8811bcd935ffa5bd32271d90d46",
+        "slides": 39,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 10,
+          "agenda": 23,
+          "content": 3,
+          "chart": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-008",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-008\\013_扁平化模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "reference_only",
+            "visual_score": 2,
+            "review_targets": [],
+            "risks": [
+              "black-gold 2017 aesthetic",
+              "not current"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 91.19,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\007_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\007_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "80a91226e145d048f60a649a5c6460e91ca9a5962c4a0980715451a972099944",
+        "slides": 40,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 34,
+          "agenda": 1,
+          "chart": 2,
+          "content": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-010",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-010\\007_动态模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "world-map/3D tile motif dated",
+              "weak investor/data fit"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 89.3,
+        "relative_path": "01_应用场景\\13_通用商务演示\\模板\\001_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\13_通用商务演示\\模板\\001_旧版.pptx",
+        "source_exists": true,
+        "sha256": "9069bd87d1e59dab08780bb95673bc779da184fe11f9b54a7f0ee0bee7fbb0a6",
+        "slides": 35,
+        "charts": 0,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 1,
+          "agenda": 4,
+          "dense-composition": 28,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-001",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-001\\001_旧版.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "2017-era sky/gradient imagery",
+              "limited analytics"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 89.2,
+        "relative_path": "01_应用场景\\05_商业策划\\模板\\010_商业策划模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\05_商业策划\\模板\\010_商业策划模板.pptx",
+        "source_exists": false,
+        "sha256": "36ac35d78b33e27d0a12262e35c66e3d6be5905b78c25aa272f3118d449ebd64",
+        "slides": 40,
+        "charts": 1,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 36,
+          "agenda": 1,
+          "chart": 1,
+          "content": 1,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-007",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-007\\010_商业策划模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "investor-pitch"
+            ],
+            "risks": [
+              "2017 business-plan styling",
+              "requires complete evidence/design refresh"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 105.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "397c0a250e4601e424352cdb7f4c51b00e3652ebb3ed22c73a934f9308678857",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 105.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "9fb5f4a52672132ea9a3ff4e55c694041c6af9c4f9e0360f14f7d0ea1077b9b8",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 105.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "3c24291b7663c134bd492568fb3c91814366a720b22f5d8455f7506031af45a6",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 105.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "2c96db3c5e83a0bcec5cf2b9e9f04a75c8ead38a97b179be0f8836820239c062",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 104.68,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "64582c88ab64452830d3630c1145a19e22c4a9f504a05d41fcab0f439d8f8bd1",
+        "slides": 100,
+        "charts": 20,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 29,
+          "dense-composition": 57,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 104.68,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "6038e6047ebe1e788bfea6274800645781a028eed5162a16adec182c6e82eece",
+        "slides": 100,
+        "charts": 20,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 29,
+          "dense-composition": 57,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.52,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\008_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\008_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "73ce3f5f6b1090337909834b5716e30b6f88abb181806380d982a7eb94f0dbe4",
+        "slides": 65,
+        "charts": 30,
+        "tables": 3,
+        "animation_xml": true,
+        "patterns": {
+          "content": 27,
+          "dense-composition": 20,
+          "chart": 14,
+          "minimal": 2,
+          "table": 2
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.5,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\054_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\054_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "e8bfd366cab843a7f14214f1dd2dfc19101d64f0ed783bbcd65641c7267470a2",
+        "slides": 72,
+        "charts": 11,
+        "tables": 2,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 2,
+          "content": 27,
+          "dense-composition": 29,
+          "chart": 11,
+          "table": 2,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "8a23c241bd7d4a9ae9aded16e07b68aca5021464d1b560270c63d62e5b0e6e36",
+        "slides": 59,
+        "charts": 12,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 27,
+          "dense-composition": 22,
+          "chart": 7,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "dc856ff26b91d8c7f328dd25c5ed1e2aab2a41c459f3a9800b02070839a4ad84",
+        "slides": 49,
+        "charts": 6,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 18,
+          "dense-composition": 25,
+          "chart": 4,
+          "table": 1,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "95073707ffd3e8d2725930f9f7045c2c241983e1e6061a500d49e31014c8cc16",
+        "slides": 59,
+        "charts": 12,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 27,
+          "dense-composition": 22,
+          "chart": 7,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "ad6c62d885fddac59a9c1c9738bb5eac13522130b632384dabdb624f8f16e080",
+        "slides": 49,
+        "charts": 6,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 18,
+          "dense-composition": 25,
+          "chart": 4,
+          "table": 1,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 101.98,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "bab1824bc177b3d9c50329482d803bb9a42e57c41e0f7fa3b0c2c163ebad4948",
+        "slides": 86,
+        "charts": 15,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 34,
+          "agenda": 1,
+          "dense-composition": 38,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 101.98,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\038_工作模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\038_工作模板.pptx",
+        "source_exists": true,
+        "sha256": "700a17b04f8e133b44be73628a5908647abbc4acc4696b4132b119526e6d25f0",
+        "slides": 38,
+        "charts": 18,
+        "tables": 2,
+        "animation_xml": true,
+        "patterns": {
+          "content": 14,
+          "agenda": 1,
+          "chart": 11,
+          "dense-composition": 9,
+          "table": 2,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 101.98,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "e24ec748b4ce3f777eb9921047311e29621b0b9ba1df13facff2cf954a38b496",
+        "slides": 86,
+        "charts": 15,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 34,
+          "agenda": 1,
+          "dense-composition": 38,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 101.98,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\038_工作模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\038_工作模板.pptx",
+        "source_exists": false,
+        "sha256": "fae55c937d7542d8e0797dd63626336f8350328a21044c6e5a76c0301978da41",
+        "slides": 38,
+        "charts": 18,
+        "tables": 2,
+        "animation_xml": true,
+        "patterns": {
+          "content": 14,
+          "agenda": 1,
+          "chart": 11,
+          "dense-composition": 9,
+          "table": 2,
+          "closing": 1
+        },
+        "linked_candidates": []
+      }
+    ],
+    "academic-clean": [
+      {
+        "score": 86.07,
+        "relative_path": "04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "source_exists": true,
+        "sha256": "36df6642afe72d1d56d7dae5619f09ef8d7d7858882980490d67c1f45b855c16",
+        "slides": 27,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 14,
+          "agenda": 1,
+          "chart": 1,
+          "content": 11
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-008",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-008\\001_汇报总结模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "data-boardroom",
+              "generic-corporate",
+              "ai-industry"
+            ],
+            "risks": [
+              "blue glossy template look",
+              "internal use favored"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 84.85,
+        "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\048_16比9比例.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\02_汇报与答辩\\模板\\048_16比9比例.pptx",
+        "source_exists": false,
+        "sha256": "b8e96f8a633283730054f27c5b6cd44f321373cf3bfd29c8eab464f61842c65b",
+        "slides": 28,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 11,
+          "minimal": 2,
+          "agenda": 1,
+          "dense-composition": 14
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-003",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-003\\048_16比9比例.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "academic-clean"
+            ],
+            "risks": [
+              "watercolor thesis signal",
+              "not data-heavy"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 95.34,
+        "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\039_模板组.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\04_求职与竞聘\\模板\\039_模板组.pptx",
+        "source_exists": true,
+        "sha256": "81c935dd9cb63e93036084bbf842bb00575290e258fd77cde288a861848f762d",
+        "slides": 23,
+        "charts": 6,
+        "tables": 11,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 18,
+          "chart": 2,
+          "table": 2,
+          "content": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-006",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-006\\039_模板组.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "career-portfolio"
+            ],
+            "risks": [
+              "resume-only",
+              "small text"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 89.42,
+        "relative_path": "02_视觉风格\\07_扁平化\\模板\\013_扁平化模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\07_扁平化\\模板\\013_扁平化模板.pptx",
+        "source_exists": false,
+        "sha256": "841b82591f99877e3a15bcfc89bac628cc8dc8811bcd935ffa5bd32271d90d46",
+        "slides": 39,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 10,
+          "agenda": 23,
+          "content": 3,
+          "chart": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-008",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-008\\013_扁平化模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "reference_only",
+            "visual_score": 2,
+            "review_targets": [],
+            "risks": [
+              "black-gold 2017 aesthetic",
+              "not current"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 88.19,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\007_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\007_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "80a91226e145d048f60a649a5c6460e91ca9a5962c4a0980715451a972099944",
+        "slides": 40,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 34,
+          "agenda": 1,
+          "chart": 2,
+          "content": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-010",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-010\\007_动态模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "world-map/3D tile motif dated",
+              "weak investor/data fit"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 87.7,
+        "relative_path": "01_应用场景\\05_商业策划\\模板\\010_商业策划模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\05_商业策划\\模板\\010_商业策划模板.pptx",
+        "source_exists": false,
+        "sha256": "36ac35d78b33e27d0a12262e35c66e3d6be5905b78c25aa272f3118d449ebd64",
+        "slides": 40,
+        "charts": 1,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 36,
+          "agenda": 1,
+          "chart": 1,
+          "content": 1,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-007",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-007\\010_商业策划模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "investor-pitch"
+            ],
+            "risks": [
+              "2017 business-plan styling",
+              "requires complete evidence/design refresh"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 94.5,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\054_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\054_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "e8bfd366cab843a7f14214f1dd2dfc19101d64f0ed783bbcd65641c7267470a2",
+        "slides": 72,
+        "charts": 11,
+        "tables": 2,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 2,
+          "content": 27,
+          "dense-composition": 29,
+          "chart": 11,
+          "table": 2,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 94.17,
+        "relative_path": "04_设计素材\\01_图表与图标\\模板\\018_精品图表精品推荐.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\01_图表与图标\\模板\\018_精品图表精品推荐.pptx",
+        "source_exists": false,
+        "sha256": "0af1e187de78f9c6f83c5611f3d7fb4c0f6afada78c61881a78ec8e2a77dbdff",
+        "slides": 30,
+        "charts": 9,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 18,
+          "content": 8,
+          "minimal": 1,
+          "chart": 3
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-010",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-010\\018_精品图表精品推荐.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": null,
+            "visual_score": null,
+            "review_targets": [],
+            "risks": []
+          }
+        ]
+      },
+      {
+        "score": 94.09,
+        "relative_path": "01_应用场景\\06_政务宣传\\模板\\003_党政机关模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\06_政务宣传\\模板\\003_党政机关模板.pptx",
+        "source_exists": false,
+        "sha256": "4e07bdbe3aa96402964f599c0e518924434b2efa899a598d838a5357f7985ff4",
+        "slides": 42,
+        "charts": 6,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 25,
+          "dense-composition": 14,
+          "chart": 1,
+          "minimal": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 93.98,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\055_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\055_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "0d93b516038fe13b4fd37a8669e3c4cf00e99f80c1ee6dd47633a8c3847719cf",
+        "slides": 50,
+        "charts": 6,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 25,
+          "dense-composition": 20,
+          "chart": 4
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 92.86,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\057_动态商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\057_动态商务模板.pptx",
+        "source_exists": true,
+        "sha256": "f65f4213337c939ebccca2344c164f92dc9d8b156b1c54655bf766843c4c56c6",
+        "slides": 35,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 6,
+          "content": 2,
+          "agenda": 1,
+          "dense-composition": 24,
+          "chart": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 92.86,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\057_动态商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\057_动态商务模板.pptx",
+        "source_exists": false,
+        "sha256": "632f1beee36fcc943fc22f583030a25cdb12ade9e22520db96ba3e02204a5317",
+        "slides": 35,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 6,
+          "content": 2,
+          "agenda": 1,
+          "dense-composition": 24,
+          "chart": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 92.47,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\069_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\069_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "4f560d4579269784ee1f097aee16c419e97c1517a0ccc4992ccc7b372463f7a5",
+        "slides": 31,
+        "charts": 6,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 16,
+          "dense-composition": 10,
+          "chart": 4,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 92.43,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\072_动态商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\072_动态商务模板.pptx",
+        "source_exists": true,
+        "sha256": "69c8c68afb11466fd0f4b184250d4385c24a4688386d2b19bbaceb10f19724e6",
+        "slides": 31,
+        "charts": 6,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 16,
+          "dense-composition": 10,
+          "chart": 4,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 92.43,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\072_动态商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\072_动态商务模板.pptx",
+        "source_exists": false,
+        "sha256": "7b9e3316c7015dcbda23e0f6c0b070087bdb02236f8a7b5aa78a8b6cbc971420",
+        "slides": 31,
+        "charts": 6,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 16,
+          "dense-composition": 10,
+          "chart": 4,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 92.4,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\006_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\006_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "90d4fe38beeb72eb1e572840311c4c8643f7fb9e9ba898309780cd62f8dc7d75",
+        "slides": 68,
+        "charts": 17,
+        "tables": 7,
+        "animation_xml": true,
+        "patterns": {
+          "content": 33,
+          "dense-composition": 9,
+          "minimal": 7,
+          "chart": 13,
+          "table": 6
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 92.36,
+        "relative_path": "01_应用场景\\07_工作汇报与年终总结\\模板\\006_工作汇报与年终总结.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\07_工作汇报与年终总结\\模板\\006_工作汇报与年终总结.pptx",
+        "source_exists": false,
+        "sha256": "8e235c2652f7024f5beb777053808640ee2d56757459214beee8d1eb1fd6e579",
+        "slides": 31,
+        "charts": 6,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 11,
+          "content": 15,
+          "chart": 4,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 92.33,
+        "relative_path": "02_视觉风格\\07_扁平化\\模板\\002_扁平化模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\07_扁平化\\模板\\002_扁平化模板.pptx",
+        "source_exists": false,
+        "sha256": "3ded4c0c4e0a3cf78cc5dd7c7558143d53151e5d4f8a1aa16c7c589fe80388a2",
+        "slides": 28,
+        "charts": 9,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 15,
+          "chart": 6,
+          "dense-composition": 6,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 91.92,
+        "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\024_16比9比例.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\02_汇报与答辩\\模板\\024_16比9比例.pptx",
+        "source_exists": true,
+        "sha256": "48269abbad3c4eb343f6f84fd5761e3c58feca1c245ca292545f3ad6bf77776b",
+        "slides": 50,
+        "charts": 16,
+        "tables": 5,
+        "animation_xml": true,
+        "patterns": {
+          "content": 24,
+          "agenda": 5,
+          "table": 4,
+          "minimal": 5,
+          "dense-composition": 2,
+          "chart": 10
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 91.92,
+        "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\024_16比9比例.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\02_汇报与答辩\\模板\\024_16比9比例.pptx",
+        "source_exists": false,
+        "sha256": "9f05e843f4ec254995f3db23d717ae8e33d6e910683e9128c81bccd474ceb1df",
+        "slides": 50,
+        "charts": 16,
+        "tables": 5,
+        "animation_xml": true,
+        "patterns": {
+          "content": 24,
+          "agenda": 5,
+          "table": 4,
+          "minimal": 5,
+          "dense-composition": 2,
+          "chart": 10
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 91.79,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\030_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\030_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "8d200d8b4601964f4e658ab0ca07b0f4ccc2ec3b405712eb243377f86de162f3",
+        "slides": 36,
+        "charts": 4,
+        "tables": 2,
+        "animation_xml": true,
+        "patterns": {
+          "content": 30,
+          "agenda": 1,
+          "dense-composition": 1,
+          "chart": 3,
+          "table": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 91.52,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\018_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\018_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "6b410e365daa15b9b095eca0b2fb784e103a96237b55be8a0e5551bd8d1c5142",
+        "slides": 50,
+        "charts": 2,
+        "tables": 4,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 4,
+          "agenda": 1,
+          "content": 36,
+          "table": 3,
+          "dense-composition": 4,
+          "chart": 2
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 91.3,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\084_动态商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\084_动态商务模板.pptx",
+        "source_exists": true,
+        "sha256": "b1cbc9d9d81f8457e22acc3bd7b6ca9432ef36057da527622e300fd92f16d7ae",
+        "slides": 28,
+        "charts": 7,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 20,
+          "chart": 7,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 91.3,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\084_动态商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\084_动态商务模板.pptx",
+        "source_exists": false,
+        "sha256": "c80e7a1a563764fff0acba8a065057f890208d133308ef2f04d8003d98a8d027",
+        "slides": 28,
+        "charts": 7,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 20,
+          "chart": 7,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 91.01,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\001_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\001_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "3133ba98a7b4db1447478452acae86fd0c035bba003da5e235ec90f886d7f3f6",
+        "slides": 36,
+        "charts": 4,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 17,
+          "agenda": 1,
+          "dense-composition": 14,
+          "chart": 2,
+          "table": 1,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      }
+    ],
+    "data-boardroom": [
+      {
+        "score": 104.13,
+        "relative_path": "04_设计素材\\01_图表与图标\\模板\\013_精品图表精品推荐.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\01_图表与图标\\模板\\013_精品图表精品推荐.pptx",
+        "source_exists": false,
+        "sha256": "a003d545f01ce87825e135eaf921c80d163c4cd5bcf8c9b7f59c94861381feca",
+        "slides": 174,
+        "charts": 8,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 27,
+          "dense-composition": 139,
+          "chart": 8
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-004",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-004\\013_精品图表精品推荐.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "ai-industry",
+              "data-boardroom"
+            ],
+            "risks": [
+              "English-first infographic library",
+              "small labels",
+              "restyle before use"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 93.37,
+        "relative_path": "04_设计素材\\01_图表与图标\\模板\\007_常用图表.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\01_图表与图标\\模板\\007_常用图表.pptx",
+        "source_exists": false,
+        "sha256": "90055c6b974c3460639bb770d44bfc7936cfec167649ecc7597f22df6b66f452",
+        "slides": 38,
+        "charts": 3,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 15,
+          "dense-composition": 20,
+          "chart": 3
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-006",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-006\\007_常用图表.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "reference_only",
+            "visual_score": 3,
+            "review_targets": [],
+            "risks": [
+              "generic mid-2010s icons",
+              "not a cohesive deck"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 87.57,
+        "relative_path": "04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "source_exists": true,
+        "sha256": "36df6642afe72d1d56d7dae5619f09ef8d7d7858882980490d67c1f45b855c16",
+        "slides": 27,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 14,
+          "agenda": 1,
+          "chart": 1,
+          "content": 11
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-008",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-008\\001_汇报总结模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "data-boardroom",
+              "generic-corporate",
+              "ai-industry"
+            ],
+            "risks": [
+              "blue glossy template look",
+              "internal use favored"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 84.85,
+        "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\048_16比9比例.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\02_汇报与答辩\\模板\\048_16比9比例.pptx",
+        "source_exists": false,
+        "sha256": "b8e96f8a633283730054f27c5b6cd44f321373cf3bfd29c8eab464f61842c65b",
+        "slides": 28,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 11,
+          "minimal": 2,
+          "agenda": 1,
+          "dense-composition": 14
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-003",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-003\\048_16比9比例.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "academic-clean"
+            ],
+            "risks": [
+              "watercolor thesis signal",
+              "not data-heavy"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 101.34,
+        "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\039_模板组.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\04_求职与竞聘\\模板\\039_模板组.pptx",
+        "source_exists": true,
+        "sha256": "81c935dd9cb63e93036084bbf842bb00575290e258fd77cde288a861848f762d",
+        "slides": 23,
+        "charts": 6,
+        "tables": 11,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 18,
+          "chart": 2,
+          "table": 2,
+          "content": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-006",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-006\\039_模板组.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "career-portfolio"
+            ],
+            "risks": [
+              "resume-only",
+              "small text"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 94.34,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\040_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\040_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "9972f796726031d7bb4a79bec9b6973e3f6a1b77bbfae31524c69a364df21a67",
+        "slides": 23,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 19,
+          "agenda": 1,
+          "chart": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-002",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-002\\040_静态模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "pixel border dated",
+              "weak technical reporting"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 92.42,
+        "relative_path": "02_视觉风格\\07_扁平化\\模板\\013_扁平化模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\07_扁平化\\模板\\013_扁平化模板.pptx",
+        "source_exists": false,
+        "sha256": "841b82591f99877e3a15bcfc89bac628cc8dc8811bcd935ffa5bd32271d90d46",
+        "slides": 39,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 10,
+          "agenda": 23,
+          "content": 3,
+          "chart": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-008",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-008\\013_扁平化模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "reference_only",
+            "visual_score": 2,
+            "review_targets": [],
+            "risks": [
+              "black-gold 2017 aesthetic",
+              "not current"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 91.19,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\007_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\007_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "80a91226e145d048f60a649a5c6460e91ca9a5962c4a0980715451a972099944",
+        "slides": 40,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 34,
+          "agenda": 1,
+          "chart": 2,
+          "content": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-010",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-010\\007_动态模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "world-map/3D tile motif dated",
+              "weak investor/data fit"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 89.3,
+        "relative_path": "01_应用场景\\13_通用商务演示\\模板\\001_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\13_通用商务演示\\模板\\001_旧版.pptx",
+        "source_exists": true,
+        "sha256": "9069bd87d1e59dab08780bb95673bc779da184fe11f9b54a7f0ee0bee7fbb0a6",
+        "slides": 35,
+        "charts": 0,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 1,
+          "agenda": 4,
+          "dense-composition": 28,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-001",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-001\\001_旧版.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "2017-era sky/gradient imagery",
+              "limited analytics"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 89.2,
+        "relative_path": "01_应用场景\\05_商业策划\\模板\\010_商业策划模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\05_商业策划\\模板\\010_商业策划模板.pptx",
+        "source_exists": false,
+        "sha256": "36ac35d78b33e27d0a12262e35c66e3d6be5905b78c25aa272f3118d449ebd64",
+        "slides": 40,
+        "charts": 1,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 36,
+          "agenda": 1,
+          "chart": 1,
+          "content": 1,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-007",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-007\\010_商业策划模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "investor-pitch"
+            ],
+            "risks": [
+              "2017 business-plan styling",
+              "requires complete evidence/design refresh"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 105.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "397c0a250e4601e424352cdb7f4c51b00e3652ebb3ed22c73a934f9308678857",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 105.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "9fb5f4a52672132ea9a3ff4e55c694041c6af9c4f9e0360f14f7d0ea1077b9b8",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 105.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "3c24291b7663c134bd492568fb3c91814366a720b22f5d8455f7506031af45a6",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 105.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "2c96db3c5e83a0bcec5cf2b9e9f04a75c8ead38a97b179be0f8836820239c062",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 104.68,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "64582c88ab64452830d3630c1145a19e22c4a9f504a05d41fcab0f439d8f8bd1",
+        "slides": 100,
+        "charts": 20,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 29,
+          "dense-composition": 57,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 104.68,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "6038e6047ebe1e788bfea6274800645781a028eed5162a16adec182c6e82eece",
+        "slides": 100,
+        "charts": 20,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 29,
+          "dense-composition": 57,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.52,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\008_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\008_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "73ce3f5f6b1090337909834b5716e30b6f88abb181806380d982a7eb94f0dbe4",
+        "slides": 65,
+        "charts": 30,
+        "tables": 3,
+        "animation_xml": true,
+        "patterns": {
+          "content": 27,
+          "dense-composition": 20,
+          "chart": 14,
+          "minimal": 2,
+          "table": 2
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.5,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\054_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\054_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "e8bfd366cab843a7f14214f1dd2dfc19101d64f0ed783bbcd65641c7267470a2",
+        "slides": 72,
+        "charts": 11,
+        "tables": 2,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 2,
+          "content": 27,
+          "dense-composition": 29,
+          "chart": 11,
+          "table": 2,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "8a23c241bd7d4a9ae9aded16e07b68aca5021464d1b560270c63d62e5b0e6e36",
+        "slides": 59,
+        "charts": 12,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 27,
+          "dense-composition": 22,
+          "chart": 7,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "dc856ff26b91d8c7f328dd25c5ed1e2aab2a41c459f3a9800b02070839a4ad84",
+        "slides": 49,
+        "charts": 6,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 18,
+          "dense-composition": 25,
+          "chart": 4,
+          "table": 1,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "95073707ffd3e8d2725930f9f7045c2c241983e1e6061a500d49e31014c8cc16",
+        "slides": 59,
+        "charts": 12,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 27,
+          "dense-composition": 22,
+          "chart": 7,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "ad6c62d885fddac59a9c1c9738bb5eac13522130b632384dabdb624f8f16e080",
+        "slides": 49,
+        "charts": 6,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 18,
+          "dense-composition": 25,
+          "chart": 4,
+          "table": 1,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 101.98,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "bab1824bc177b3d9c50329482d803bb9a42e57c41e0f7fa3b0c2c163ebad4948",
+        "slides": 86,
+        "charts": 15,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 34,
+          "agenda": 1,
+          "dense-composition": 38,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 101.98,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\038_工作模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\038_工作模板.pptx",
+        "source_exists": true,
+        "sha256": "700a17b04f8e133b44be73628a5908647abbc4acc4696b4132b119526e6d25f0",
+        "slides": 38,
+        "charts": 18,
+        "tables": 2,
+        "animation_xml": true,
+        "patterns": {
+          "content": 14,
+          "agenda": 1,
+          "chart": 11,
+          "dense-composition": 9,
+          "table": 2,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 101.98,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "e24ec748b4ce3f777eb9921047311e29621b0b9ba1df13facff2cf954a38b496",
+        "slides": 86,
+        "charts": 15,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 34,
+          "agenda": 1,
+          "dense-composition": 38,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      }
+    ],
+    "brand-company-profile": [
+      {
+        "score": 96.13,
+        "relative_path": "04_设计素材\\01_图表与图标\\模板\\013_精品图表精品推荐.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\01_图表与图标\\模板\\013_精品图表精品推荐.pptx",
+        "source_exists": false,
+        "sha256": "a003d545f01ce87825e135eaf921c80d163c4cd5bcf8c9b7f59c94861381feca",
+        "slides": 174,
+        "charts": 8,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 27,
+          "dense-composition": 139,
+          "chart": 8
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-004",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-004\\013_精品图表精品推荐.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "ai-industry",
+              "data-boardroom"
+            ],
+            "risks": [
+              "English-first infographic library",
+              "small labels",
+              "restyle before use"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 88.87,
+        "relative_path": "04_设计素材\\01_图表与图标\\模板\\007_常用图表.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\01_图表与图标\\模板\\007_常用图表.pptx",
+        "source_exists": false,
+        "sha256": "90055c6b974c3460639bb770d44bfc7936cfec167649ecc7597f22df6b66f452",
+        "slides": 38,
+        "charts": 3,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 15,
+          "dense-composition": 20,
+          "chart": 3
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-006",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-006\\007_常用图表.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "reference_only",
+            "visual_score": 3,
+            "review_targets": [],
+            "risks": [
+              "generic mid-2010s icons",
+              "not a cohesive deck"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 86.07,
+        "relative_path": "04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "source_exists": true,
+        "sha256": "36df6642afe72d1d56d7dae5619f09ef8d7d7858882980490d67c1f45b855c16",
+        "slides": 27,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 14,
+          "agenda": 1,
+          "chart": 1,
+          "content": 11
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-008",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-008\\001_汇报总结模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "data-boardroom",
+              "generic-corporate",
+              "ai-industry"
+            ],
+            "risks": [
+              "blue glossy template look",
+              "internal use favored"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 83.1,
+        "relative_path": "02_视觉风格\\07_扁平化\\模板\\077_扁平化模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\07_扁平化\\模板\\077_扁平化模板.pptx",
+        "source_exists": false,
+        "sha256": "50bac2fd9810c7fff6fb3948ffa1f04793b90d04cda50b55ca53cbfa26c46ba8",
+        "slides": 20,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 18,
+          "content": 2
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-006",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-006\\077_扁平化模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "academic-clean",
+              "generic-corporate"
+            ],
+            "risks": [
+              "generic flat-design look",
+              "small text"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 95.34,
+        "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\039_模板组.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\04_求职与竞聘\\模板\\039_模板组.pptx",
+        "source_exists": true,
+        "sha256": "81c935dd9cb63e93036084bbf842bb00575290e258fd77cde288a861848f762d",
+        "slides": 23,
+        "charts": 6,
+        "tables": 11,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 18,
+          "chart": 2,
+          "table": 2,
+          "content": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-006",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-006\\039_模板组.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "career-portfolio"
+            ],
+            "risks": [
+              "resume-only",
+              "small text"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 91.34,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\040_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\040_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "9972f796726031d7bb4a79bec9b6973e3f6a1b77bbfae31524c69a364df21a67",
+        "slides": 23,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 19,
+          "agenda": 1,
+          "chart": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-002",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-002\\040_静态模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "pixel border dated",
+              "weak technical reporting"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 89.42,
+        "relative_path": "02_视觉风格\\07_扁平化\\模板\\013_扁平化模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\07_扁平化\\模板\\013_扁平化模板.pptx",
+        "source_exists": false,
+        "sha256": "841b82591f99877e3a15bcfc89bac628cc8dc8811bcd935ffa5bd32271d90d46",
+        "slides": 39,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 10,
+          "agenda": 23,
+          "content": 3,
+          "chart": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-008",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-008\\013_扁平化模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "reference_only",
+            "visual_score": 2,
+            "review_targets": [],
+            "risks": [
+              "black-gold 2017 aesthetic",
+              "not current"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 88.19,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\007_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\007_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "80a91226e145d048f60a649a5c6460e91ca9a5962c4a0980715451a972099944",
+        "slides": 40,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 34,
+          "agenda": 1,
+          "chart": 2,
+          "content": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-010",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-010\\007_动态模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "world-map/3D tile motif dated",
+              "weak investor/data fit"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 87.8,
+        "relative_path": "01_应用场景\\13_通用商务演示\\模板\\001_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\13_通用商务演示\\模板\\001_旧版.pptx",
+        "source_exists": true,
+        "sha256": "9069bd87d1e59dab08780bb95673bc779da184fe11f9b54a7f0ee0bee7fbb0a6",
+        "slides": 35,
+        "charts": 0,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 1,
+          "agenda": 4,
+          "dense-composition": 28,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-001",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-001\\001_旧版.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "2017-era sky/gradient imagery",
+              "limited analytics"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 97.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "397c0a250e4601e424352cdb7f4c51b00e3652ebb3ed22c73a934f9308678857",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 97.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "9fb5f4a52672132ea9a3ff4e55c694041c6af9c4f9e0360f14f7d0ea1077b9b8",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 97.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "3c24291b7663c134bd492568fb3c91814366a720b22f5d8455f7506031af45a6",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 97.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "2c96db3c5e83a0bcec5cf2b9e9f04a75c8ead38a97b179be0f8836820239c062",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 96.68,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "64582c88ab64452830d3630c1145a19e22c4a9f504a05d41fcab0f439d8f8bd1",
+        "slides": 100,
+        "charts": 20,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 29,
+          "dense-composition": 57,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 96.68,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "6038e6047ebe1e788bfea6274800645781a028eed5162a16adec182c6e82eece",
+        "slides": 100,
+        "charts": 20,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 29,
+          "dense-composition": 57,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 94.74,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "dc856ff26b91d8c7f328dd25c5ed1e2aab2a41c459f3a9800b02070839a4ad84",
+        "slides": 49,
+        "charts": 6,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 18,
+          "dense-composition": 25,
+          "chart": 4,
+          "table": 1,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 94.74,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "ad6c62d885fddac59a9c1c9738bb5eac13522130b632384dabdb624f8f16e080",
+        "slides": 49,
+        "charts": 6,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 18,
+          "dense-composition": 25,
+          "chart": 4,
+          "table": 1,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 94.52,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\008_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\008_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "73ce3f5f6b1090337909834b5716e30b6f88abb181806380d982a7eb94f0dbe4",
+        "slides": 65,
+        "charts": 30,
+        "tables": 3,
+        "animation_xml": true,
+        "patterns": {
+          "content": 27,
+          "dense-composition": 20,
+          "chart": 14,
+          "minimal": 2,
+          "table": 2
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 94.5,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\054_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\054_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "e8bfd366cab843a7f14214f1dd2dfc19101d64f0ed783bbcd65641c7267470a2",
+        "slides": 72,
+        "charts": 11,
+        "tables": 2,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 2,
+          "content": 27,
+          "dense-composition": 29,
+          "chart": 11,
+          "table": 2,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 94.28,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\023_工作模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\023_工作模板.pptx",
+        "source_exists": true,
+        "sha256": "b18d28b363479b7f951e2e512ad6a09fe6c0c58cda9efbef515a42266b8ef8ce",
+        "slides": 28,
+        "charts": 6,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 2,
+          "agenda": 1,
+          "dense-composition": 21,
+          "chart": 3,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 94.28,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\023_工作模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\023_工作模板.pptx",
+        "source_exists": false,
+        "sha256": "514799b24e9460ffb54d5aa1f1a77c86b413c2444ead657a20f857ca03b87ee2",
+        "slides": 28,
+        "charts": 6,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 2,
+          "agenda": 1,
+          "dense-composition": 21,
+          "chart": 3,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 94.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "8a23c241bd7d4a9ae9aded16e07b68aca5021464d1b560270c63d62e5b0e6e36",
+        "slides": 59,
+        "charts": 12,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 27,
+          "dense-composition": 22,
+          "chart": 7,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 94.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "95073707ffd3e8d2725930f9f7045c2c241983e1e6061a500d49e31014c8cc16",
+        "slides": 59,
+        "charts": 12,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 27,
+          "dense-composition": 22,
+          "chart": 7,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 94.09,
+        "relative_path": "01_应用场景\\06_政务宣传\\模板\\003_党政机关模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\06_政务宣传\\模板\\003_党政机关模板.pptx",
+        "source_exists": false,
+        "sha256": "4e07bdbe3aa96402964f599c0e518924434b2efa899a598d838a5357f7985ff4",
+        "slides": 42,
+        "charts": 6,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 25,
+          "dense-composition": 14,
+          "chart": 1,
+          "minimal": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 93.98,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "bab1824bc177b3d9c50329482d803bb9a42e57c41e0f7fa3b0c2c163ebad4948",
+        "slides": 86,
+        "charts": 15,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 34,
+          "agenda": 1,
+          "dense-composition": 38,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      }
+    ],
+    "marketing-event": [
+      {
+        "score": 85.1,
+        "relative_path": "02_视觉风格\\06_文艺唯美\\模板\\004_文艺唯美模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\06_文艺唯美\\模板\\004_文艺唯美模板.pptx",
+        "source_exists": false,
+        "sha256": "d19a0c8277a618653de3b0d0cf561eda117c4fa01764245a289f806a7f14403e",
+        "slides": 25,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 3,
+          "dense-composition": 21,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-005",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-005\\004_文艺唯美模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 4.5,
+            "review_targets": [
+              "academic-clean",
+              "ai-industry",
+              "investor-pitch",
+              "data-boardroom"
+            ],
+            "risks": [
+              "fine gray detail needs contrast check",
+              "slot annotation required"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 88.5,
+        "relative_path": "02_视觉风格\\05_中国风\\模板\\052_中国风模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\05_中国风\\模板\\052_中国风模板.pptx",
+        "source_exists": false,
+        "sha256": "eefbb93e8a3f356c568ccfc6c9d10537f7eee57a2a3a8e422df8f0e5ae2cd79d",
+        "slides": 25,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 7,
+          "minimal": 13,
+          "content": 5
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-004",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-004\\052_中国风模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 4,
+            "review_targets": [
+              "marketing-event"
+            ],
+            "risks": [
+              "culture-specific",
+              "not dense data"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 85.5,
+        "relative_path": "02_视觉风格\\05_中国风\\模板\\030_中国风模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\05_中国风\\模板\\030_中国风模板.pptx",
+        "source_exists": false,
+        "sha256": "cf8e54f316b34d74e292de658c8a030e9725c146b56acc6b29f03fd3e7048f75",
+        "slides": 20,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 14,
+          "minimal": 3,
+          "content": 3
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-003",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-003\\030_中国风模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 4,
+            "review_targets": [
+              "marketing-event"
+            ],
+            "risks": [
+              "culture-specific",
+              "not dense data"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 88.27,
+        "relative_path": "04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "source_exists": true,
+        "sha256": "36df6642afe72d1d56d7dae5619f09ef8d7d7858882980490d67c1f45b855c16",
+        "slides": 27,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 14,
+          "agenda": 1,
+          "chart": 1,
+          "content": 11
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-008",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-008\\001_汇报总结模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "data-boardroom",
+              "generic-corporate",
+              "ai-industry"
+            ],
+            "risks": [
+              "blue glossy template look",
+              "internal use favored"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 99.09,
+        "relative_path": "01_应用场景\\06_政务宣传\\模板\\003_党政机关模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\06_政务宣传\\模板\\003_党政机关模板.pptx",
+        "source_exists": false,
+        "sha256": "4e07bdbe3aa96402964f599c0e518924434b2efa899a598d838a5357f7985ff4",
+        "slides": 42,
+        "charts": 6,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 25,
+          "dense-composition": 14,
+          "chart": 1,
+          "minimal": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 97.4,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\006_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\006_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "90d4fe38beeb72eb1e572840311c4c8643f7fb9e9ba898309780cd62f8dc7d75",
+        "slides": 68,
+        "charts": 17,
+        "tables": 7,
+        "animation_xml": true,
+        "patterns": {
+          "content": 33,
+          "dense-composition": 9,
+          "minimal": 7,
+          "chart": 13,
+          "table": 6
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 96.52,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\018_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\018_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "6b410e365daa15b9b095eca0b2fb784e103a96237b55be8a0e5551bd8d1c5142",
+        "slides": 50,
+        "charts": 2,
+        "tables": 4,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 4,
+          "agenda": 1,
+          "content": 36,
+          "table": 3,
+          "dense-composition": 4,
+          "chart": 2
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 96.19,
+        "relative_path": "02_视觉风格\\03_简约风格\\模板\\052_简约模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\03_简约风格\\模板\\052_简约模板.pptx",
+        "source_exists": false,
+        "sha256": "c5f8b637c3caa0049d5442e3aebc7959312c4080df27a9d719e4a1500ae4cb14",
+        "slides": 51,
+        "charts": 13,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 34,
+          "dense-composition": 6,
+          "minimal": 2,
+          "chart": 8,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 94.21,
+        "relative_path": "02_视觉风格\\05_中国风\\模板\\001_中国风模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\05_中国风\\模板\\001_中国风模板.pptx",
+        "source_exists": false,
+        "sha256": "86566cd9bf1026064d45e26f99ea373a70fae5e2786f3383ba3dc0d417d2321e",
+        "slides": 24,
+        "charts": 7,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 2,
+          "agenda": 2,
+          "content": 5,
+          "dense-composition": 11,
+          "chart": 4
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 92.96,
+        "relative_path": "01_应用场景\\03_教育与培训\\模板\\012_培训模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\03_教育与培训\\模板\\012_培训模板.pptx",
+        "source_exists": false,
+        "sha256": "4bb6c2188e748095b53328ffe48b9d7046ce42961f464ca11526b323f8f58b5b",
+        "slides": 26,
+        "charts": 1,
+        "tables": 4,
+        "animation_xml": true,
+        "patterns": {
+          "table": 4,
+          "agenda": 1,
+          "content": 14,
+          "minimal": 5,
+          "dense-composition": 1,
+          "chart": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 92.57,
+        "relative_path": "01_应用场景\\03_教育与培训\\模板\\017_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\03_教育与培训\\模板\\017_旧版.pptx",
+        "source_exists": true,
+        "sha256": "58dbaaad32ee7a6a11e5b90144c19b9da7b78ec6f89148858a32963f29b250e7",
+        "slides": 39,
+        "charts": 0,
+        "tables": 4,
+        "animation_xml": true,
+        "patterns": {
+          "content": 9,
+          "dense-composition": 25,
+          "table": 4,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 92.32,
+        "relative_path": "02_视觉风格\\06_文艺唯美\\模板\\009_文艺唯美模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\06_文艺唯美\\模板\\009_文艺唯美模板.pptx",
+        "source_exists": false,
+        "sha256": "b62a557acccedcba6cf94b8b9f9e9d31d6896daceea1f6c33b3e111b2870cfb4",
+        "slides": 23,
+        "charts": 5,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 14,
+          "chart": 2,
+          "dense-composition": 5,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 91.29,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\035_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\035_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "14552b405688e1233ee4d10481b7471ec51d740b4a03cb4b9ba7aa579157d291",
+        "slides": 13,
+        "charts": 0,
+        "tables": 7,
+        "animation_xml": true,
+        "patterns": {
+          "content": 5,
+          "dense-composition": 5,
+          "table": 2,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.99,
+        "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\022_模板组.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\04_求职与竞聘\\模板\\022_模板组.pptx",
+        "source_exists": false,
+        "sha256": "126bdee6f7be8153754f4f59daab29b4efbfb5849914ba56c09845fee2f8fba3",
+        "slides": 26,
+        "charts": 3,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 8,
+          "dense-composition": 7,
+          "chart": 3,
+          "closing": 2,
+          "content": 6
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.93,
+        "relative_path": "01_应用场景\\06_政务宣传\\模板\\007_党政机关模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\06_政务宣传\\模板\\007_党政机关模板.pptx",
+        "source_exists": false,
+        "sha256": "e1fdb9745756da1661367f7cefd947064c9181c1a0ac789d3c213b53450c81bb",
+        "slides": 41,
+        "charts": 3,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 30,
+          "agenda": 1,
+          "chart": 1,
+          "dense-composition": 8,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.86,
+        "relative_path": "01_应用场景\\13_通用商务演示\\模板\\059_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\13_通用商务演示\\模板\\059_旧版.pptx",
+        "source_exists": true,
+        "sha256": "9501fc48726b42f9baccdda0fb28628925fa855079cae89b378f66533f3ee153",
+        "slides": 46,
+        "charts": 3,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 32,
+          "dense-composition": 12,
+          "chart": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.8,
+        "relative_path": "02_视觉风格\\06_文艺唯美\\模板\\028_文艺唯美模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\06_文艺唯美\\模板\\028_文艺唯美模板.pptx",
+        "source_exists": false,
+        "sha256": "3418a5b287dd20df5f2ae732414c573d2d3933b4867379135232cab93aa0b898",
+        "slides": 23,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 2,
+          "agenda": 1,
+          "content": 9,
+          "chart": 1,
+          "dense-composition": 10
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.44,
+        "relative_path": "02_视觉风格\\05_中国风\\模板\\037_中国风模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\05_中国风\\模板\\037_中国风模板.pptx",
+        "source_exists": false,
+        "sha256": "8807e496c1b271adc87da654330a113f400c12a52830b667e134f9817c86432d",
+        "slides": 18,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 6,
+          "content": 7,
+          "dense-composition": 4,
+          "chart": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.37,
+        "relative_path": "01_应用场景\\06_政务宣传\\模板\\021_党政机关模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\06_政务宣传\\模板\\021_党政机关模板.pptx",
+        "source_exists": false,
+        "sha256": "d0ea83445babb9eab9e274bf8dada5a4eb432765f4838d560f760227807de3fd",
+        "slides": 42,
+        "charts": 3,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 36,
+          "chart": 1,
+          "dense-composition": 4,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.36,
+        "relative_path": "01_应用场景\\06_政务宣传\\模板\\006_党政机关模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\06_政务宣传\\模板\\006_党政机关模板.pptx",
+        "source_exists": false,
+        "sha256": "62039856b4a6f6d85385f74f89231da6513304cbe547744862abd139e0deea37",
+        "slides": 42,
+        "charts": 3,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 36,
+          "chart": 1,
+          "dense-composition": 4,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.19,
+        "relative_path": "01_应用场景\\06_政务宣传\\模板\\023_党政机关模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\06_政务宣传\\模板\\023_党政机关模板.pptx",
+        "source_exists": false,
+        "sha256": "6d20ff1767f9f54e98291fad7db7b11db6a38da14d11932a02ffa755126c4d8f",
+        "slides": 42,
+        "charts": 3,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 35,
+          "chart": 1,
+          "dense-composition": 4,
+          "minimal": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 89.86,
+        "relative_path": "02_视觉风格\\06_文艺唯美\\模板\\011_文艺唯美模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\06_文艺唯美\\模板\\011_文艺唯美模板.pptx",
+        "source_exists": false,
+        "sha256": "ffaaa1f251ba745eab7a017bef9c1196eab768945321f125573465a50495bbfa",
+        "slides": 23,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 11,
+          "content": 11,
+          "chart": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 89.44,
+        "relative_path": "02_视觉风格\\06_文艺唯美\\模板\\016_文艺唯美模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\06_文艺唯美\\模板\\016_文艺唯美模板.pptx",
+        "source_exists": false,
+        "sha256": "0ca03a9b79ac8b9e282f71cb6f6b028aac7bc75fd326a6f454c8a39e73683b4b",
+        "slides": 17,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 6,
+          "agenda": 1,
+          "dense-composition": 8,
+          "chart": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 88.75,
+        "relative_path": "03_主题场景\\03_节日庆典\\模板\\004_节日庆典模板.pptx",
+        "absolute_path": "C:\\PPT模板\\03_主题场景\\03_节日庆典\\模板\\004_节日庆典模板.pptx",
+        "source_exists": false,
+        "sha256": "95d0ede7eee324eb7b0df5b095b1603d53172fc8d36e223d81a9ace5684af516",
+        "slides": 53,
+        "charts": 0,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 4,
+          "content": 5,
+          "dense-composition": 9,
+          "agenda": 33,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "03-006",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\03-006\\004_节日庆典模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": null,
+            "visual_score": null,
+            "review_targets": [],
+            "risks": []
+          }
+        ]
+      },
+      {
+        "score": 88.74,
+        "relative_path": "01_应用场景\\10_产品服务与营销宣传\\模板\\005_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\10_产品服务与营销宣传\\模板\\005_旧版.pptx",
+        "source_exists": true,
+        "sha256": "c4079d7e83f69e757f29b58ee19da7f2e580248ce41aba251ef316d5be6d7601",
+        "slides": 28,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 7,
+          "minimal": 7,
+          "content": 14
+        },
+        "linked_candidates": []
+      }
+    ],
+    "culture-tourism": [
+      {
+        "score": 85.1,
+        "relative_path": "02_视觉风格\\06_文艺唯美\\模板\\004_文艺唯美模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\06_文艺唯美\\模板\\004_文艺唯美模板.pptx",
+        "source_exists": false,
+        "sha256": "d19a0c8277a618653de3b0d0cf561eda117c4fa01764245a289f806a7f14403e",
+        "slides": 25,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 3,
+          "dense-composition": 21,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-005",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-005\\004_文艺唯美模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 4.5,
+            "review_targets": [
+              "academic-clean",
+              "ai-industry",
+              "investor-pitch",
+              "data-boardroom"
+            ],
+            "risks": [
+              "fine gray detail needs contrast check",
+              "slot annotation required"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 88.5,
+        "relative_path": "02_视觉风格\\05_中国风\\模板\\052_中国风模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\05_中国风\\模板\\052_中国风模板.pptx",
+        "source_exists": false,
+        "sha256": "eefbb93e8a3f356c568ccfc6c9d10537f7eee57a2a3a8e422df8f0e5ae2cd79d",
+        "slides": 25,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 7,
+          "minimal": 13,
+          "content": 5
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-004",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-004\\052_中国风模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 4,
+            "review_targets": [
+              "marketing-event"
+            ],
+            "risks": [
+              "culture-specific",
+              "not dense data"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 85.5,
+        "relative_path": "02_视觉风格\\05_中国风\\模板\\030_中国风模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\05_中国风\\模板\\030_中国风模板.pptx",
+        "source_exists": false,
+        "sha256": "cf8e54f316b34d74e292de658c8a030e9725c146b56acc6b29f03fd3e7048f75",
+        "slides": 20,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 14,
+          "minimal": 3,
+          "content": 3
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-003",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-003\\030_中国风模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 4,
+            "review_targets": [
+              "marketing-event"
+            ],
+            "risks": [
+              "culture-specific",
+              "not dense data"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 88.27,
+        "relative_path": "04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "source_exists": true,
+        "sha256": "36df6642afe72d1d56d7dae5619f09ef8d7d7858882980490d67c1f45b855c16",
+        "slides": 27,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 14,
+          "agenda": 1,
+          "chart": 1,
+          "content": 11
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-008",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-008\\001_汇报总结模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "data-boardroom",
+              "generic-corporate",
+              "ai-industry"
+            ],
+            "risks": [
+              "blue glossy template look",
+              "internal use favored"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 99.09,
+        "relative_path": "01_应用场景\\06_政务宣传\\模板\\003_党政机关模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\06_政务宣传\\模板\\003_党政机关模板.pptx",
+        "source_exists": false,
+        "sha256": "4e07bdbe3aa96402964f599c0e518924434b2efa899a598d838a5357f7985ff4",
+        "slides": 42,
+        "charts": 6,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 25,
+          "dense-composition": 14,
+          "chart": 1,
+          "minimal": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 97.4,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\006_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\006_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "90d4fe38beeb72eb1e572840311c4c8643f7fb9e9ba898309780cd62f8dc7d75",
+        "slides": 68,
+        "charts": 17,
+        "tables": 7,
+        "animation_xml": true,
+        "patterns": {
+          "content": 33,
+          "dense-composition": 9,
+          "minimal": 7,
+          "chart": 13,
+          "table": 6
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 96.52,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\018_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\018_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "6b410e365daa15b9b095eca0b2fb784e103a96237b55be8a0e5551bd8d1c5142",
+        "slides": 50,
+        "charts": 2,
+        "tables": 4,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 4,
+          "agenda": 1,
+          "content": 36,
+          "table": 3,
+          "dense-composition": 4,
+          "chart": 2
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 96.19,
+        "relative_path": "02_视觉风格\\03_简约风格\\模板\\052_简约模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\03_简约风格\\模板\\052_简约模板.pptx",
+        "source_exists": false,
+        "sha256": "c5f8b637c3caa0049d5442e3aebc7959312c4080df27a9d719e4a1500ae4cb14",
+        "slides": 51,
+        "charts": 13,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 34,
+          "dense-composition": 6,
+          "minimal": 2,
+          "chart": 8,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 94.21,
+        "relative_path": "02_视觉风格\\05_中国风\\模板\\001_中国风模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\05_中国风\\模板\\001_中国风模板.pptx",
+        "source_exists": false,
+        "sha256": "86566cd9bf1026064d45e26f99ea373a70fae5e2786f3383ba3dc0d417d2321e",
+        "slides": 24,
+        "charts": 7,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 2,
+          "agenda": 2,
+          "content": 5,
+          "dense-composition": 11,
+          "chart": 4
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 92.96,
+        "relative_path": "01_应用场景\\03_教育与培训\\模板\\012_培训模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\03_教育与培训\\模板\\012_培训模板.pptx",
+        "source_exists": false,
+        "sha256": "4bb6c2188e748095b53328ffe48b9d7046ce42961f464ca11526b323f8f58b5b",
+        "slides": 26,
+        "charts": 1,
+        "tables": 4,
+        "animation_xml": true,
+        "patterns": {
+          "table": 4,
+          "agenda": 1,
+          "content": 14,
+          "minimal": 5,
+          "dense-composition": 1,
+          "chart": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 92.57,
+        "relative_path": "01_应用场景\\03_教育与培训\\模板\\017_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\03_教育与培训\\模板\\017_旧版.pptx",
+        "source_exists": true,
+        "sha256": "58dbaaad32ee7a6a11e5b90144c19b9da7b78ec6f89148858a32963f29b250e7",
+        "slides": 39,
+        "charts": 0,
+        "tables": 4,
+        "animation_xml": true,
+        "patterns": {
+          "content": 9,
+          "dense-composition": 25,
+          "table": 4,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 92.32,
+        "relative_path": "02_视觉风格\\06_文艺唯美\\模板\\009_文艺唯美模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\06_文艺唯美\\模板\\009_文艺唯美模板.pptx",
+        "source_exists": false,
+        "sha256": "b62a557acccedcba6cf94b8b9f9e9d31d6896daceea1f6c33b3e111b2870cfb4",
+        "slides": 23,
+        "charts": 5,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 14,
+          "chart": 2,
+          "dense-composition": 5,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 91.29,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\035_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\035_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "14552b405688e1233ee4d10481b7471ec51d740b4a03cb4b9ba7aa579157d291",
+        "slides": 13,
+        "charts": 0,
+        "tables": 7,
+        "animation_xml": true,
+        "patterns": {
+          "content": 5,
+          "dense-composition": 5,
+          "table": 2,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.99,
+        "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\022_模板组.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\04_求职与竞聘\\模板\\022_模板组.pptx",
+        "source_exists": false,
+        "sha256": "126bdee6f7be8153754f4f59daab29b4efbfb5849914ba56c09845fee2f8fba3",
+        "slides": 26,
+        "charts": 3,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 8,
+          "dense-composition": 7,
+          "chart": 3,
+          "closing": 2,
+          "content": 6
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.93,
+        "relative_path": "01_应用场景\\06_政务宣传\\模板\\007_党政机关模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\06_政务宣传\\模板\\007_党政机关模板.pptx",
+        "source_exists": false,
+        "sha256": "e1fdb9745756da1661367f7cefd947064c9181c1a0ac789d3c213b53450c81bb",
+        "slides": 41,
+        "charts": 3,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 30,
+          "agenda": 1,
+          "chart": 1,
+          "dense-composition": 8,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.86,
+        "relative_path": "01_应用场景\\13_通用商务演示\\模板\\059_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\13_通用商务演示\\模板\\059_旧版.pptx",
+        "source_exists": true,
+        "sha256": "9501fc48726b42f9baccdda0fb28628925fa855079cae89b378f66533f3ee153",
+        "slides": 46,
+        "charts": 3,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 32,
+          "dense-composition": 12,
+          "chart": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.8,
+        "relative_path": "02_视觉风格\\06_文艺唯美\\模板\\028_文艺唯美模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\06_文艺唯美\\模板\\028_文艺唯美模板.pptx",
+        "source_exists": false,
+        "sha256": "3418a5b287dd20df5f2ae732414c573d2d3933b4867379135232cab93aa0b898",
+        "slides": 23,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 2,
+          "agenda": 1,
+          "content": 9,
+          "chart": 1,
+          "dense-composition": 10
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.44,
+        "relative_path": "02_视觉风格\\05_中国风\\模板\\037_中国风模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\05_中国风\\模板\\037_中国风模板.pptx",
+        "source_exists": false,
+        "sha256": "8807e496c1b271adc87da654330a113f400c12a52830b667e134f9817c86432d",
+        "slides": 18,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 6,
+          "content": 7,
+          "dense-composition": 4,
+          "chart": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.37,
+        "relative_path": "01_应用场景\\06_政务宣传\\模板\\021_党政机关模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\06_政务宣传\\模板\\021_党政机关模板.pptx",
+        "source_exists": false,
+        "sha256": "d0ea83445babb9eab9e274bf8dada5a4eb432765f4838d560f760227807de3fd",
+        "slides": 42,
+        "charts": 3,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 36,
+          "chart": 1,
+          "dense-composition": 4,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.36,
+        "relative_path": "01_应用场景\\06_政务宣传\\模板\\006_党政机关模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\06_政务宣传\\模板\\006_党政机关模板.pptx",
+        "source_exists": false,
+        "sha256": "62039856b4a6f6d85385f74f89231da6513304cbe547744862abd139e0deea37",
+        "slides": 42,
+        "charts": 3,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 36,
+          "chart": 1,
+          "dense-composition": 4,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.19,
+        "relative_path": "01_应用场景\\06_政务宣传\\模板\\023_党政机关模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\06_政务宣传\\模板\\023_党政机关模板.pptx",
+        "source_exists": false,
+        "sha256": "6d20ff1767f9f54e98291fad7db7b11db6a38da14d11932a02ffa755126c4d8f",
+        "slides": 42,
+        "charts": 3,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 35,
+          "chart": 1,
+          "dense-composition": 4,
+          "minimal": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 89.86,
+        "relative_path": "02_视觉风格\\06_文艺唯美\\模板\\011_文艺唯美模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\06_文艺唯美\\模板\\011_文艺唯美模板.pptx",
+        "source_exists": false,
+        "sha256": "ffaaa1f251ba745eab7a017bef9c1196eab768945321f125573465a50495bbfa",
+        "slides": 23,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 11,
+          "content": 11,
+          "chart": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 89.44,
+        "relative_path": "02_视觉风格\\06_文艺唯美\\模板\\016_文艺唯美模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\06_文艺唯美\\模板\\016_文艺唯美模板.pptx",
+        "source_exists": false,
+        "sha256": "0ca03a9b79ac8b9e282f71cb6f6b028aac7bc75fd326a6f454c8a39e73683b4b",
+        "slides": 17,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 6,
+          "agenda": 1,
+          "dense-composition": 8,
+          "chart": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 88.75,
+        "relative_path": "03_主题场景\\03_节日庆典\\模板\\004_节日庆典模板.pptx",
+        "absolute_path": "C:\\PPT模板\\03_主题场景\\03_节日庆典\\模板\\004_节日庆典模板.pptx",
+        "source_exists": false,
+        "sha256": "95d0ede7eee324eb7b0df5b095b1603d53172fc8d36e223d81a9ace5684af516",
+        "slides": 53,
+        "charts": 0,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 4,
+          "content": 5,
+          "dense-composition": 9,
+          "agenda": 33,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "03-006",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\03-006\\004_节日庆典模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": null,
+            "visual_score": null,
+            "review_targets": [],
+            "risks": []
+          }
+        ]
+      },
+      {
+        "score": 88.74,
+        "relative_path": "01_应用场景\\10_产品服务与营销宣传\\模板\\005_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\10_产品服务与营销宣传\\模板\\005_旧版.pptx",
+        "source_exists": true,
+        "sha256": "c4079d7e83f69e757f29b58ee19da7f2e580248ce41aba251ef316d5be6d7601",
+        "slides": 28,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 7,
+          "minimal": 7,
+          "content": 14
+        },
+        "linked_candidates": []
+      }
+    ],
+    "generic-corporate": [
+      {
+        "score": 104.13,
+        "relative_path": "04_设计素材\\01_图表与图标\\模板\\013_精品图表精品推荐.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\01_图表与图标\\模板\\013_精品图表精品推荐.pptx",
+        "source_exists": false,
+        "sha256": "a003d545f01ce87825e135eaf921c80d163c4cd5bcf8c9b7f59c94861381feca",
+        "slides": 174,
+        "charts": 8,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 27,
+          "dense-composition": 139,
+          "chart": 8
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-004",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-004\\013_精品图表精品推荐.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "ai-industry",
+              "data-boardroom"
+            ],
+            "risks": [
+              "English-first infographic library",
+              "small labels",
+              "restyle before use"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 87.57,
+        "relative_path": "04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "source_exists": true,
+        "sha256": "36df6642afe72d1d56d7dae5619f09ef8d7d7858882980490d67c1f45b855c16",
+        "slides": 27,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 14,
+          "agenda": 1,
+          "chart": 1,
+          "content": 11
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-008",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-008\\001_汇报总结模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "data-boardroom",
+              "generic-corporate",
+              "ai-industry"
+            ],
+            "risks": [
+              "blue glossy template look",
+              "internal use favored"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 84.85,
+        "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\048_16比9比例.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\02_汇报与答辩\\模板\\048_16比9比例.pptx",
+        "source_exists": false,
+        "sha256": "b8e96f8a633283730054f27c5b6cd44f321373cf3bfd29c8eab464f61842c65b",
+        "slides": 28,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 11,
+          "minimal": 2,
+          "agenda": 1,
+          "dense-composition": 14
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-003",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-003\\048_16比9比例.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "academic-clean"
+            ],
+            "risks": [
+              "watercolor thesis signal",
+              "not data-heavy"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 101.34,
+        "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\039_模板组.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\04_求职与竞聘\\模板\\039_模板组.pptx",
+        "source_exists": true,
+        "sha256": "81c935dd9cb63e93036084bbf842bb00575290e258fd77cde288a861848f762d",
+        "slides": 23,
+        "charts": 6,
+        "tables": 11,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 18,
+          "chart": 2,
+          "table": 2,
+          "content": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-006",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-006\\039_模板组.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "career-portfolio"
+            ],
+            "risks": [
+              "resume-only",
+              "small text"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 94.34,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\040_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\040_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "9972f796726031d7bb4a79bec9b6973e3f6a1b77bbfae31524c69a364df21a67",
+        "slides": 23,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 19,
+          "agenda": 1,
+          "chart": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-002",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-002\\040_静态模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "pixel border dated",
+              "weak technical reporting"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 92.42,
+        "relative_path": "02_视觉风格\\07_扁平化\\模板\\013_扁平化模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\07_扁平化\\模板\\013_扁平化模板.pptx",
+        "source_exists": false,
+        "sha256": "841b82591f99877e3a15bcfc89bac628cc8dc8811bcd935ffa5bd32271d90d46",
+        "slides": 39,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 10,
+          "agenda": 23,
+          "content": 3,
+          "chart": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-008",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-008\\013_扁平化模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "reference_only",
+            "visual_score": 2,
+            "review_targets": [],
+            "risks": [
+              "black-gold 2017 aesthetic",
+              "not current"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 91.19,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\007_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\007_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "80a91226e145d048f60a649a5c6460e91ca9a5962c4a0980715451a972099944",
+        "slides": 40,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 34,
+          "agenda": 1,
+          "chart": 2,
+          "content": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-010",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-010\\007_动态模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "world-map/3D tile motif dated",
+              "weak investor/data fit"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 89.3,
+        "relative_path": "01_应用场景\\13_通用商务演示\\模板\\001_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\13_通用商务演示\\模板\\001_旧版.pptx",
+        "source_exists": true,
+        "sha256": "9069bd87d1e59dab08780bb95673bc779da184fe11f9b54a7f0ee0bee7fbb0a6",
+        "slides": 35,
+        "charts": 0,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 1,
+          "agenda": 4,
+          "dense-composition": 28,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-001",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-001\\001_旧版.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "2017-era sky/gradient imagery",
+              "limited analytics"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 89.2,
+        "relative_path": "01_应用场景\\05_商业策划\\模板\\010_商业策划模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\05_商业策划\\模板\\010_商业策划模板.pptx",
+        "source_exists": false,
+        "sha256": "36ac35d78b33e27d0a12262e35c66e3d6be5905b78c25aa272f3118d449ebd64",
+        "slides": 40,
+        "charts": 1,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 36,
+          "agenda": 1,
+          "chart": 1,
+          "content": 1,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-007",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-007\\010_商业策划模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "investor-pitch"
+            ],
+            "risks": [
+              "2017 business-plan styling",
+              "requires complete evidence/design refresh"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 105.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "397c0a250e4601e424352cdb7f4c51b00e3652ebb3ed22c73a934f9308678857",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 105.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "9fb5f4a52672132ea9a3ff4e55c694041c6af9c4f9e0360f14f7d0ea1077b9b8",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 105.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "3c24291b7663c134bd492568fb3c91814366a720b22f5d8455f7506031af45a6",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 105.21,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "2c96db3c5e83a0bcec5cf2b9e9f04a75c8ead38a97b179be0f8836820239c062",
+        "slides": 110,
+        "charts": 48,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 32,
+          "dense-composition": 56,
+          "chart": 20,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 104.68,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "64582c88ab64452830d3630c1145a19e22c4a9f504a05d41fcab0f439d8f8bd1",
+        "slides": 100,
+        "charts": 20,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 29,
+          "dense-composition": 57,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 104.68,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "6038e6047ebe1e788bfea6274800645781a028eed5162a16adec182c6e82eece",
+        "slides": 100,
+        "charts": 20,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 29,
+          "dense-composition": 57,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.52,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\008_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\008_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "73ce3f5f6b1090337909834b5716e30b6f88abb181806380d982a7eb94f0dbe4",
+        "slides": 65,
+        "charts": 30,
+        "tables": 3,
+        "animation_xml": true,
+        "patterns": {
+          "content": 27,
+          "dense-composition": 20,
+          "chart": 14,
+          "minimal": 2,
+          "table": 2
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.5,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\054_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\054_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "e8bfd366cab843a7f14214f1dd2dfc19101d64f0ed783bbcd65641c7267470a2",
+        "slides": 72,
+        "charts": 11,
+        "tables": 2,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 2,
+          "content": 27,
+          "dense-composition": 29,
+          "chart": 11,
+          "table": 2,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "8a23c241bd7d4a9ae9aded16e07b68aca5021464d1b560270c63d62e5b0e6e36",
+        "slides": 59,
+        "charts": 12,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 27,
+          "dense-composition": 22,
+          "chart": 7,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "dc856ff26b91d8c7f328dd25c5ed1e2aab2a41c459f3a9800b02070839a4ad84",
+        "slides": 49,
+        "charts": 6,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 18,
+          "dense-composition": 25,
+          "chart": 4,
+          "table": 1,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\002_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "95073707ffd3e8d2725930f9f7045c2c241983e1e6061a500d49e31014c8cc16",
+        "slides": 59,
+        "charts": 12,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "content": 27,
+          "dense-composition": 22,
+          "chart": 7,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 102.24,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "ad6c62d885fddac59a9c1c9738bb5eac13522130b632384dabdb624f8f16e080",
+        "slides": 49,
+        "charts": 6,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 18,
+          "dense-composition": 25,
+          "chart": 4,
+          "table": 1,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 101.98,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "source_exists": true,
+        "sha256": "bab1824bc177b3d9c50329482d803bb9a42e57c41e0f7fa3b0c2c163ebad4948",
+        "slides": 86,
+        "charts": 15,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 34,
+          "agenda": 1,
+          "dense-composition": 38,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 101.98,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\038_工作模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\038_工作模板.pptx",
+        "source_exists": true,
+        "sha256": "700a17b04f8e133b44be73628a5908647abbc4acc4696b4132b119526e6d25f0",
+        "slides": 38,
+        "charts": 18,
+        "tables": 2,
+        "animation_xml": true,
+        "patterns": {
+          "content": 14,
+          "agenda": 1,
+          "chart": 11,
+          "dense-composition": 9,
+          "table": 2,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 101.98,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\011_欧美商务模板.pptx",
+        "source_exists": false,
+        "sha256": "e24ec748b4ce3f777eb9921047311e29621b0b9ba1df13facff2cf954a38b496",
+        "slides": 86,
+        "charts": 15,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 34,
+          "agenda": 1,
+          "dense-composition": 38,
+          "chart": 12,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 101.98,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\038_工作模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\038_工作模板.pptx",
+        "source_exists": false,
+        "sha256": "fae55c937d7542d8e0797dd63626336f8350328a21044c6e5a76c0301978da41",
+        "slides": 38,
+        "charts": 18,
+        "tables": 2,
+        "animation_xml": true,
+        "patterns": {
+          "content": 14,
+          "agenda": 1,
+          "chart": 11,
+          "dense-composition": 9,
+          "table": 2,
+          "closing": 1
+        },
+        "linked_candidates": []
+      }
+    ],
+    "wedding-bridal": [
+      {
+        "score": 86.7,
+        "relative_path": "03_主题场景\\02_婚礼相册\\模板\\004_婚礼相册模板.pptx",
+        "absolute_path": "C:\\PPT模板\\03_主题场景\\02_婚礼相册\\模板\\004_婚礼相册模板.pptx",
+        "source_exists": false,
+        "sha256": "eab67670c350df1e5a50fa52c08e618839589d64658558c0c7aa45ad3ac3cc7d",
+        "slides": 43,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 5,
+          "dense-composition": 38
+        },
+        "linked_candidates": [
+          {
+            "family_id": "03-004",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\03-004\\004_婚礼相册模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": null,
+            "visual_score": null,
+            "review_targets": [],
+            "risks": []
+          }
+        ]
+      },
+      {
+        "score": 86.38,
+        "relative_path": "03_主题场景\\02_婚礼相册\\模板\\008_婚礼相册模板.pptx",
+        "absolute_path": "C:\\PPT模板\\03_主题场景\\02_婚礼相册\\模板\\008_婚礼相册模板.pptx",
+        "source_exists": false,
+        "sha256": "13b29441fe24a45bbf1e3e16a7809d41cc2c554b09bc92c7502b422d21853c85",
+        "slides": 16,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 1,
+          "dense-composition": 4,
+          "content": 10,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "03-005",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\03-005\\008_婚礼相册模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": null,
+            "visual_score": null,
+            "review_targets": [],
+            "risks": []
+          }
+        ]
+      },
+      {
+        "score": 85.28,
+        "relative_path": "03_主题场景\\02_婚礼相册\\模板\\006_婚礼相册模板.pptx",
+        "absolute_path": "C:\\PPT模板\\03_主题场景\\02_婚礼相册\\模板\\006_婚礼相册模板.pptx",
+        "source_exists": false,
+        "sha256": "06ec03b9b1510850587c9cc2ee0c526e8e43bd0025a1a29f8a6c6d8cf08ac6aa",
+        "slides": 21,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 18,
+          "content": 3
+        },
+        "linked_candidates": [
+          {
+            "family_id": "03-001",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\03-001\\006_婚礼相册模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": null,
+            "visual_score": null,
+            "review_targets": [],
+            "risks": []
+          }
+        ]
+      },
+      {
+        "score": 85.14,
+        "relative_path": "03_主题场景\\02_婚礼相册\\模板\\005_婚礼相册模板.pptx",
+        "absolute_path": "C:\\PPT模板\\03_主题场景\\02_婚礼相册\\模板\\005_婚礼相册模板.pptx",
+        "source_exists": false,
+        "sha256": "85c10385c6d7123539d7087ee5493112c4b2da4596fc614252b8194741d94dba",
+        "slides": 43,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 5,
+          "content": 38
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 85.13,
+        "relative_path": "01_应用场景\\15_节日庆典\\模板\\047_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\15_节日庆典\\模板\\047_旧版.pptx",
+        "source_exists": true,
+        "sha256": "d2b701034442299c70f547695b25b8a7a3f12912d167e2349872bb5f1db1ff33",
+        "slides": 46,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 8,
+          "content": 16,
+          "agenda": 7,
+          "dense-composition": 14,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 84.77,
+        "relative_path": "01_应用场景\\15_节日庆典\\模板\\020_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\15_节日庆典\\模板\\020_旧版.pptx",
+        "source_exists": true,
+        "sha256": "1972f754622e778889fe0d7f44c09a0f15de6d128eb11930b29b7f5c199f0176",
+        "slides": 46,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 8,
+          "content": 21,
+          "dense-composition": 13,
+          "agenda": 3,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 84.77,
+        "relative_path": "01_应用场景\\15_节日庆典\\模板\\021_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\15_节日庆典\\模板\\021_旧版.pptx",
+        "source_exists": true,
+        "sha256": "af330abf6f4986bb5203074dad81f99df689c4fdf329f9dd60177c9112a49a79",
+        "slides": 46,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 8,
+          "content": 21,
+          "dense-composition": 13,
+          "agenda": 3,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 84.77,
+        "relative_path": "01_应用场景\\15_节日庆典\\模板\\038_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\15_节日庆典\\模板\\038_旧版.pptx",
+        "source_exists": true,
+        "sha256": "0e259cc4e106398ddbc452f4d9afbb421bbff03d7610d388d0b970398cf4ded4",
+        "slides": 46,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 8,
+          "content": 21,
+          "dense-composition": 13,
+          "agenda": 3,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 84.56,
+        "relative_path": "03_主题场景\\02_婚礼相册\\模板\\007_婚礼相册模板.pptx",
+        "absolute_path": "C:\\PPT模板\\03_主题场景\\02_婚礼相册\\模板\\007_婚礼相册模板.pptx",
+        "source_exists": false,
+        "sha256": "f565df5fa2af9133ee425f59506d47ec8bde31b81f3f77b683d6d8105b876bcd",
+        "slides": 12,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 3,
+          "dense-composition": 9
+        },
+        "linked_candidates": [
+          {
+            "family_id": "03-002",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\03-002\\007_婚礼相册模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": null,
+            "visual_score": null,
+            "review_targets": [],
+            "risks": []
+          }
+        ]
+      },
+      {
+        "score": 84.23,
+        "relative_path": "01_应用场景\\12_文艺相册与情感纪念\\模板\\001_文艺相册与情感纪念.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\12_文艺相册与情感纪念\\模板\\001_文艺相册与情感纪念.pptx",
+        "source_exists": false,
+        "sha256": "05d548169da3d49466dfcecf4447e790bb93df8c562f42ee62ea1926400eb660",
+        "slides": 20,
+        "charts": 1,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 3,
+          "content": 15,
+          "chart": 1,
+          "dense-composition": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 84.0,
+        "relative_path": "01_应用场景\\14_婚礼相册\\模板\\002_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\14_婚礼相册\\模板\\002_旧版.pptx",
+        "source_exists": true,
+        "sha256": "058ca861cd85ee0b4ccc255df93dcb2c430f65907388a2cec524de75d86f6393",
+        "slides": 15,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 4,
+          "dense-composition": 11
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 82.47,
+        "relative_path": "03_主题场景\\02_婚礼相册\\模板\\003_婚礼相册模板.pptx",
+        "absolute_path": "C:\\PPT模板\\03_主题场景\\02_婚礼相册\\模板\\003_婚礼相册模板.pptx",
+        "source_exists": false,
+        "sha256": "cc3e5c1656e706c278d0e6fb0eab3ca45712d9c1f9f2803e15604b3e0501a3ea",
+        "slides": 20,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 7,
+          "minimal": 1,
+          "content": 12
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 82.38,
+        "relative_path": "01_应用场景\\15_节日庆典\\模板\\048_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\15_节日庆典\\模板\\048_旧版.pptx",
+        "source_exists": true,
+        "sha256": "5364a26909fed17a42b021ffa3ad5555ad15412d8fbd8d0b85243ba55acb343d",
+        "slides": 46,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 3,
+          "dense-composition": 8,
+          "agenda": 31,
+          "content": 3,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 81.91,
+        "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\037_模板组.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\04_求职与竞聘\\模板\\037_模板组.pptx",
+        "source_exists": false,
+        "sha256": "7a047b9b6f426944e1c04268bdb0844f8d924232b1eab00365097ca8bc59d3d1",
+        "slides": 14,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 7,
+          "dense-composition": 5,
+          "minimal": 2
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 79.02,
+        "relative_path": "03_主题场景\\02_婚礼相册\\模板\\001_婚礼相册模板.pptx",
+        "absolute_path": "C:\\PPT模板\\03_主题场景\\02_婚礼相册\\模板\\001_婚礼相册模板.pptx",
+        "source_exists": false,
+        "sha256": "9380669dfa60061c3d1ffcd395cec37105c518923390a51ec0bf3b8a9faf7731",
+        "slides": 9,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 9
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 78.73,
+        "relative_path": "03_主题场景\\01_主题活动\\模板\\025_PPT模板宣传类.pptx",
+        "absolute_path": "C:\\PPT模板\\03_主题场景\\01_主题活动\\模板\\025_PPT模板宣传类.pptx",
+        "source_exists": false,
+        "sha256": "fab87b8c19b12e3ec5150956075d061ef60972f2e25a4292d95f52f5c7e5f708",
+        "slides": 14,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 11,
+          "minimal": 2,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 77.31,
+        "relative_path": "03_主题场景\\02_婚礼相册\\模板\\002_婚礼相册模板.pptx",
+        "absolute_path": "C:\\PPT模板\\03_主题场景\\02_婚礼相册\\模板\\002_婚礼相册模板.pptx",
+        "source_exists": false,
+        "sha256": "b590226a9aaddca0285a184c6bed8674aa0ba5d3d222bc5f91d9f1c224a8fcf3",
+        "slides": 17,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 7,
+          "dense-composition": 10
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 76.98,
+        "relative_path": "03_主题场景\\02_婚礼相册\\模板\\009_婚礼相册模板.pptx",
+        "absolute_path": "C:\\PPT模板\\03_主题场景\\02_婚礼相册\\模板\\009_婚礼相册模板.pptx",
+        "source_exists": false,
+        "sha256": "415fd5e443b73d58e47856a81d084ec6f31b2a7d92f6cbcbc653a9d027866333",
+        "slides": 12,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 8,
+          "content": 4
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 68.48,
+        "relative_path": "01_应用场景\\14_婚礼相册\\模板\\001_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\14_婚礼相册\\模板\\001_旧版.pptx",
+        "source_exists": true,
+        "sha256": "9fc1c6c9dc04ffe9827989397a9e08ea694909ca1bd8f12cdba6d5b69d304761",
+        "slides": 31,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": false,
+        "patterns": {
+          "content": 5,
+          "agenda": 1,
+          "dense-composition": 25
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 67.51,
+        "relative_path": "01_应用场景\\15_节日庆典\\模板\\058_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\15_节日庆典\\模板\\058_旧版.pptx",
+        "source_exists": true,
+        "sha256": "c559d045f0bb5f07328e1d22d66b87ad91e675c17b2d8eb0ab19ad6448943c8d",
+        "slides": 26,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": false,
+        "patterns": {
+          "minimal": 4,
+          "content": 14,
+          "dense-composition": 8
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 66.89,
+        "relative_path": "01_应用场景\\15_节日庆典\\模板\\045_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\15_节日庆典\\模板\\045_旧版.pptx",
+        "source_exists": true,
+        "sha256": "12362cc68d3fe5210c0c5ca026f28df0292569c84cb95f24d27db44db6349477",
+        "slides": 21,
+        "charts": 0,
+        "tables": 1,
+        "animation_xml": false,
+        "patterns": {
+          "minimal": 4,
+          "content": 8,
+          "agenda": 2,
+          "dense-composition": 5,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 62.66,
+        "relative_path": "01_应用场景\\14_婚礼相册\\模板\\003_旧版.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\14_婚礼相册\\模板\\003_旧版.pptx",
+        "source_exists": true,
+        "sha256": "ceb8dc8776328ad40ae8d61a4c6106c7d53cd7389c28d3049217f6bafb18932f",
+        "slides": 15,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": false,
+        "patterns": {
+          "closing": 3,
+          "content": 11,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      }
+    ],
+    "career-portfolio": [
+      {
+        "score": 88.27,
+        "relative_path": "04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+        "source_exists": true,
+        "sha256": "36df6642afe72d1d56d7dae5619f09ef8d7d7858882980490d67c1f45b855c16",
+        "slides": 27,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 14,
+          "agenda": 1,
+          "chart": 1,
+          "content": 11
+        },
+        "linked_candidates": [
+          {
+            "family_id": "04-008",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\04-008\\001_汇报总结模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 3,
+            "review_targets": [
+              "data-boardroom",
+              "generic-corporate",
+              "ai-industry"
+            ],
+            "risks": [
+              "blue glossy template look",
+              "internal use favored"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 95.54,
+        "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\039_模板组.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\04_求职与竞聘\\模板\\039_模板组.pptx",
+        "source_exists": true,
+        "sha256": "81c935dd9cb63e93036084bbf842bb00575290e258fd77cde288a861848f762d",
+        "slides": 23,
+        "charts": 6,
+        "tables": 11,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 18,
+          "chart": 2,
+          "table": 2,
+          "content": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "01-006",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\01-006\\039_模板组.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "primary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "career-portfolio"
+            ],
+            "risks": [
+              "resume-only",
+              "small text"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 88.59,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\007_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\007_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "80a91226e145d048f60a649a5c6460e91ca9a5962c4a0980715451a972099944",
+        "slides": 40,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 34,
+          "agenda": 1,
+          "chart": 2,
+          "content": 2,
+          "closing": 1
+        },
+        "linked_candidates": [
+          {
+            "family_id": "02-010",
+            "candidate_copy": "C:\\ppt-creater\\curated\\template-families\\02-010\\007_动态模板.pptx",
+            "candidate_copy_exists": true,
+            "visual_status": "secondary_candidate",
+            "visual_score": 2,
+            "review_targets": [
+              "generic-corporate"
+            ],
+            "risks": [
+              "world-map/3D tile motif dated",
+              "weak investor/data fit"
+            ]
+          }
+        ]
+      },
+      {
+        "score": 99.52,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\008_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\008_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "73ce3f5f6b1090337909834b5716e30b6f88abb181806380d982a7eb94f0dbe4",
+        "slides": 65,
+        "charts": 30,
+        "tables": 3,
+        "animation_xml": true,
+        "patterns": {
+          "content": 27,
+          "dense-composition": 20,
+          "chart": 14,
+          "minimal": 2,
+          "table": 2
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 96.79,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\030_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\030_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "8d200d8b4601964f4e658ab0ca07b0f4ccc2ec3b405712eb243377f86de162f3",
+        "slides": 36,
+        "charts": 4,
+        "tables": 2,
+        "animation_xml": true,
+        "patterns": {
+          "content": 30,
+          "agenda": 1,
+          "dense-composition": 1,
+          "chart": 3,
+          "table": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 95.84,
+        "relative_path": "01_应用场景\\03_教育与培训\\模板\\015_培训模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\03_教育与培训\\模板\\015_培训模板.pptx",
+        "source_exists": false,
+        "sha256": "b90de396d96415d6fce6823bfd87998a0cfddd6e8856198556e8628b5991411d",
+        "slides": 59,
+        "charts": 0,
+        "tables": 8,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 6,
+          "content": 45,
+          "table": 8
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 95.83,
+        "relative_path": "01_应用场景\\03_教育与培训\\模板\\002_培训模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\03_教育与培训\\模板\\002_培训模板.pptx",
+        "source_exists": false,
+        "sha256": "1521057c00e624033a7d88c41eb753cefcc1236545d9639a976527fcc54353d4",
+        "slides": 59,
+        "charts": 0,
+        "tables": 8,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 6,
+          "content": 45,
+          "table": 8
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 95.01,
+        "relative_path": "02_视觉风格\\01_动态风格\\模板\\001_动态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\01_动态风格\\模板\\001_动态模板.pptx",
+        "source_exists": false,
+        "sha256": "3133ba98a7b4db1447478452acae86fd0c035bba003da5e235ec90f886d7f3f6",
+        "slides": 36,
+        "charts": 4,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "content": 17,
+          "agenda": 1,
+          "dense-composition": 14,
+          "chart": 2,
+          "table": 1,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 93.64,
+        "relative_path": "01_应用场景\\03_教育与培训\\模板\\006_培训模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\03_教育与培训\\模板\\006_培训模板.pptx",
+        "source_exists": false,
+        "sha256": "954928fb2534122287523c466a272f0246d7c819390d3b957c2c5da8266feb71",
+        "slides": 58,
+        "charts": 0,
+        "tables": 5,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 6,
+          "content": 46,
+          "dense-composition": 1,
+          "table": 5
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 93.3,
+        "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\031_16比9比例.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\02_汇报与答辩\\模板\\031_16比9比例.pptx",
+        "source_exists": true,
+        "sha256": "ca1d378abb01e4c2d8d24a361e99b1805dc92443f0a24e366bdeceb034e6b402",
+        "slides": 45,
+        "charts": 0,
+        "tables": 3,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 16,
+          "agenda": 1,
+          "content": 24,
+          "table": 3,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 93.3,
+        "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\031_16比9比例.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\02_汇报与答辩\\模板\\031_16比9比例.pptx",
+        "source_exists": false,
+        "sha256": "c17f4ba777d054e9a75602a1ebb9dfa01887a39582bc91f38a695297e483e7ed",
+        "slides": 45,
+        "charts": 0,
+        "tables": 3,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 16,
+          "agenda": 1,
+          "content": 24,
+          "table": 3,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 93.08,
+        "relative_path": "02_视觉风格\\07_扁平化\\模板\\041_扁平化模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\07_扁平化\\模板\\041_扁平化模板.pptx",
+        "source_exists": false,
+        "sha256": "965bd532dd26428c1247b46027c912f9dc44121709b8802f34d30c5fb97cd060",
+        "slides": 49,
+        "charts": 0,
+        "tables": 4,
+        "animation_xml": true,
+        "patterns": {
+          "content": 30,
+          "table": 4,
+          "dense-composition": 14,
+          "closing": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 93.06,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\083_动态商务模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\083_动态商务模板.pptx",
+        "source_exists": true,
+        "sha256": "99a72d1ef5f379002c3c25da304a7b5498801fc851b42d070d4d1e4762c8dff9",
+        "slides": 29,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 18,
+          "minimal": 5,
+          "dense-composition": 4,
+          "chart": 2
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 93.06,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\083_动态商务模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\083_动态商务模板.pptx",
+        "source_exists": false,
+        "sha256": "33698ab93631bb4bb5227774d5f58e0433e7ebf737a8533b69e8fbd682d37b52",
+        "slides": 29,
+        "charts": 4,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 18,
+          "minimal": 5,
+          "dense-composition": 4,
+          "chart": 2
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 91.29,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\035_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\035_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "14552b405688e1233ee4d10481b7471ec51d740b4a03cb4b9ba7aa579157d291",
+        "slides": 13,
+        "charts": 0,
+        "tables": 7,
+        "animation_xml": true,
+        "patterns": {
+          "content": 5,
+          "dense-composition": 5,
+          "table": 2,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 90.99,
+        "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\022_模板组.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\04_求职与竞聘\\模板\\022_模板组.pptx",
+        "source_exists": false,
+        "sha256": "126bdee6f7be8153754f4f59daab29b4efbfb5849914ba56c09845fee2f8fba3",
+        "slides": 26,
+        "charts": 3,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 8,
+          "dense-composition": 7,
+          "chart": 3,
+          "closing": 2,
+          "content": 6
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 89.09,
+        "relative_path": "04_设计素材\\02_版式与逻辑\\模板\\001_版式与逻辑.pptx",
+        "absolute_path": "C:\\PPT模板\\04_设计素材\\02_版式与逻辑\\模板\\001_版式与逻辑.pptx",
+        "source_exists": false,
+        "sha256": "edd08fff0bb7159676473599983acc76103a6645d381d21d7bd0b5cc326c952c",
+        "slides": 604,
+        "charts": 11,
+        "tables": 23,
+        "animation_xml": true,
+        "patterns": {
+          "minimal": 11,
+          "agenda": 13,
+          "content": 384,
+          "chart": 6,
+          "dense-composition": 186,
+          "table": 4
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 89.06,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\035_工作模板.pptx",
+        "absolute_path": "C:\\ppt-creater\\legacy-converted\\01_应用场景\\01_工作与商务\\模板\\035_工作模板.pptx",
+        "source_exists": true,
+        "sha256": "88a52c0a712506fc2a2b46ecc5177b679d2291606f0e3217eba93a81262cc773",
+        "slides": 42,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 24,
+          "closing": 1,
+          "dense-composition": 17
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 89.06,
+        "relative_path": "01_应用场景\\01_工作与商务\\模板\\035_工作模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\01_工作与商务\\模板\\035_工作模板.pptx",
+        "source_exists": false,
+        "sha256": "b6885a57f038472a254ff9f44f2ab86d7114527cd9b36b31185a85285ef2c973",
+        "slides": 42,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 24,
+          "closing": 1,
+          "dense-composition": 17
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 88.57,
+        "relative_path": "02_视觉风格\\05_中国风\\模板\\044_中国风模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\05_中国风\\模板\\044_中国风模板.pptx",
+        "source_exists": false,
+        "sha256": "51e939aa492aad8afa5e50f817b61e147ebb95ba4c0be3ed72013aae2ccde98b",
+        "slides": 27,
+        "charts": 1,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 16,
+          "dense-composition": 4,
+          "minimal": 5,
+          "agenda": 1,
+          "chart": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 87.65,
+        "relative_path": "02_视觉风格\\02_静态风格\\模板\\047_静态模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\02_静态风格\\模板\\047_静态模板.pptx",
+        "source_exists": false,
+        "sha256": "43ec8e4f3cdfad5872d500cb2f5d7ccf3637a08509fb0eb2de37917a16de0684",
+        "slides": 32,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 20,
+          "dense-composition": 11,
+          "minimal": 1
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 87.51,
+        "relative_path": "01_应用场景\\05_商业策划\\模板\\011_商业策划模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\05_商业策划\\模板\\011_商业策划模板.pptx",
+        "source_exists": false,
+        "sha256": "8d1f2ede0ee5cc9fad5ca2058d4d81ee9a68ad940488e7126cb62da0bdab3b15",
+        "slides": 41,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 19,
+          "content": 22
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 87.44,
+        "relative_path": "02_视觉风格\\07_扁平化\\模板\\066_扁平化模板.pptx",
+        "absolute_path": "C:\\PPT模板\\02_视觉风格\\07_扁平化\\模板\\066_扁平化模板.pptx",
+        "source_exists": false,
+        "sha256": "ff0296b0056b8407aa9a41595cfd0099cea69e92887d9c6342e7b57c40dc3e86",
+        "slides": 29,
+        "charts": 2,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 21,
+          "agenda": 1,
+          "dense-composition": 5,
+          "chart": 2
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 87.33,
+        "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\050_模板组.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\04_求职与竞聘\\模板\\050_模板组.pptx",
+        "source_exists": false,
+        "sha256": "755c89ed4ec95ba08396ba21df92c848531da26d63299fe0a135636e0aede987",
+        "slides": 24,
+        "charts": 0,
+        "tables": 0,
+        "animation_xml": true,
+        "patterns": {
+          "content": 5,
+          "dense-composition": 12,
+          "minimal": 7
+        },
+        "linked_candidates": []
+      },
+      {
+        "score": 86.73,
+        "relative_path": "01_应用场景\\03_教育与培训\\模板\\009_培训模板.pptx",
+        "absolute_path": "C:\\PPT模板\\01_应用场景\\03_教育与培训\\模板\\009_培训模板.pptx",
+        "source_exists": false,
+        "sha256": "efb94ed8a99bdcdaeac020edc542afec2ee0498b4a279ee720f23bb8f6c0816e",
+        "slides": 43,
+        "charts": 0,
+        "tables": 1,
+        "animation_xml": true,
+        "patterns": {
+          "dense-composition": 24,
+          "agenda": 1,
+          "content": 16,
+          "table": 1,
+          "closing": 1
+        },
+        "linked_candidates": []
+      }
+    ]
+  }
+}

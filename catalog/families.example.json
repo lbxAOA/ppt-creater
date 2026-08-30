@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "families": [
+    {
+      "family_id": "tech-navy-01",
+      "name": "深蓝科技研究（示例注册表）",
+      "source_template": "REPLACE_WITH_TEMPLATE_PATH.pptx",
+      "use_cases": ["AI行业研究", "技术方案", "投资人技术尽调"],
+      "visual_tags": ["深色", "科技", "正式"],
+      "aspect_ratio": "16:9",
+      "theme": {
+        "bg": "F6F8FB",
+        "bg_dark": "071C35",
+        "surface": "FFFFFF",
+        "text": "172033",
+        "text_muted": "6B7280",
+        "accent_primary": "00A6A6",
+        "accent_secondary": "F59E0B",
+        "line": "D8E1EA",
+        "font_heading": "Microsoft YaHei",
+        "font_body": "Microsoft YaHei"
+      },
+      "animation_policy": {
+        "allowed_patterns": ["fade", "left_to_right_sequence", "series_by_series"],
+        "max_steps": 6,
+        "no_decorative_motion": true
+      },
+      "slides": [
+        {
+          "slide_id": "cover",
+          "source_slide_index": 1,
+          "type": "cover",
+          "animation_pattern": "fade",
+          "slots": [
+            {"name": "title", "shape_name": "slot_title", "kind": "text", "max_chars_cn": 26, "animation_locked": true},
+            {"name": "subtitle", "shape_name": "slot_subtitle", "kind": "text", "max_chars_cn": 40, "animation_locked": true}
+          ]
+        },
+        {
+          "slide_id": "architecture-sequence",
+          "source_slide_index": 8,
+          "type": "architecture_sequence",
+          "animation_pattern": "left_to_right_sequence",
+          "slots": [
+            {"name": "title", "shape_name": "slot_title", "kind": "text", "max_chars_cn": 26, "animation_locked": true},
+            {"name": "world_model", "shape_name": "slot_world_model", "kind": "text", "max_chars_cn": 18, "animation_locked": true}
+          ]
+        }
+      ]
+    }
+  ]
+}

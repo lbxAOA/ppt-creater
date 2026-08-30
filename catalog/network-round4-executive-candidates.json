@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "status": "candidate_only",
+  "generated_at_utc": "2026-08-30T01:40:22+00:00",
+  "review_artifact": "C:\\ppt-creater\\output\\network-round4-executive-candidates-style-review.pdf",
+  "contact_sheet_pages": 8,
+  "policy": {
+    "destination": "C:/ppt-creater/network-supplements",
+    "original_library_write": false,
+    "production_auto_promotion": false,
+    "single_source_deck_required": true,
+    "license_review_required": true,
+    "style_review_required": true,
+    "require_explicit_user_approval_before_promotion": true
+  },
+  "candidates": [
+    {
+      "id": "NET-09",
+      "title": "KPI Scorecard Infographic",
+      "file": "kpi-scorecard-infographic.pptx",
+      "targets": [
+        "data-boardroom",
+        "generic-corporate"
+      ],
+      "missing_page_types": [
+        "kpi_scorecard",
+        "executive_summary",
+        "trend_callout"
+      ],
+      "source": "SlidesCarnival",
+      "page_url": "https://www.slidescarnival.com/template/kpi-scorecard-infographic/",
+      "pptx_url": "https://www.slidescarnival.com/download/sc02590/kpi-scorecard-infographic/pptx",
+      "review_note": "单页信息图组件；不作为完整模板族替换候选。资源页与致谢页不进入生产页面。",
+      "source_pptx": "C:\\ppt-creater\\network-supplements\\NET-09\\kpi-scorecard-infographic.pptx",
+      "file_bytes": 1201324,
+      "sha256": "6f205ebf773b7317271d7409705a5c52c1a60378ba5198a330dc7f803e855ac1",
+      "package": {
+        "slide_count": 3,
+        "slides_with_timing_xml": 0,
+        "slides_with_transition_xml": 0
+      },
+      "previews_dir": "C:\\ppt-creater\\network-supplements\\NET-09\\previews",
+      "license_status": "manual_external_review_required",
+      "ingest_status": "downloaded_structurally_verified_pending_user_style_review"
+    },
+    {
+      "id": "NET-10",
+      "title": "Simple Quarterly Business Review Slides",
+      "file": "quarterly-business-review.pptx",
+      "targets": [
+        "data-boardroom",
+        "generic-corporate",
+        "investor-pitch"
+      ],
+      "missing_page_types": [
+        "quarterly_review",
+        "kpi",
+        "revenue_breakdown",
+        "next_steps"
+      ],
+      "source": "SlidesCarnival",
+      "page_url": "https://www.slidescarnival.com/template/quarterly-business-review-slides/329420",
+      "pptx_url": "https://www.slidescarnival.com/download/sc03261/quarterly-business-review-slides/pptx",
+      "review_note": "完整经营复盘页面系统；视觉质量须由用户判断，封面和业务场景偏通用。",
+      "source_pptx": "C:\\ppt-creater\\network-supplements\\NET-10\\quarterly-business-review.pptx",
+      "file_bytes": 66604916,
+      "sha256": "ff99af1499a2d34fee156fdb275784fe3dcb7e0d3442febc6dd3cde1a2a0cfd8",
+      "package": {
+        "slide_count": 17,
+        "slides_with_timing_xml": 0,
+        "slides_with_transition_xml": 16
+      },
+      "previews_dir": "C:\\ppt-creater\\network-supplements\\NET-10\\previews",
+      "license_status": "manual_external_review_required",
+      "ingest_status": "downloaded_structurally_verified_pending_user_style_review"
+    },
+    {
+      "id": "NET-12",
+      "title": "Financial Management for Small Businesses Consulting",
+      "file": "financial-management-consulting.pptx",
+      "targets": [
+        "data-boardroom",
+        "generic-corporate",
+        "investor-pitch"
+      ],
+      "missing_page_types": [
+        "financial_consulting",
+        "business_case",
+        "timeline",
+        "action_plan"
+      ],
+      "source": "SlidesCarnival",
+      "page_url": "https://www.slidescarnival.com/template/financial-management-for-small-businesses-consulting/161609",
+      "pptx_url": "https://www.slidescarnival.com/download/sc01551/financial-management-for-small-businesses-consulting/pptx",
+      "review_note": "完整咨询型页面系统；高对比荧光绿适合年轻化场景，不宜直接作为严肃高管汇报默认模板。",
+      "source_pptx": "C:\\ppt-creater\\network-supplements\\NET-12\\financial-management-consulting.pptx",
+      "file_bytes": 26618107,
+      "sha256": "5d364881047926febd3cb344295ca0b7d5cc01268b0ffbc46cb7fda21d8d5ed0",
+      "package": {
+        "slide_count": 19,
+        "slides_with_timing_xml": 0,
+        "slides_with_transition_xml": 18
+      },
+      "previews_dir": "C:\\ppt-creater\\network-supplements\\NET-12\\previews",
+      "license_status": "manual_external_review_required",
+      "ingest_status": "downloaded_structurally_verified_pending_user_style_review"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "family_id": "ai-industry-navy-v1",
+  "name": "AI 行业研究｜深蓝科技",
+  "status": "production_static_v1",
+  "purpose": [
+    "AI行业研究",
+    "技术方案",
+    "投资人技术简报",
+    "具身智能产业分析"
+  ],
+  "source_assets": [
+    "C:\\ppt-creater\\template-library\\ai-industry-navy-v1\\source-deck.pptx",
+    "C:\\ppt-creater\\template-library\\ai-industry-navy-v1\\chart-reference.pptx"
+  ],
+  "aspect_ratio": "16:9",
+  "theme": {
+    "background": "F5F8FC",
+    "navy": "0B1F3A",
+    "navy_2": "123A63",
+    "ink": "172033",
+    "muted": "64748B",
+    "accent": "00A6A6",
+    "accent_light": "DFF6F4",
+    "orange": "F59E0B",
+    "line": "DCE5EF",
+    "font_cn": "Microsoft YaHei",
+    "font_latin": "Aptos"
+  },
+  "typography": {
+    "title": 28,
+    "section": 24,
+    "body": 17,
+    "caption": 10,
+    "kpi": 32
+  },
+  "rules": {
+    "one_family_per_deck": true,
+    "safe_margin_inches": 0.55,
+    "max_title_lines": 2,
+    "max_body_bullets": 5,
+    "min_body_pt": 16,
+    "title_style": "结论先行",
+    "source_line_required": true,
+    "motion": "静态生产版；动画页需在 PowerPoint 中完成 slot 标注和播放验收后启用"
+  },
+  "slide_types": [
+    "cover",
+    "executive-summary",
+    "market-map",
+    "technology-stack",
+    "value-chain",
+    "investment-logic",
+    "risk-matrix",
+    "roadmap",
+    "recommendation",
+    "sources"
+  ]
+}

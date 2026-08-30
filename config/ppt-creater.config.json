@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "library_root": "C:/ppt-creater/curated/template-families",
+  "catalog_root": "catalog",
+  "output_root": "output",
+  "scan": {
+    "extensions": [".pptx"],
+    "max_files_per_run": 0,
+    "include_hidden": false
+  },
+  "policy": {
+    "one_family_per_deck": true,
+    "preserve_animation_shapes": true,
+    "min_body_font_pt": 16,
+    "max_bullets_per_slide": 6,
+    "require_sources_for_research_decks": true
+  }
+}

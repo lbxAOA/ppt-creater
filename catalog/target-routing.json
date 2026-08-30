@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "targets": {
+    "academic-clean": {
+      "description": "论文答辩、组会、开题、课程与科研汇报",
+      "must_have": ["high_readability", "research_structure", "sources_area"],
+      "avoid": ["excessive_decorative_motion", "tiny_body_text"]
+    },
+    "ai-industry": {
+      "description": "AI、具身智能、技术战略与产业研究",
+      "must_have": ["data_capability", "technology_diagrams", "comparison_layouts"],
+      "avoid": ["generic_stock_photos", "soft_lifestyle_aesthetic"]
+    },
+    "investor-pitch": {
+      "description": "创业融资、路演、投资人更新",
+      "must_have": ["strong_narrative", "metrics_layouts", "market_competition_layouts"],
+      "avoid": ["student_template_signals", "overly_dense_pages"]
+    },
+    "data-boardroom": {
+      "description": "经营分析、咨询、董事会和管理层汇报",
+      "must_have": ["charts", "tables", "kpis", "risk_action_layouts"],
+      "avoid": ["low_contrast", "decorative_heavy_pages"]
+    },
+    "marketing-event": {
+      "description": "品牌宣传、活动、展会、教育与公开演讲",
+      "must_have": ["visual_impact", "image_focus", "section_rhythm"],
+      "avoid": ["dense_tables", "overly_dry_boardroom_style"]
+    }
+  },
+  "quality_gate": {
+    "production_ready": {"visual_maturity_min": 4, "readability_min": 4, "editability_min": 4},
+    "animation_ready": {"requires_named_slots": true, "requires_powerpoint_playback_verification": true}
+  }
+}

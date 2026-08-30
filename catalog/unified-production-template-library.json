@@ -1,0 +1,368 @@
+{
+  "schema_version": 1,
+  "naming_convention": {
+    "family_id": "<origin>-<route-or-style>-<descriptor>, lowercase kebab-case",
+    "origins": {
+      "local": "user-owned production source",
+      "external": "third-party intake source"
+    },
+    "provenance_id": "NET-XX identifiers remain immutable source-intake records"
+  },
+  "policy": {
+    "one_family_per_deck": true,
+    "external_license_gate": "manual_external_review_required",
+    "strict_native_only": true,
+    "new_shapes": 0
+  },
+  "coverage": {
+    "required_targets": [
+      "academic-clean",
+      "ai-industry",
+      "investor-pitch",
+      "data-boardroom",
+      "brand-company-profile",
+      "generic-corporate",
+      "marketing-event",
+      "culture-tourism",
+      "wedding-bridal",
+      "career-portfolio",
+      "b2b-solution",
+      "technical-product"
+    ],
+    "missing_targets": [],
+    "conclusion": "No additional template intake is required for the supported production routes."
+  },
+  "templates": {
+    "local-modern-report": {
+      "family_id": "local-modern-report",
+      "canonical_name": "Modern Research Report",
+      "source_id": "LOCAL-01",
+      "template_origin": "local",
+      "license_status": "user_owned",
+      "source_pptx": "C:\\ppt-creater\\template-library\\local-production-sources\\modern-report-ai-investor-academic\\source.pptx",
+      "master_pptx": "C:\\ppt-creater\\production-library\\local-modern-report\\master.pptx",
+      "validation_pptx": "C:\\ppt-creater\\production-library\\local-modern-report\\validation\\filled-validation.pptx",
+      "route_targets": [
+        "academic-clean"
+      ],
+      "strict_native_only": true,
+      "new_shapes": 0,
+      "powerpoint_playback": true,
+      "status": "production_ready"
+    },
+    "local-wedding-album": {
+      "family_id": "local-wedding-album",
+      "canonical_name": "Wedding Album",
+      "source_id": "LOCAL-05",
+      "template_origin": "local",
+      "license_status": "user_owned",
+      "source_pptx": "C:\\ppt-creater\\template-library\\local-production-sources\\wedding-bridal\\source.pptx",
+      "master_pptx": "C:\\ppt-creater\\production-library\\local-wedding-album\\master.pptx",
+      "validation_pptx": "C:\\ppt-creater\\production-library\\local-wedding-album\\validation\\filled-validation.pptx",
+      "route_targets": [
+        "wedding-bridal"
+      ],
+      "strict_native_only": true,
+      "new_shapes": 0,
+      "powerpoint_playback": true,
+      "status": "production_ready"
+    },
+    "external-investor-modern": {
+      "family_id": "external-investor-modern",
+      "canonical_name": "Investor Modern",
+      "source_id": "NET-01",
+      "template_origin": "external",
+      "license_status": "manual_external_review_required",
+      "source_pptx": "C:\\ppt-creater\\network-supplements\\NET-01\\pitch-with-confidence.pptx",
+      "source_url": "https://slidesmania.com/free-simple-business-pitch-free-template/",
+      "master_pptx": "C:\\ppt-creater\\network-production-library\\external-investor-modern\\master.pptx",
+      "validation_pptx": "C:\\ppt-creater\\network-production-library\\validation\\external-investor-modern\\filled-validation.pptx",
+      "route_targets": [
+        "ai-industry",
+        "investor-pitch"
+      ],
+      "strict_native_only": true,
+      "new_shapes": 0,
+      "powerpoint_playback": true,
+      "status": "production_ready"
+    },
+    "external-company-professional": {
+      "family_id": "external-company-professional",
+      "canonical_name": "Company Professional",
+      "source_id": "NET-02",
+      "template_origin": "external",
+      "license_status": "manual_external_review_required",
+      "source_pptx": "C:\\ppt-creater\\network-supplements\\NET-02\\simple-professional.pptx",
+      "source_url": null,
+      "master_pptx": "C:\\ppt-creater\\network-production-library\\external-company-professional\\master.pptx",
+      "validation_pptx": "C:\\ppt-creater\\network-production-library\\validation\\external-company-professional\\filled-validation.pptx",
+      "route_targets": [
+        "brand-company-profile",
+        "data-boardroom",
+        "generic-corporate"
+      ],
+      "strict_native_only": true,
+      "new_shapes": 0,
+      "powerpoint_playback": true,
+      "status": "production_ready"
+    },
+    "external-career-portfolio": {
+      "family_id": "external-career-portfolio",
+      "canonical_name": "Career Portfolio",
+      "source_id": "NET-03",
+      "template_origin": "external",
+      "license_status": "manual_external_review_required",
+      "source_pptx": "C:\\ppt-creater\\network-supplements\\NET-03\\my-portfolio.pptx",
+      "source_url": null,
+      "master_pptx": "C:\\ppt-creater\\network-production-library\\external-career-portfolio\\master.pptx",
+      "validation_pptx": "C:\\ppt-creater\\network-production-library\\validation\\external-career-portfolio\\filled-validation.pptx",
+      "route_targets": [
+        "career-portfolio"
+      ],
+      "strict_native_only": true,
+      "new_shapes": 0,
+      "powerpoint_playback": true,
+      "status": "production_ready"
+    },
+    "external-wedding-amelia": {
+      "family_id": "external-wedding-amelia",
+      "canonical_name": "Wedding Amelia",
+      "source_id": "NET-04",
+      "template_origin": "external",
+      "license_status": "manual_external_review_required",
+      "source_pptx": "C:\\ppt-creater\\network-supplements\\NET-04\\amelia-wedding.pptx",
+      "source_url": null,
+      "master_pptx": "C:\\ppt-creater\\network-production-library\\external-wedding-amelia\\master.pptx",
+      "validation_pptx": "C:\\ppt-creater\\network-production-library\\validation\\external-wedding-amelia\\filled-validation.pptx",
+      "route_targets": [
+        "wedding-bridal"
+      ],
+      "strict_native_only": true,
+      "new_shapes": 0,
+      "powerpoint_playback": true,
+      "status": "production_ready"
+    },
+    "external-event-culture-tourism": {
+      "family_id": "external-event-culture-tourism",
+      "canonical_name": "Event Culture Tourism",
+      "source_id": "NET-05",
+      "template_origin": "external",
+      "license_status": "manual_external_review_required",
+      "source_pptx": "C:\\ppt-creater\\network-supplements\\NET-05\\travel-tourism-industry.pptx",
+      "source_url": null,
+      "master_pptx": "C:\\ppt-creater\\network-production-library\\external-event-culture-tourism\\master.pptx",
+      "validation_pptx": "C:\\ppt-creater\\network-production-library\\validation\\external-event-culture-tourism\\filled-validation.pptx",
+      "route_targets": [
+        "marketing-event",
+        "culture-tourism"
+      ],
+      "strict_native_only": true,
+      "new_shapes": 0,
+      "powerpoint_playback": true,
+      "status": "production_ready"
+    },
+    "external-investor-strategy": {
+      "family_id": "external-investor-strategy",
+      "canonical_name": "Investor Strategy",
+      "source_id": "NET-06",
+      "template_origin": "external",
+      "license_status": "manual_external_review_required",
+      "source_pptx": "C:\\ppt-creater\\network-supplements\\NET-06\\medeley-business.pptx",
+      "source_url": null,
+      "master_pptx": "C:\\ppt-creater\\network-production-library\\external-investor-strategy\\master.pptx",
+      "validation_pptx": "C:\\ppt-creater\\network-production-library\\validation\\external-investor-strategy\\filled-validation.pptx",
+      "route_targets": [
+        "investor-pitch",
+        "ai-industry"
+      ],
+      "strict_native_only": true,
+      "new_shapes": 0,
+      "powerpoint_playback": true,
+      "status": "production_ready"
+    },
+    "external-b2b-market-analysis": {
+      "family_id": "external-b2b-market-analysis",
+      "canonical_name": "B2B Market Analysis",
+      "source_id": "NET-07",
+      "template_origin": "external",
+      "license_status": "manual_external_review_required",
+      "source_pptx": "C:\\ppt-creater\\network-supplements\\NET-07\\marketing-analysis.pptx",
+      "source_url": null,
+      "master_pptx": "C:\\ppt-creater\\network-production-library\\external-b2b-market-analysis\\master.pptx",
+      "validation_pptx": "C:\\ppt-creater\\network-production-library\\validation\\external-b2b-market-analysis\\filled-validation.pptx",
+      "route_targets": [
+        "b2b-solution",
+        "brand-company-profile"
+      ],
+      "strict_native_only": true,
+      "new_shapes": 0,
+      "powerpoint_playback": true,
+      "status": "production_ready"
+    },
+    "external-tech-product-workflow": {
+      "family_id": "external-tech-product-workflow",
+      "canonical_name": "Tech Product Workflow",
+      "source_id": "NET-08",
+      "template_origin": "external",
+      "license_status": "manual_external_review_required",
+      "source_pptx": "C:\\ppt-creater\\network-supplements\\NET-08\\interface-file-folders.pptx",
+      "source_url": null,
+      "master_pptx": "C:\\ppt-creater\\network-production-library\\external-tech-product-workflow\\master.pptx",
+      "validation_pptx": "C:\\ppt-creater\\network-production-library\\validation\\external-tech-product-workflow\\filled-validation.pptx",
+      "route_targets": [
+        "technical-product",
+        "ai-industry"
+      ],
+      "strict_native_only": true,
+      "new_shapes": 0,
+      "powerpoint_playback": true,
+      "status": "production_ready"
+    },
+    "external-quarterly-business-review": {
+      "family_id": "external-quarterly-business-review",
+      "canonical_name": "Quarterly Business Review",
+      "source_id": "NET-10",
+      "template_origin": "external",
+      "license_status": "manual_external_review_required",
+      "source_pptx": "C:\\ppt-creater\\network-supplements\\NET-10\\quarterly-business-review.pptx",
+      "source_url": null,
+      "master_pptx": "C:\\ppt-creater\\network-production-library\\external-quarterly-business-review\\master.pptx",
+      "validation_pptx": "C:\\ppt-creater\\network-production-library\\validation\\external-quarterly-business-review\\filled-validation.pptx",
+      "route_targets": [
+        "data-boardroom",
+        "generic-corporate",
+        "investor-pitch"
+      ],
+      "strict_native_only": true,
+      "new_shapes": 0,
+      "powerpoint_playback": true,
+      "status": "production_ready"
+    },
+    "external-financial-management-consulting": {
+      "family_id": "external-financial-management-consulting",
+      "canonical_name": "Financial Management Consulting",
+      "source_id": "NET-12",
+      "template_origin": "external",
+      "license_status": "manual_external_review_required",
+      "source_pptx": "C:\\ppt-creater\\network-supplements\\NET-12\\financial-management-consulting.pptx",
+      "source_url": null,
+      "master_pptx": "C:\\ppt-creater\\network-production-library\\external-financial-management-consulting\\master.pptx",
+      "validation_pptx": "C:\\ppt-creater\\network-production-library\\validation\\external-financial-management-consulting\\filled-validation.pptx",
+      "route_targets": [
+        "data-boardroom",
+        "generic-corporate",
+        "investor-pitch"
+      ],
+      "strict_native_only": true,
+      "new_shapes": 0,
+      "powerpoint_playback": true,
+      "status": "production_ready"
+    },
+    "external-kpi-scorecard": {
+      "family_id": "external-kpi-scorecard",
+      "canonical_name": "Kpi Scorecard",
+      "source_id": "NET-09",
+      "template_origin": "external",
+      "license_status": "manual_external_review_required",
+      "source_pptx": "C:\\ppt-creater\\network-supplements\\NET-09\\kpi-scorecard-infographic.pptx",
+      "source_url": null,
+      "master_pptx": "C:\\ppt-creater\\network-production-library\\external-kpi-scorecard\\master.pptx",
+      "validation_pptx": "C:\\ppt-creater\\network-production-library\\validation\\external-kpi-scorecard\\filled-validation.pptx",
+      "route_targets": [
+        "data-boardroom",
+        "generic-corporate"
+      ],
+      "strict_native_only": true,
+      "new_shapes": 0,
+      "powerpoint_playback": true,
+      "status": "production_ready"
+    },
+    "external-ai-tool-pitch": {
+      "family_id": "external-ai-tool-pitch",
+      "canonical_name": "Ai Tool Pitch",
+      "source_id": "NET-13",
+      "template_origin": "external",
+      "license_status": "manual_external_review_required",
+      "source_pptx": "C:\\ppt-creater\\network-supplements\\NET-13\\minimal-ai-tool-pitch-deck.pptx",
+      "source_url": null,
+      "master_pptx": "C:\\ppt-creater\\network-production-library\\external-ai-tool-pitch\\master.pptx",
+      "validation_pptx": "C:\\ppt-creater\\network-production-library\\validation\\external-ai-tool-pitch\\filled-validation.pptx",
+      "route_targets": [
+        "ai-industry",
+        "technical-product",
+        "investor-pitch"
+      ],
+      "strict_native_only": true,
+      "new_shapes": 0,
+      "powerpoint_playback": true,
+      "status": "production_ready"
+    }
+  },
+  "routes": {
+    "academic-clean": {
+      "primary": "local-modern-report",
+      "alternatives": []
+    },
+    "ai-industry": {
+      "primary": "external-ai-tool-pitch",
+      "alternatives": [
+        "external-tech-product-workflow",
+        "external-investor-modern"
+      ]
+    },
+    "investor-pitch": {
+      "primary": "external-investor-modern",
+      "alternatives": [
+        "external-investor-strategy",
+        "external-ai-tool-pitch"
+      ]
+    },
+    "data-boardroom": {
+      "primary": "external-quarterly-business-review",
+      "alternatives": [
+        "external-kpi-scorecard",
+        "external-financial-management-consulting"
+      ]
+    },
+    "brand-company-profile": {
+      "primary": "external-company-professional",
+      "alternatives": [
+        "external-b2b-market-analysis"
+      ]
+    },
+    "generic-corporate": {
+      "primary": "external-company-professional",
+      "alternatives": [
+        "external-quarterly-business-review"
+      ]
+    },
+    "marketing-event": {
+      "primary": "external-event-culture-tourism",
+      "alternatives": []
+    },
+    "culture-tourism": {
+      "primary": "external-event-culture-tourism",
+      "alternatives": []
+    },
+    "wedding-bridal": {
+      "primary": "local-wedding-album",
+      "alternatives": [
+        "external-wedding-amelia"
+      ]
+    },
+    "career-portfolio": {
+      "primary": "external-career-portfolio",
+      "alternatives": []
+    },
+    "b2b-solution": {
+      "primary": "external-b2b-market-analysis",
+      "alternatives": []
+    },
+    "technical-product": {
+      "primary": "external-tech-product-workflow",
+      "alternatives": [
+        "external-ai-tool-pitch"
+      ]
+    }
+  }
+}

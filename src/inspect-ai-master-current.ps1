@@ -1,0 +1,4 @@
+$input='C:\ppt-creater\production-template-library\ai-industry\master.pptx'
+$out='C:\ppt-creater\catalog\ai-master-current-text.json'
+$app=New-Object -ComObject PowerPoint.Application;$app.Visible=-1
+try{$p=$app.Presentations.Open($input,$true,$false,$false);$items=@();for($s=1;$s -le $p.Slides.Count;$s++){$texts=@();for($i=1;$i -le $p.Slides.Item($s).Shapes.Count;$i++){$sh=$p.Slides.Item($s).Shapes.Item($i);try{if($sh.HasTextFrame -and $sh.TextFrame.HasText){$texts+=[ordered]@{i=$i;name=$sh.Name;text=$sh.TextFrame.TextRange.Text}}}catch{}};$items+=[ordered]@{slide=$s;effects=$p.Slides.Item($s).TimeLine.MainSequence.Count;texts=$texts}};$p.Close();$items|ConvertTo-Json -Depth 5|Set-Content $out -Encoding utf8}finally{try{$app.Quit()}catch{};try{[System.Runtime.Interopservices.Marshal]::ReleaseComObject($app)|Out-Null}catch{}}

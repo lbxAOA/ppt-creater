@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "status": "candidate_only",
+  "generated_at_utc": "2026-08-30T01:49:31+00:00",
+  "review_artifact": "C:\\ppt-creater\\output\\network-round5-ai-tech-candidate-style-review.pdf",
+  "contact_sheet_pages": 4,
+  "policy": {
+    "original_library_write": false,
+    "production_auto_promotion": false,
+    "single_source_deck_required": true,
+    "license_review_required": true,
+    "style_review_required": true,
+    "require_explicit_user_approval_before_promotion": true
+  },
+  "candidates": [
+    {
+      "id": "NET-13",
+      "title": "Minimal AI Tool Pitch Deck",
+      "source": "SlidesCarnival",
+      "page_url": "https://www.slidescarnival.com/template/ai-presentation-tool-pitch-deck/66043",
+      "pptx_url": "https://www.slidescarnival.com/download/sc00982/ai-presentation-tool-pitch-deck/pptx",
+      "targets": [
+        "ai-industry",
+        "technical-product",
+        "investor-pitch"
+      ],
+      "missing_page_types": [
+        "ai_capabilities",
+        "product_overview",
+        "team",
+        "pitch_narrative"
+      ],
+      "source_pptx": "C:\\ppt-creater\\network-supplements\\NET-13\\minimal-ai-tool-pitch-deck.pptx",
+      "previews_dir": "C:\\ppt-creater\\network-supplements\\NET-13\\previews",
+      "file_bytes": 18675602,
+      "sha256": "4a8acae3e90ce1b1762c488dacc637b33d323eb1d6f6c51cea87ef3ae792d937",
+      "package": {
+        "slide_count": 20,
+        "slides_with_timing_xml": 0,
+        "slides_with_transition_xml": 0
+      },
+      "license_status": "manual_external_review_required",
+      "ingest_status": "downloaded_structurally_verified_pending_user_style_review",
+      "review_note": "覆盖AI能力、服务、团队等页面，但赛博机器人和电路背景模板感较强；只建议作为独立候选模板族，不作为默认AI/融资模板。"
+    }
+  ]
+}

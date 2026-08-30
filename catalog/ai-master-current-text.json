@@ -1,0 +1,172 @@
+﻿[
+    {
+        "slide":  1,
+        "effects":  1,
+        "texts":  [
+
+                  ]
+    },
+    {
+        "slide":  2,
+        "effects":  0,
+        "texts":  [
+
+                  ]
+    },
+    {
+        "slide":  3,
+        "effects":  0,
+        "texts":  [
+
+                  ]
+    },
+    {
+        "slide":  4,
+        "effects":  0,
+        "texts":  [
+                      {
+                          "i":  98,
+                          "name":  "slot_technology_stack_title_01",
+                          "text":  "2016"
+                      },
+                      {
+                          "i":  99,
+                          "name":  "slot_technology_stack_subtitle_02",
+                          "text":  "点线美学系列PPT-舞动"
+                      }
+                  ]
+    },
+    {
+        "slide":  5,
+        "effects":  0,
+        "texts":  [
+
+                  ]
+    },
+    {
+        "slide":  6,
+        "effects":  7,
+        "texts":  [
+                      {
+                          "i":  59,
+                          "name":  "slot_competitive_comparison_title_01",
+                          "text":  "Type something here"
+                      },
+                      {
+                          "i":  60,
+                          "name":  "slot_competitive_comparison_subtitle_02",
+                          "text":  "Type something here"
+                      },
+                      {
+                          "i":  61,
+                          "name":  "slot_competitive_comparison_headline_03",
+                          "text":  "Type something here"
+                      }
+                  ]
+    },
+    {
+        "slide":  7,
+        "effects":  13,
+        "texts":  [
+                      {
+                          "i":  48,
+                          "name":  "slot_kpi_title_01",
+                          "text":  "ADD YOUR TEXT"
+                      },
+                      {
+                          "i":  49,
+                          "name":  "slot_kpi_subtitle_02",
+                          "text":  "CLICK TO ADD YOUR TITLE HERE"
+                      },
+                      {
+                          "i":  50,
+                          "name":  "slot_kpi_headline_03",
+                          "text":  "ADD YOUR TEXT"
+                      },
+                      {
+                          "i":  51,
+                          "name":  "slot_kpi_body_04",
+                          "text":  "ADD YOUR TEXT"
+                      },
+                      {
+                          "i":  52,
+                          "name":  "slot_kpi_label_05",
+                          "text":  "CLICK TO ADD YOUR TITLE HERE"
+                      },
+                      {
+                          "i":  53,
+                          "name":  "slot_kpi_metric_06",
+                          "text":  "ADD YOUR TEXT"
+                      },
+                      {
+                          "i":  54,
+                          "name":  "slot_kpi_caption_07",
+                          "text":  "CLICK TO ADD YOUR TITLE HERE"
+                      },
+                      {
+                          "i":  55,
+                          "name":  "slot_kpi_source_08",
+                          "text":  "CLICK TO ADD YOUR TITLE HERE"
+                      }
+                  ]
+    },
+    {
+        "slide":  8,
+        "effects":  0,
+        "texts":  [
+                      {
+                          "i":  107,
+                          "name":  "slot_roadmap_title_01",
+                          "text":  "3"
+                      }
+                  ]
+    },
+    {
+        "slide":  9,
+        "effects":  0,
+        "texts":  [
+                      {
+                          "i":  31,
+                          "name":  "slot_risk_matrix_title_01",
+                          "text":  "Type something here"
+                      },
+                      {
+                          "i":  32,
+                          "name":  "slot_risk_matrix_subtitle_02",
+                          "text":  "Type something here"
+                      },
+                      {
+                          "i":  33,
+                          "name":  "slot_risk_matrix_headline_03",
+                          "text":  "Type something here"
+                      }
+                  ]
+    },
+    {
+        "slide":  10,
+        "effects":  0,
+        "texts":  [
+                      {
+                          "i":  109,
+                          "name":  "slot_recommendation_title_01",
+                          "text":  "Happiness is not about being immortal nor having food or rights in one\u0027s hand. It’s about having each tiny wish come true, or having something to eat when you are hungry or having someone\u0027s love when you need love."
+                      },
+                      {
+                          "i":  110,
+                          "name":  "slot_recommendation_subtitle_02",
+                          "text":  "ADD YOUR TEXT"
+                      }
+                  ]
+    },
+    {
+        "slide":  11,
+        "effects":  2,
+        "texts":  [
+                      {
+                          "i":  193,
+                          "name":  "slot_closing_title_01",
+                          "text":  "THANKS"
+                      }
+                  ]
+    }
+]

@@ -1,0 +1,971 @@
+{
+  "library_root": "C:\\PPT模板",
+  "files_total": 2546,
+  "presentations_total": 1084,
+  "pptx_total": 800,
+  "ppt_total": 284,
+  "pptx_indexed_ok": 799,
+  "pptx_errors": [
+    {
+      "path": "04_设计素材\\01_图表与图标\\模板\\012_精品图表精品推荐.pptx",
+      "error": "BadZipFile: Bad CRC-32 for file 'ppt/media/image3.png'"
+    }
+  ],
+  "animated_pptx": 743,
+  "transition_pptx": 564,
+  "slot_ready_pptx": 0,
+  "exact_duplicate_groups": [
+    [
+      "01_应用场景\\01_工作与商务\\模板\\004_欧美商务模板.pptx",
+      "04_设计素材\\01_图表与图标\\模板\\005_常用图表.pptx"
+    ],
+    [
+      "01_应用场景\\01_工作与商务\\模板\\050_动态商务模板.pptx",
+      "01_应用场景\\05_商业策划\\模板\\005_商业策划模板.pptx"
+    ],
+    [
+      "01_应用场景\\01_工作与商务\\模板\\055_动态商务模板.pptx",
+      "01_应用场景\\05_商业策划\\模板\\015_商业策划模板.pptx"
+    ],
+    [
+      "01_应用场景\\01_工作与商务\\模板\\058_动态商务模板.pptx",
+      "01_应用场景\\05_商业策划\\模板\\012_商业策划模板.pptx"
+    ],
+    [
+      "01_应用场景\\01_工作与商务\\模板\\060_动态商务模板.pptx",
+      "01_应用场景\\05_商业策划\\模板\\006_商业策划模板.pptx"
+    ],
+    [
+      "01_应用场景\\08_企业介绍与商务通用\\模板\\006_企业介绍与商务通用.pptx",
+      "02_视觉风格\\03_简约风格\\模板\\035_简约模板.pptx"
+    ],
+    [
+      "01_应用场景\\13_通用商务演示\\模板\\011_旧版.ppt",
+      "01_应用场景\\13_通用商务演示\\模板\\076_旧版.ppt"
+    ],
+    [
+      "02_视觉风格\\01_动态风格\\模板\\049_动态模板.pptx",
+      "02_视觉风格\\03_简约风格\\模板\\036_简约模板.pptx"
+    ],
+    [
+      "02_视觉风格\\03_简约风格\\模板\\040_简约模板.pptx",
+      "02_视觉风格\\06_文艺唯美\\模板\\032_文艺唯美模板.pptx"
+    ],
+    [
+      "02_视觉风格\\03_简约风格\\模板\\044_简约模板.pptx",
+      "02_视觉风格\\06_文艺唯美\\模板\\033_文艺唯美模板.pptx"
+    ],
+    [
+      "02_视觉风格\\06_文艺唯美\\模板\\009_文艺唯美模板.pptx",
+      "02_视觉风格\\06_文艺唯美\\模板\\029_文艺唯美模板.pptx"
+    ]
+  ],
+  "category_counts": {
+    "01_应用场景": 615,
+    "02_视觉风格": 385,
+    "03_主题场景": 53,
+    "04_设计素材": 31
+  },
+  "top_candidates": [
+    {
+      "relative_path": "02_视觉风格\\07_扁平化\\模板\\015_扁平化模板.pptx",
+      "quality_score": 80.0,
+      "slide_count": 21,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "03_主题场景\\02_婚礼相册\\模板\\006_婚礼相册模板.pptx",
+      "quality_score": 80.0,
+      "slide_count": 21,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "03_主题场景\\02_婚礼相册\\模板\\007_婚礼相册模板.pptx",
+      "quality_score": 80.0,
+      "slide_count": 12,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "04_设计素材\\01_图表与图标\\模板\\014_精品图表精品推荐.pptx",
+      "quality_score": 80.0,
+      "slide_count": 200,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\048_16比9比例.pptx",
+      "quality_score": 79.61,
+      "slide_count": 28,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\101_16比9比例.pptx",
+      "quality_score": 79.57,
+      "slide_count": 30,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 1,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\01_工作与商务\\模板\\060_动态商务模板.pptx",
+      "quality_score": 79.5,
+      "slide_count": 44,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\040_16比9比例.pptx",
+      "quality_score": 79.5,
+      "slide_count": 31,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\002_模板组.pptx",
+      "quality_score": 79.5,
+      "slide_count": 8,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\039_模板组.pptx",
+      "quality_score": 79.5,
+      "slide_count": 23,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 6,
+      "table_count": 11
+    },
+    {
+      "relative_path": "01_应用场景\\05_商业策划\\模板\\006_商业策划模板.pptx",
+      "quality_score": 79.5,
+      "slide_count": 44,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\05_商业策划\\模板\\010_商业策划模板.pptx",
+      "quality_score": 79.5,
+      "slide_count": 40,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 1,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\05_商业策划\\模板\\013_商业策划模板.pptx",
+      "quality_score": 79.5,
+      "slide_count": 40,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\02_静态风格\\模板\\040_静态模板.pptx",
+      "quality_score": 79.5,
+      "slide_count": 23,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 4,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\05_中国风\\模板\\030_中国风模板.pptx",
+      "quality_score": 79.5,
+      "slide_count": 20,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\05_中国风\\模板\\052_中国风模板.pptx",
+      "quality_score": 79.5,
+      "slide_count": 25,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\06_文艺唯美\\模板\\004_文艺唯美模板.pptx",
+      "quality_score": 79.5,
+      "slide_count": 25,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\07_扁平化\\模板\\077_扁平化模板.pptx",
+      "quality_score": 79.5,
+      "slide_count": 20,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "03_主题场景\\01_主题活动\\模板\\023_PPT模板宣传类.pptx",
+      "quality_score": 79.5,
+      "slide_count": 18,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "03_主题场景\\02_婚礼相册\\模板\\004_婚礼相册模板.pptx",
+      "quality_score": 79.5,
+      "slide_count": 43,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "03_主题场景\\02_婚礼相册\\模板\\008_婚礼相册模板.pptx",
+      "quality_score": 79.5,
+      "slide_count": 16,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "04_设计素材\\01_图表与图标\\模板\\015_精品图表精品推荐.pptx",
+      "quality_score": 79.5,
+      "slide_count": 30,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "04_设计素材\\01_图表与图标\\模板\\019_精品图表精品推荐.pptx",
+      "quality_score": 79.5,
+      "slide_count": 30,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\05_中国风\\模板\\042_中国风模板.pptx",
+      "quality_score": 79.38,
+      "slide_count": 12,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\01_工作与商务\\模板\\048_动态商务模板.pptx",
+      "quality_score": 79.33,
+      "slide_count": 32,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\07_扁平化\\模板\\013_扁平化模板.pptx",
+      "quality_score": 79.3,
+      "slide_count": 39,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 2,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\01_工作与商务\\模板\\057_动态商务模板.pptx",
+      "quality_score": 79.06,
+      "slide_count": 35,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 4,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\01_工作与商务\\模板\\007_欧美商务模板.pptx",
+      "quality_score": 79.01,
+      "slide_count": 110,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 48,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\01_工作与商务\\模板\\008_欧美商务模板.pptx",
+      "quality_score": 79.01,
+      "slide_count": 110,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 48,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\01_工作与商务\\模板\\036_工作模板.pptx",
+      "quality_score": 79.01,
+      "slide_count": 27,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 1
+    },
+    {
+      "relative_path": "01_应用场景\\05_商业策划\\模板\\009_商业策划模板.pptx",
+      "quality_score": 78.99,
+      "slide_count": 40,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\043_16比9比例.pptx",
+      "quality_score": 78.96,
+      "slide_count": 28,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\01_工作与商务\\模板\\070_动态商务模板.pptx",
+      "quality_score": 78.9,
+      "slide_count": 34,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 2,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\055_16比9比例.pptx",
+      "quality_score": 78.88,
+      "slide_count": 28,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\01_动态风格\\模板\\065_动态模板.pptx",
+      "quality_score": 78.53,
+      "slide_count": 25,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\01_工作与商务\\模板\\006_欧美商务模板.pptx",
+      "quality_score": 78.48,
+      "slide_count": 100,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 20,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\021_模板组.pptx",
+      "quality_score": 78.17,
+      "slide_count": 12,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\05_商业策划\\模板\\014_商业策划模板.pptx",
+      "quality_score": 78.07,
+      "slide_count": 40,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\01_工作与商务\\模板\\035_工作模板.pptx",
+      "quality_score": 78.06,
+      "slide_count": 42,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\01_动态风格\\模板\\007_动态模板.pptx",
+      "quality_score": 77.99,
+      "slide_count": 40,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 2,
+      "table_count": 0
+    },
+    {
+      "relative_path": "04_设计素材\\01_图表与图标\\模板\\013_精品图表精品推荐.pptx",
+      "quality_score": 77.93,
+      "slide_count": 174,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 8,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\020_模板组.pptx",
+      "quality_score": 77.89,
+      "slide_count": 20,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\028_模板组.pptx",
+      "quality_score": 77.89,
+      "slide_count": 20,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "04_设计素材\\01_图表与图标\\模板\\016_精品图表精品推荐.pptx",
+      "quality_score": 77.89,
+      "slide_count": 30,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\06_文艺唯美\\模板\\034_文艺唯美模板.pptx",
+      "quality_score": 77.87,
+      "slide_count": 31,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\036_16比9比例.pptx",
+      "quality_score": 77.83,
+      "slide_count": 32,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\01_动态风格\\模板\\004_动态模板.pptx",
+      "quality_score": 77.83,
+      "slide_count": 32,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "04_设计素材\\01_图表与图标\\模板\\007_常用图表.pptx",
+      "quality_score": 77.83,
+      "slide_count": 38,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 3,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\01_动态风格\\模板\\051_动态模板.pptx",
+      "quality_score": 77.79,
+      "slide_count": 34,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\02_静态风格\\模板\\038_静态模板.pptx",
+      "quality_score": 77.7,
+      "slide_count": 19,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 2,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\07_扁平化\\模板\\070_扁平化模板.pptx",
+      "quality_score": 77.57,
+      "slide_count": 33,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\03_简约风格\\模板\\053_简约模板.pptx",
+      "quality_score": 77.53,
+      "slide_count": 48,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\038_16比9比例.pptx",
+      "quality_score": 77.5,
+      "slide_count": 18,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\02_静态风格\\模板\\025_静态模板.pptx",
+      "quality_score": 77.5,
+      "slide_count": 12,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\02_静态风格\\模板\\047_静态模板.pptx",
+      "quality_score": 77.49,
+      "slide_count": 32,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\06_文艺唯美\\模板\\014_文艺唯美模板.pptx",
+      "quality_score": 77.48,
+      "slide_count": 23,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\003_模板组.pptx",
+      "quality_score": 77.47,
+      "slide_count": 8,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\050_模板组.pptx",
+      "quality_score": 77.41,
+      "slide_count": 24,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\113_16比9比例.pptx",
+      "quality_score": 77.39,
+      "slide_count": 20,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\087_16比9比例.pptx",
+      "quality_score": 77.35,
+      "slide_count": 24,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\06_文艺唯美\\模板\\036_文艺唯美模板.pptx",
+      "quality_score": 77.31,
+      "slide_count": 13,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\037_16比9比例.pptx",
+      "quality_score": 77.25,
+      "slide_count": 18,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 2,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\03_简约风格\\模板\\042_简约模板.pptx",
+      "quality_score": 77.21,
+      "slide_count": 22,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 1,
+      "table_count": 0
+    },
+    {
+      "relative_path": "03_主题场景\\03_节日庆典\\模板\\004_节日庆典模板.pptx",
+      "quality_score": 77.15,
+      "slide_count": 53,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 1
+    },
+    {
+      "relative_path": "02_视觉风格\\03_简约风格\\模板\\045_简约模板.pptx",
+      "quality_score": 77.12,
+      "slide_count": 30,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 1,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\01_工作与商务\\模板\\023_工作模板.pptx",
+      "quality_score": 77.04,
+      "slide_count": 28,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 6,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\099_16比9比例.pptx",
+      "quality_score": 77.0,
+      "slide_count": 18,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "04_设计素材\\01_图表与图标\\模板\\017_精品图表精品推荐.pptx",
+      "quality_score": 76.93,
+      "slide_count": 30,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\05_商业策划\\模板\\011_商业策划模板.pptx",
+      "quality_score": 76.91,
+      "slide_count": 41,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "04_设计素材\\04_汇报总结模板\\模板\\001_汇报总结模板.pptx",
+      "quality_score": 76.91,
+      "slide_count": 27,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 2,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\01_工作与商务\\模板\\069_动态商务模板.pptx",
+      "quality_score": 76.9,
+      "slide_count": 38,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 1,
+      "table_count": 0
+    },
+    {
+      "relative_path": "04_设计素材\\01_图表与图标\\模板\\009_常用图表.pptx",
+      "quality_score": 76.9,
+      "slide_count": 69,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\04_求职与竞聘\\模板\\033_模板组.pptx",
+      "quality_score": 76.85,
+      "slide_count": 24,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\05_商业策划\\模板\\004_商业策划模板.pptx",
+      "quality_score": 76.8,
+      "slide_count": 40,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 1,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\01_动态风格\\模板\\019_动态模板.pptx",
+      "quality_score": 76.8,
+      "slide_count": 19,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "04_设计素材\\01_图表与图标\\模板\\018_精品图表精品推荐.pptx",
+      "quality_score": 76.77,
+      "slide_count": 30,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 9,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\088_16比9比例.pptx",
+      "quality_score": 76.76,
+      "slide_count": 28,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\01_动态风格\\模板\\012_动态模板.pptx",
+      "quality_score": 76.73,
+      "slide_count": 38,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\05_中国风\\模板\\025_中国风模板.pptx",
+      "quality_score": 76.7,
+      "slide_count": 12,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\029_16比9比例.pptx",
+      "quality_score": 76.63,
+      "slide_count": 41,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\05_商业策划\\模板\\008_商业策划模板.pptx",
+      "quality_score": 76.61,
+      "slide_count": 30,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 1,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\03_简约风格\\模板\\046_简约模板.pptx",
+      "quality_score": 76.56,
+      "slide_count": 27,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\01_动态风格\\模板\\045_动态模板.pptx",
+      "quality_score": 76.55,
+      "slide_count": 51,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\01_工作与商务\\模板\\003_欧美商务模板.pptx",
+      "quality_score": 76.54,
+      "slide_count": 49,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 6,
+      "table_count": 1
+    },
+    {
+      "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\015_4比3比例.pptx",
+      "quality_score": 76.54,
+      "slide_count": 21,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 2
+    },
+    {
+      "relative_path": "01_应用场景\\01_工作与商务\\模板\\056_动态商务模板.pptx",
+      "quality_score": 76.53,
+      "slide_count": 29,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 1,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\02_静态风格\\模板\\041_静态模板.pptx",
+      "quality_score": 76.53,
+      "slide_count": 23,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 2,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\06_文艺唯美\\模板\\022_文艺唯美模板.pptx",
+      "quality_score": 76.53,
+      "slide_count": 23,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 2,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\01_动态风格\\模板\\008_动态模板.pptx",
+      "quality_score": 76.52,
+      "slide_count": 32,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "04_设计素材\\01_图表与图标\\模板\\011_精品图表精品推荐.pptx",
+      "quality_score": 76.5,
+      "slide_count": 100,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 7,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\03_简约风格\\模板\\030_简约模板.pptx",
+      "quality_score": 76.46,
+      "slide_count": 21,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 1,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\02_汇报与答辩\\模板\\011_4比3比例.pptx",
+      "quality_score": 76.43,
+      "slide_count": 21,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 2
+    },
+    {
+      "relative_path": "01_应用场景\\01_工作与商务\\模板\\051_动态商务模板.pptx",
+      "quality_score": 76.42,
+      "slide_count": 27,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\05_中国风\\模板\\044_中国风模板.pptx",
+      "quality_score": 76.41,
+      "slide_count": 27,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 1,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\01_工作与商务\\模板\\004_欧美商务模板.pptx",
+      "quality_score": 76.39,
+      "slide_count": 100,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "04_设计素材\\01_图表与图标\\模板\\005_常用图表.pptx",
+      "quality_score": 76.39,
+      "slide_count": 100,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    },
+    {
+      "relative_path": "02_视觉风格\\07_扁平化\\模板\\046_扁平化模板.pptx",
+      "quality_score": 76.35,
+      "slide_count": 11,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 1,
+      "table_count": 0
+    },
+    {
+      "relative_path": "01_应用场景\\03_教育与培训\\模板\\009_培训模板.pptx",
+      "quality_score": 76.33,
+      "slide_count": 43,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 1
+    },
+    {
+      "relative_path": "02_视觉风格\\02_静态风格\\模板\\008_静态模板.pptx",
+      "quality_score": 76.32,
+      "slide_count": 65,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 30,
+      "table_count": 3
+    },
+    {
+      "relative_path": "01_应用场景\\01_工作与商务\\模板\\085_动态商务模板.pptx",
+      "quality_score": 76.3,
+      "slide_count": 36,
+      "has_animation_xml": true,
+      "has_named_slots": false,
+      "chart_count": 0,
+      "table_count": 0
+    }
+  ]
+}

@@ -1,0 +1,2883 @@
+{
+  "schema_version": 1,
+  "families": [
+    {
+      "family_id": "01-001",
+      "name": "候选：01_应用场景 #1",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\01-001\\001_旧版.pptx",
+      "source_relative_path": "curated/template-families/01-001/001_旧版.pptx",
+      "use_cases": [
+        "01_应用场景"
+      ],
+      "visual_tags": [
+        "01_应用场景",
+        "animated"
+      ],
+      "aspect_ratio": "13.3403:7.5017",
+      "theme": {
+        "colors": [
+          "5F5F5F",
+          "FFFFFF",
+          "4D4D4D",
+          "E5DEDB",
+          "1FB1E5",
+          "4283D2",
+          "5E65A6",
+          "97659F",
+          "77CB59",
+          "FFC000",
+          "D6522E",
+          "AD5389"
+        ],
+        "fonts": [
+          "Arial Black",
+          "微软雅黑",
+          "Arial",
+          "幼圆"
+        ]
+      },
+      "evidence": {
+        "quality_score": 80.0,
+        "slide_count": 35,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "content": 1,
+          "agenda": 4,
+          "dense-composition": 28,
+          "table": 1,
+          "closing": 1
+        },
+        "charts": 0,
+        "tables": 1
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/01-001/001_旧版.pptx"
+    },
+    {
+      "family_id": "01-002",
+      "name": "候选：01_应用场景 #2",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\01-002\\042_旧版.pptx",
+      "source_relative_path": "curated/template-families/01-002/042_旧版.pptx",
+      "use_cases": [
+        "01_应用场景"
+      ],
+      "visual_tags": [
+        "01_应用场景",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "B5CBE7",
+          "D7712B",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "微软雅黑",
+          "Calibri"
+        ]
+      },
+      "evidence": {
+        "quality_score": 80.0,
+        "slide_count": 9,
+        "has_animation_xml": true,
+        "has_transition_xml": false,
+        "slide_patterns": {
+          "content": 7,
+          "dense-composition": 2
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/01-002/042_旧版.pptx"
+    },
+    {
+      "family_id": "01-003",
+      "name": "候选：01_应用场景 #3",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\01-003\\048_16比9比例.pptx",
+      "source_relative_path": "curated/template-families/01-003/048_16比9比例.pptx",
+      "use_cases": [
+        "01_应用场景"
+      ],
+      "visual_tags": [
+        "01_应用场景",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Calibri Light",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.61,
+        "slide_count": 28,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "content": 11,
+          "minimal": 2,
+          "agenda": 1,
+          "dense-composition": 14
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/01-003/048_16比9比例.pptx"
+    },
+    {
+      "family_id": "01-004",
+      "name": "候选：01_应用场景 #4",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\01-004\\048_16比9比例.pptx",
+      "source_relative_path": "curated/template-families/01-004/048_16比9比例.pptx",
+      "use_cases": [
+        "01_应用场景"
+      ],
+      "visual_tags": [
+        "01_应用场景",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Calibri Light",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.61,
+        "slide_count": 28,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "content": 11,
+          "minimal": 2,
+          "agenda": 1,
+          "dense-composition": 14
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/01-004/048_16比9比例.pptx"
+    },
+    {
+      "family_id": "01-005",
+      "name": "候选：01_应用场景 #5",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\01-005\\101_16比9比例.pptx",
+      "source_relative_path": "curated/template-families/01-005/101_16比9比例.pptx",
+      "use_cases": [
+        "01_应用场景"
+      ],
+      "visual_tags": [
+        "01_应用场景",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Calibri Light",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.57,
+        "slide_count": 30,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "content": 13,
+          "agenda": 1,
+          "minimal": 2,
+          "dense-composition": 13,
+          "chart": 1
+        },
+        "charts": 1,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/01-005/101_16比9比例.pptx"
+    },
+    {
+      "family_id": "01-006",
+      "name": "候选：01_应用场景 #6",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\01-006\\039_模板组.pptx",
+      "source_relative_path": "curated/template-families/01-006/039_模板组.pptx",
+      "use_cases": [
+        "01_应用场景"
+      ],
+      "visual_tags": [
+        "01_应用场景",
+        "animated"
+      ],
+      "aspect_ratio": "10.0:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Calibri Light",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.5,
+        "slide_count": 23,
+        "has_animation_xml": true,
+        "has_transition_xml": false,
+        "slide_patterns": {
+          "dense-composition": 18,
+          "chart": 2,
+          "table": 2,
+          "content": 1
+        },
+        "charts": 6,
+        "tables": 11
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/01-006/039_模板组.pptx"
+    },
+    {
+      "family_id": "01-007",
+      "name": "候选：01_应用场景 #7",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\01-007\\010_商业策划模板.pptx",
+      "source_relative_path": "curated/template-families/01-007/010_商业策划模板.pptx",
+      "use_cases": [
+        "01_应用场景"
+      ],
+      "visual_tags": [
+        "01_应用场景",
+        "animated"
+      ],
+      "aspect_ratio": "13.3368:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "1F497D",
+          "EEECE1",
+          "4F81BD",
+          "C0504D",
+          "9BBB59",
+          "8064A2",
+          "4BACC6",
+          "F79646",
+          "0000FF",
+          "800080"
+        ],
+        "fonts": [
+          "Calibri",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.5,
+        "slide_count": 40,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "dense-composition": 36,
+          "agenda": 1,
+          "chart": 1,
+          "content": 1,
+          "closing": 1
+        },
+        "charts": 1,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/01-007/010_商业策划模板.pptx"
+    },
+    {
+      "family_id": "01-008",
+      "name": "候选：01_应用场景 #8",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\01-008\\060_动态商务模板.pptx",
+      "source_relative_path": "curated/template-families/01-008/060_动态商务模板.pptx",
+      "use_cases": [
+        "01_应用场景"
+      ],
+      "visual_tags": [
+        "01_应用场景",
+        "animated"
+      ],
+      "aspect_ratio": "13.3368:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "1F497D",
+          "EEECE1",
+          "4F81BD",
+          "C0504D",
+          "9BBB59",
+          "8064A2",
+          "4BACC6",
+          "F79646",
+          "0000FF",
+          "800080"
+        ],
+        "fonts": [
+          "Calibri",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.5,
+        "slide_count": 44,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "dense-composition": 42,
+          "content": 1,
+          "closing": 1
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/01-008/060_动态商务模板.pptx"
+    },
+    {
+      "family_id": "01-009",
+      "name": "候选：01_应用场景 #9",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\01-009\\040_16比9比例.pptx",
+      "source_relative_path": "curated/template-families/01-009/040_16比9比例.pptx",
+      "use_cases": [
+        "01_应用场景"
+      ],
+      "visual_tags": [
+        "01_应用场景",
+        "animated"
+      ],
+      "aspect_ratio": "10.0:5.6233",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "808080",
+          "BBE0E3",
+          "333399",
+          "DAEDEF",
+          "2D2D8A",
+          "009999",
+          "99CC00",
+          "969696",
+          "FBDF53",
+          "FF9966",
+          "FDECB3",
+          "E78A5C",
+          "CC3300",
+          "996600",
+          "99CCFF",
+          "CCCCFF",
+          "CAE2FF",
+          "B9B9E7"
+        ],
+        "fonts": [
+          "Arial",
+          "宋体"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.5,
+        "slide_count": 31,
+        "has_animation_xml": true,
+        "has_transition_xml": false,
+        "slide_patterns": {
+          "dense-composition": 20,
+          "agenda": 1,
+          "content": 9,
+          "closing": 1
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/01-009/040_16比9比例.pptx"
+    },
+    {
+      "family_id": "01-010",
+      "name": "候选：01_应用场景 #10",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\01-010\\002_模板组.pptx",
+      "source_relative_path": "curated/template-families/01-010/002_模板组.pptx",
+      "use_cases": [
+        "01_应用场景"
+      ],
+      "visual_tags": [
+        "01_应用场景",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "954F72"
+        ],
+        "fonts": [
+          "Arial Black",
+          "ＭＳ ゴシック",
+          "굴림",
+          "微软雅黑",
+          "微軟正黑體",
+          "Tahoma",
+          "FreesiaUPC",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "DaunPenh",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.5,
+        "slide_count": 8,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "dense-composition": 6,
+          "content": 1,
+          "minimal": 1
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/01-010/002_模板组.pptx"
+    },
+    {
+      "family_id": "02-001",
+      "name": "候选：02_视觉风格 #1",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\02-001\\015_扁平化模板.pptx",
+      "source_relative_path": "curated/template-families/02-001/015_扁平化模板.pptx",
+      "use_cases": [
+        "02_视觉风格"
+      ],
+      "visual_tags": [
+        "02_视觉风格",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "等线 Light",
+          "游ゴシック Light",
+          "맑은 고딕",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami",
+          "Latha"
+        ]
+      },
+      "evidence": {
+        "quality_score": 80.0,
+        "slide_count": 21,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "content": 11,
+          "agenda": 1,
+          "minimal": 3,
+          "dense-composition": 6
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/02-001/015_扁平化模板.pptx"
+    },
+    {
+      "family_id": "02-002",
+      "name": "候选：02_视觉风格 #2",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\02-002\\040_静态模板.pptx",
+      "source_relative_path": "curated/template-families/02-002/040_静态模板.pptx",
+      "use_cases": [
+        "02_视觉风格"
+      ],
+      "visual_tags": [
+        "02_视觉风格",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Calibri Light",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.5,
+        "slide_count": 23,
+        "has_animation_xml": true,
+        "has_transition_xml": false,
+        "slide_patterns": {
+          "dense-composition": 19,
+          "agenda": 1,
+          "chart": 2,
+          "closing": 1
+        },
+        "charts": 4,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/02-002/040_静态模板.pptx"
+    },
+    {
+      "family_id": "02-003",
+      "name": "候选：02_视觉风格 #3",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\02-003\\030_中国风模板.pptx",
+      "source_relative_path": "curated/template-families/02-003/030_中国风模板.pptx",
+      "use_cases": [
+        "02_视觉风格"
+      ],
+      "visual_tags": [
+        "02_视觉风格",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Calibri Light",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.5,
+        "slide_count": 20,
+        "has_animation_xml": true,
+        "has_transition_xml": false,
+        "slide_patterns": {
+          "dense-composition": 14,
+          "minimal": 3,
+          "content": 3
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/02-003/030_中国风模板.pptx"
+    },
+    {
+      "family_id": "02-004",
+      "name": "候选：02_视觉风格 #4",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\02-004\\052_中国风模板.pptx",
+      "source_relative_path": "curated/template-families/02-004/052_中国风模板.pptx",
+      "use_cases": [
+        "02_视觉风格"
+      ],
+      "visual_tags": [
+        "02_视觉风格",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Calibri Light",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.5,
+        "slide_count": 25,
+        "has_animation_xml": true,
+        "has_transition_xml": false,
+        "slide_patterns": {
+          "dense-composition": 7,
+          "minimal": 13,
+          "content": 5
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/02-004/052_中国风模板.pptx"
+    },
+    {
+      "family_id": "02-005",
+      "name": "候选：02_视觉风格 #5",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\02-005\\004_文艺唯美模板.pptx",
+      "source_relative_path": "curated/template-families/02-005/004_文艺唯美模板.pptx",
+      "use_cases": [
+        "02_视觉风格"
+      ],
+      "visual_tags": [
+        "02_视觉风格",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Arial Black",
+          "微软雅黑",
+          "Arial"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.5,
+        "slide_count": 25,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "content": 3,
+          "dense-composition": 21,
+          "closing": 1
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/02-005/004_文艺唯美模板.pptx"
+    },
+    {
+      "family_id": "02-006",
+      "name": "候选：02_视觉风格 #6",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\02-006\\077_扁平化模板.pptx",
+      "source_relative_path": "curated/template-families/02-006/077_扁平化模板.pptx",
+      "use_cases": [
+        "02_视觉风格"
+      ],
+      "visual_tags": [
+        "02_视觉风格",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "等线 Light",
+          "游ゴシック Light",
+          "맑은 고딕",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami",
+          "Latha"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.5,
+        "slide_count": 20,
+        "has_animation_xml": true,
+        "has_transition_xml": false,
+        "slide_patterns": {
+          "dense-composition": 18,
+          "content": 2
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/02-006/077_扁平化模板.pptx"
+    },
+    {
+      "family_id": "02-007",
+      "name": "候选：02_视觉风格 #7",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\02-007\\042_中国风模板.pptx",
+      "source_relative_path": "curated/template-families/02-007/042_中国风模板.pptx",
+      "use_cases": [
+        "02_视觉风格"
+      ],
+      "visual_tags": [
+        "02_视觉风格",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "1F497D",
+          "EEECE1",
+          "4F81BD",
+          "C0504D",
+          "9BBB59",
+          "8064A2",
+          "4BACC6",
+          "F79646",
+          "0000FF",
+          "800080"
+        ],
+        "fonts": [
+          "Calibri",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.38,
+        "slide_count": 12,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "content": 3,
+          "dense-composition": 8,
+          "closing": 1
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/02-007/042_中国风模板.pptx"
+    },
+    {
+      "family_id": "02-008",
+      "name": "候选：02_视觉风格 #8",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\02-008\\013_扁平化模板.pptx",
+      "source_relative_path": "curated/template-families/02-008/013_扁平化模板.pptx",
+      "use_cases": [
+        "02_视觉风格"
+      ],
+      "visual_tags": [
+        "02_视觉风格",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "等线 Light",
+          "游ゴシック Light",
+          "맑은 고딕",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami",
+          "Latha"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.3,
+        "slide_count": 39,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "dense-composition": 10,
+          "agenda": 23,
+          "content": 3,
+          "chart": 2,
+          "closing": 1
+        },
+        "charts": 2,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/02-008/013_扁平化模板.pptx"
+    },
+    {
+      "family_id": "02-009",
+      "name": "候选：02_视觉风格 #9",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\02-009\\065_动态模板.pptx",
+      "source_relative_path": "curated/template-families/02-009/065_动态模板.pptx",
+      "use_cases": [
+        "02_视觉风格"
+      ],
+      "visual_tags": [
+        "02_视觉风格",
+        "animated"
+      ],
+      "aspect_ratio": "10.0:5.625",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "1F497D",
+          "EEECE1",
+          "4F81BD",
+          "C0504D",
+          "9BBB59",
+          "8064A2",
+          "4BACC6",
+          "F79646",
+          "0000FF",
+          "800080"
+        ],
+        "fonts": [
+          "Calibri",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 78.53,
+        "slide_count": 25,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "content": 5,
+          "dense-composition": 19,
+          "closing": 1
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/02-009/065_动态模板.pptx"
+    },
+    {
+      "family_id": "02-010",
+      "name": "候选：02_视觉风格 #10",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\02-010\\007_动态模板.pptx",
+      "source_relative_path": "curated/template-families/02-010/007_动态模板.pptx",
+      "use_cases": [
+        "02_视觉风格"
+      ],
+      "visual_tags": [
+        "02_视觉风格",
+        "animated"
+      ],
+      "aspect_ratio": "13.3368:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "1F497D",
+          "EEECE1",
+          "4F81BD",
+          "C0504D",
+          "9BBB59",
+          "8064A2",
+          "4BACC6",
+          "F79646",
+          "0000FF",
+          "800080"
+        ],
+        "fonts": [
+          "Calibri",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 77.99,
+        "slide_count": 40,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "dense-composition": 34,
+          "agenda": 1,
+          "chart": 2,
+          "content": 2,
+          "closing": 1
+        },
+        "charts": 2,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/02-010/007_动态模板.pptx"
+    },
+    {
+      "family_id": "03-001",
+      "name": "候选：03_主题场景 #1",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\03-001\\006_婚礼相册模板.pptx",
+      "source_relative_path": "curated/template-families/03-001/006_婚礼相册模板.pptx",
+      "use_cases": [
+        "03_主题场景"
+      ],
+      "visual_tags": [
+        "03_主题场景",
+        "animated"
+      ],
+      "aspect_ratio": "10.0:5.6267",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "1F497D",
+          "EEECE1",
+          "4F81BD",
+          "C0504D",
+          "9BBB59",
+          "8064A2",
+          "4BACC6",
+          "F79646",
+          "0000FF",
+          "800080"
+        ],
+        "fonts": [
+          "Calibri",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 80.0,
+        "slide_count": 21,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "dense-composition": 18,
+          "content": 3
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/03-001/006_婚礼相册模板.pptx"
+    },
+    {
+      "family_id": "03-002",
+      "name": "候选：03_主题场景 #2",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\03-002\\007_婚礼相册模板.pptx",
+      "source_relative_path": "curated/template-families/03-002/007_婚礼相册模板.pptx",
+      "use_cases": [
+        "03_主题场景"
+      ],
+      "visual_tags": [
+        "03_主题场景",
+        "animated"
+      ],
+      "aspect_ratio": "10.0:5.6267",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "1F497D",
+          "EEECE1",
+          "4F81BD",
+          "C0504D",
+          "9BBB59",
+          "8064A2",
+          "4BACC6",
+          "F79646",
+          "0000FF",
+          "800080"
+        ],
+        "fonts": [
+          "Calibri",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 80.0,
+        "slide_count": 12,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "content": 3,
+          "dense-composition": 9
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/03-002/007_婚礼相册模板.pptx"
+    },
+    {
+      "family_id": "03-003",
+      "name": "候选：03_主题场景 #3",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\03-003\\023_PPT模板宣传类.pptx",
+      "source_relative_path": "curated/template-families/03-003/023_PPT模板宣传类.pptx",
+      "use_cases": [
+        "03_主题场景"
+      ],
+      "visual_tags": [
+        "03_主题场景",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "等线 Light",
+          "游ゴシック Light",
+          "맑은 고딕",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami",
+          "Latha"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.5,
+        "slide_count": 18,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "minimal": 2,
+          "content": 14,
+          "dense-composition": 2
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/03-003/023_PPT模板宣传类.pptx"
+    },
+    {
+      "family_id": "03-004",
+      "name": "候选：03_主题场景 #4",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\03-004\\004_婚礼相册模板.pptx",
+      "source_relative_path": "curated/template-families/03-004/004_婚礼相册模板.pptx",
+      "use_cases": [
+        "03_主题场景"
+      ],
+      "visual_tags": [
+        "03_主题场景",
+        "animated"
+      ],
+      "aspect_ratio": "10.0:5.625",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "1F497D",
+          "EEECE1",
+          "4F81BD",
+          "C0504D",
+          "9BBB59",
+          "8064A2",
+          "4BACC6",
+          "F79646",
+          "0000FF",
+          "800080"
+        ],
+        "fonts": [
+          "Calibri",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.5,
+        "slide_count": 43,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "content": 5,
+          "dense-composition": 38
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/03-004/004_婚礼相册模板.pptx"
+    },
+    {
+      "family_id": "03-005",
+      "name": "候选：03_主题场景 #5",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\03-005\\008_婚礼相册模板.pptx",
+      "source_relative_path": "curated/template-families/03-005/008_婚礼相册模板.pptx",
+      "use_cases": [
+        "03_主题场景"
+      ],
+      "visual_tags": [
+        "03_主题场景",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Calibri Light",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.5,
+        "slide_count": 16,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "minimal": 1,
+          "dense-composition": 4,
+          "content": 10,
+          "closing": 1
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/03-005/008_婚礼相册模板.pptx"
+    },
+    {
+      "family_id": "03-006",
+      "name": "候选：03_主题场景 #6",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\03-006\\004_节日庆典模板.pptx",
+      "source_relative_path": "curated/template-families/03-006/004_节日庆典模板.pptx",
+      "use_cases": [
+        "03_主题场景"
+      ],
+      "visual_tags": [
+        "03_主题场景",
+        "animated"
+      ],
+      "aspect_ratio": "10.0:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "1F497D",
+          "EEECE1",
+          "4F81BD",
+          "C0504D",
+          "9BBB59",
+          "8064A2",
+          "4BACC6",
+          "F79646",
+          "0000FF",
+          "800080"
+        ],
+        "fonts": [
+          "Calibri",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 77.15,
+        "slide_count": 53,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "minimal": 4,
+          "content": 5,
+          "dense-composition": 9,
+          "agenda": 33,
+          "table": 1,
+          "closing": 1
+        },
+        "charts": 0,
+        "tables": 1
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/03-006/004_节日庆典模板.pptx"
+    },
+    {
+      "family_id": "03-007",
+      "name": "候选：03_主题场景 #7",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\03-007\\003_PPT模板.pptx",
+      "source_relative_path": "curated/template-families/03-007/003_PPT模板.pptx",
+      "use_cases": [
+        "03_主题场景"
+      ],
+      "visual_tags": [
+        "03_主题场景",
+        "animated"
+      ],
+      "aspect_ratio": "10.0:5.625",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "1F497D",
+          "EEECE1",
+          "4F81BD",
+          "C0504D",
+          "9BBB59",
+          "8064A2",
+          "4BACC6",
+          "F79646",
+          "0000FF",
+          "800080"
+        ],
+        "fonts": [
+          "Calibri",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 75.72,
+        "slide_count": 10,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "content": 5,
+          "dense-composition": 4,
+          "closing": 1
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/03-007/003_PPT模板.pptx"
+    },
+    {
+      "family_id": "03-008",
+      "name": "候选：03_主题场景 #8",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\03-008\\011_PPT模板宣传类.pptx",
+      "source_relative_path": "curated/template-families/03-008/011_PPT模板宣传类.pptx",
+      "use_cases": [
+        "03_主题场景"
+      ],
+      "visual_tags": [
+        "03_主题场景",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Calibri Light",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 75.51,
+        "slide_count": 10,
+        "has_animation_xml": true,
+        "has_transition_xml": false,
+        "slide_patterns": {
+          "content": 6,
+          "agenda": 1,
+          "dense-composition": 3
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/03-008/011_PPT模板宣传类.pptx"
+    },
+    {
+      "family_id": "03-009",
+      "name": "候选：03_主题场景 #9",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\03-009\\012_PPT模板宣传类.pptx",
+      "source_relative_path": "curated/template-families/03-009/012_PPT模板宣传类.pptx",
+      "use_cases": [
+        "03_主题场景"
+      ],
+      "visual_tags": [
+        "03_主题场景",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Calibri Light",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 75.37,
+        "slide_count": 13,
+        "has_animation_xml": true,
+        "has_transition_xml": false,
+        "slide_patterns": {
+          "dense-composition": 4,
+          "content": 9
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/03-009/012_PPT模板宣传类.pptx"
+    },
+    {
+      "family_id": "03-010",
+      "name": "候选：03_主题场景 #10",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\03-010\\005_PPT模板.pptx",
+      "source_relative_path": "curated/template-families/03-010/005_PPT模板.pptx",
+      "use_cases": [
+        "03_主题场景"
+      ],
+      "visual_tags": [
+        "03_主题场景",
+        "animated"
+      ],
+      "aspect_ratio": "10.0:5.625",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "1F497D",
+          "EEECE1",
+          "4F81BD",
+          "C0504D",
+          "9BBB59",
+          "8064A2",
+          "4BACC6",
+          "F79646",
+          "0000FF",
+          "800080"
+        ],
+        "fonts": [
+          "Calibri",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 75.22,
+        "slide_count": 12,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "content": 9,
+          "dense-composition": 3
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/03-010/005_PPT模板.pptx"
+    },
+    {
+      "family_id": "04-001",
+      "name": "候选：04_设计素材 #1",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\04-001\\014_精品图表精品推荐.pptx",
+      "source_relative_path": "curated/template-families/04-001/014_精品图表精品推荐.pptx",
+      "use_cases": [
+        "04_设计素材"
+      ],
+      "visual_tags": [
+        "04_设计素材",
+        "animated"
+      ],
+      "aspect_ratio": "10.0:5.625",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "666666",
+          "D2D2D2",
+          "FF388C",
+          "E40059",
+          "9C007F",
+          "68007F",
+          "005BD3",
+          "00349E",
+          "17BBFD",
+          "FF79C2"
+        ],
+        "fonts": [
+          "Calibri",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 80.0,
+        "slide_count": 200,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "dense-composition": 174,
+          "content": 26
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/04-001/014_精品图表精品推荐.pptx"
+    },
+    {
+      "family_id": "04-002",
+      "name": "候选：04_设计素材 #2",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\04-002\\015_精品图表精品推荐.pptx",
+      "source_relative_path": "curated/template-families/04-002/015_精品图表精品推荐.pptx",
+      "use_cases": [
+        "04_设计素材"
+      ],
+      "visual_tags": [
+        "04_设计素材",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Calibri Light",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.5,
+        "slide_count": 30,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "dense-composition": 24,
+          "content": 3,
+          "agenda": 3
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/04-002/015_精品图表精品推荐.pptx"
+    },
+    {
+      "family_id": "04-003",
+      "name": "候选：04_设计素材 #3",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\04-003\\019_精品图表精品推荐.pptx",
+      "source_relative_path": "curated/template-families/04-003/019_精品图表精品推荐.pptx",
+      "use_cases": [
+        "04_设计素材"
+      ],
+      "visual_tags": [
+        "04_设计素材",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Calibri Light",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 79.5,
+        "slide_count": 30,
+        "has_animation_xml": true,
+        "has_transition_xml": false,
+        "slide_patterns": {
+          "dense-composition": 22,
+          "content": 7,
+          "minimal": 1
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/04-003/019_精品图表精品推荐.pptx"
+    },
+    {
+      "family_id": "04-004",
+      "name": "候选：04_设计素材 #4",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\04-004\\013_精品图表精品推荐.pptx",
+      "source_relative_path": "curated/template-families/04-004/013_精品图表精品推荐.pptx",
+      "use_cases": [
+        "04_设计素材"
+      ],
+      "visual_tags": [
+        "04_设计素材",
+        "animated"
+      ],
+      "aspect_ratio": "10.0:5.625",
+      "theme": {
+        "colors": [
+          "262626",
+          "FFFFFF",
+          "377790",
+          "189A80",
+          "F09C2A",
+          "D24132",
+          "564266",
+          "686868",
+          "595959"
+        ],
+        "fonts": [
+          "Arial",
+          "FontAwesome"
+        ]
+      },
+      "evidence": {
+        "quality_score": 77.93,
+        "slide_count": 174,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "content": 27,
+          "dense-composition": 139,
+          "chart": 8
+        },
+        "charts": 8,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/04-004/013_精品图表精品推荐.pptx"
+    },
+    {
+      "family_id": "04-005",
+      "name": "候选：04_设计素材 #5",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\04-005\\016_精品图表精品推荐.pptx",
+      "source_relative_path": "curated/template-families/04-005/016_精品图表精品推荐.pptx",
+      "use_cases": [
+        "04_设计素材"
+      ],
+      "visual_tags": [
+        "04_设计素材",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Calibri Light",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 77.89,
+        "slide_count": 30,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "dense-composition": 23,
+          "content": 7
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/04-005/016_精品图表精品推荐.pptx"
+    },
+    {
+      "family_id": "04-006",
+      "name": "候选：04_设计素材 #6",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\04-006\\007_常用图表.pptx",
+      "source_relative_path": "curated/template-families/04-006/007_常用图表.pptx",
+      "use_cases": [
+        "04_设计素材"
+      ],
+      "visual_tags": [
+        "04_设计素材",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Impact",
+          "华康俪金黑W8",
+          "微软雅黑"
+        ]
+      },
+      "evidence": {
+        "quality_score": 77.83,
+        "slide_count": 38,
+        "has_animation_xml": true,
+        "has_transition_xml": false,
+        "slide_patterns": {
+          "content": 15,
+          "dense-composition": 20,
+          "chart": 3
+        },
+        "charts": 3,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/04-006/007_常用图表.pptx"
+    },
+    {
+      "family_id": "04-007",
+      "name": "候选：04_设计素材 #7",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\04-007\\017_精品图表精品推荐.pptx",
+      "source_relative_path": "curated/template-families/04-007/017_精品图表精品推荐.pptx",
+      "use_cases": [
+        "04_设计素材"
+      ],
+      "visual_tags": [
+        "04_设计素材",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Calibri Light",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 76.93,
+        "slide_count": 30,
+        "has_animation_xml": true,
+        "has_transition_xml": false,
+        "slide_patterns": {
+          "dense-composition": 21,
+          "content": 7,
+          "minimal": 2
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/04-007/017_精品图表精品推荐.pptx"
+    },
+    {
+      "family_id": "04-008",
+      "name": "候选：04_设计素材 #8",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\04-008\\001_汇报总结模板.pptx",
+      "source_relative_path": "curated/template-families/04-008/001_汇报总结模板.pptx",
+      "use_cases": [
+        "04_设计素材"
+      ],
+      "visual_tags": [
+        "04_设计素材",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "4589FE",
+          "E7E6E6",
+          "0059FF",
+          "00CDFF",
+          "7823FF"
+        ],
+        "fonts": [
+          "Montserrat-Bold",
+          "阿里巴巴普惠体 B",
+          "Montserrat-Medium",
+          "阿里巴巴普惠体 R"
+        ]
+      },
+      "evidence": {
+        "quality_score": 76.91,
+        "slide_count": 27,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "dense-composition": 14,
+          "agenda": 1,
+          "chart": 1,
+          "content": 11
+        },
+        "charts": 2,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/04-008/001_汇报总结模板.pptx"
+    },
+    {
+      "family_id": "04-009",
+      "name": "候选：04_设计素材 #9",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\04-009\\009_常用图表.pptx",
+      "source_relative_path": "curated/template-families/04-009/009_常用图表.pptx",
+      "use_cases": [
+        "04_设计素材"
+      ],
+      "visual_tags": [
+        "04_设计素材",
+        "animated"
+      ],
+      "aspect_ratio": "10.0:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "1F497D",
+          "EEECE1",
+          "4F81BD",
+          "C0504D",
+          "9BBB59",
+          "8064A2",
+          "4BACC6",
+          "F79646",
+          "0000FF",
+          "800080",
+          "CBDAB5",
+          "6C548A",
+          "B2C1DB",
+          "AE4845"
+        ],
+        "fonts": [
+          "Arial",
+          "宋体",
+          "微软雅黑"
+        ]
+      },
+      "evidence": {
+        "quality_score": 76.9,
+        "slide_count": 69,
+        "has_animation_xml": true,
+        "has_transition_xml": false,
+        "slide_patterns": {
+          "dense-composition": 46,
+          "content": 19,
+          "agenda": 3,
+          "minimal": 1
+        },
+        "charts": 0,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/04-009/009_常用图表.pptx"
+    },
+    {
+      "family_id": "04-010",
+      "name": "候选：04_设计素材 #10",
+      "status": "needs_slot_annotation",
+      "source_template": "C:\\ppt-creater\\curated\\template-families\\04-010\\018_精品图表精品推荐.pptx",
+      "source_relative_path": "curated/template-families/04-010/018_精品图表精品推荐.pptx",
+      "use_cases": [
+        "04_设计素材"
+      ],
+      "visual_tags": [
+        "04_设计素材",
+        "animated"
+      ],
+      "aspect_ratio": "13.3333:7.5",
+      "theme": {
+        "colors": [
+          "000000",
+          "FFFFFF",
+          "44546A",
+          "E7E6E6",
+          "5B9BD5",
+          "ED7D31",
+          "A5A5A5",
+          "FFC000",
+          "4472C4",
+          "70AD47",
+          "0563C1",
+          "954F72"
+        ],
+        "fonts": [
+          "Calibri Light",
+          "ＭＳ Ｐゴシック",
+          "맑은 고딕",
+          "宋体",
+          "新細明體",
+          "Times New Roman",
+          "Angsana New",
+          "Nyala",
+          "Vrinda",
+          "Shruti",
+          "MoolBoran",
+          "Tunga",
+          "Raavi",
+          "Euphemia",
+          "Plantagenet Cherokee",
+          "Microsoft Yi Baiti",
+          "Microsoft Himalaya",
+          "MV Boli",
+          "Mangal",
+          "Gautami"
+        ]
+      },
+      "evidence": {
+        "quality_score": 76.77,
+        "slide_count": 30,
+        "has_animation_xml": true,
+        "has_transition_xml": true,
+        "slide_patterns": {
+          "dense-composition": 18,
+          "content": 8,
+          "minimal": 1,
+          "chart": 3
+        },
+        "charts": 9,
+        "tables": 0
+      },
+      "animation_policy": {
+        "allowed_patterns": [
+          "preserve_original"
+        ],
+        "requires_powerpoint_playback_verification": true
+      },
+      "slides": [],
+      "next_action": "Open selected source in PowerPoint, name reusable shapes slot_*, then register slide definitions and animation locks.",
+      "imported_template": "curated/template-families/04-010/018_精品图表精品推荐.pptx"
+    }
+  ]
+}

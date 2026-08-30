@@ -1,0 +1,565 @@
+﻿[
+    {
+        "slide":  1,
+        "effects":  [
+
+                    ]
+    },
+    {
+        "slide":  2,
+        "effects":  [
+
+                    ]
+    },
+    {
+        "slide":  3,
+        "effects":  [
+
+                    ]
+    },
+    {
+        "slide":  4,
+        "effects":  [
+                        {
+                            "index":  1,
+                            "shape_name":  "TextBox 6",
+                            "shape_id":  18,
+                            "effect_type":  39,
+                            "trigger":  1,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  2,
+                            "shape_name":  "TextBox 7",
+                            "shape_id":  19,
+                            "effect_type":  10,
+                            "trigger":  2,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  3,
+                            "shape_name":  "TextBox 59",
+                            "shape_id":  22,
+                            "effect_type":  39,
+                            "trigger":  1,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  4,
+                            "shape_name":  "TextBox 60",
+                            "shape_id":  23,
+                            "effect_type":  10,
+                            "trigger":  2,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  5,
+                            "shape_name":  "TextBox 64",
+                            "shape_id":  30,
+                            "effect_type":  39,
+                            "trigger":  1,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  6,
+                            "shape_name":  "TextBox 65",
+                            "shape_id":  34,
+                            "effect_type":  10,
+                            "trigger":  2,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  7,
+                            "shape_name":  "TextBox 69",
+                            "shape_id":  37,
+                            "effect_type":  39,
+                            "trigger":  1,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  8,
+                            "shape_name":  "TextBox 70",
+                            "shape_id":  38,
+                            "effect_type":  10,
+                            "trigger":  2,
+                            "duration":  0.35,
+                            "delay":  0
+                        }
+                    ]
+    },
+    {
+        "slide":  5,
+        "effects":  [
+
+                    ]
+    },
+    {
+        "slide":  6,
+        "effects":  [
+
+                    ]
+    },
+    {
+        "slide":  7,
+        "effects":  [
+                        {
+                            "index":  1,
+                            "shape_name":  "椭圆 1",
+                            "shape_id":  14,
+                            "effect_type":  23,
+                            "trigger":  1,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  2,
+                            "shape_name":  "椭圆 1",
+                            "shape_id":  16,
+                            "effect_type":  23,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  3,
+                            "shape_name":  "椭圆 1",
+                            "shape_id":  17,
+                            "effect_type":  23,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  4,
+                            "shape_name":  "椭圆 11",
+                            "shape_id":  15,
+                            "effect_type":  23,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  5,
+                            "shape_name":  "TextBox 14",
+                            "shape_id":  18,
+                            "effect_type":  10,
+                            "trigger":  1,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  6,
+                            "shape_name":  "TextBox 15",
+                            "shape_id":  19,
+                            "effect_type":  10,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  7,
+                            "shape_name":  "TextBox 16",
+                            "shape_id":  20,
+                            "effect_type":  10,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  8,
+                            "shape_name":  "TextBox 17",
+                            "shape_id":  21,
+                            "effect_type":  10,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  9,
+                            "shape_name":  "直接连接符 18",
+                            "shape_id":  22,
+                            "effect_type":  22,
+                            "trigger":  1,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  10,
+                            "shape_name":  "直接连接符 19",
+                            "shape_id":  23,
+                            "effect_type":  22,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  11,
+                            "shape_name":  "直接连接符 20",
+                            "shape_id":  24,
+                            "effect_type":  22,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  12,
+                            "shape_name":  "直接连接符 21",
+                            "shape_id":  25,
+                            "effect_type":  22,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  13,
+                            "shape_name":  "TextBox 22",
+                            "shape_id":  26,
+                            "effect_type":  38,
+                            "trigger":  1,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  14,
+                            "shape_name":  "TextBox 24",
+                            "shape_id":  28,
+                            "effect_type":  38,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  15,
+                            "shape_name":  "TextBox 26",
+                            "shape_id":  30,
+                            "effect_type":  38,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  16,
+                            "shape_name":  "TextBox 28",
+                            "shape_id":  32,
+                            "effect_type":  38,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        }
+                    ]
+    },
+    {
+        "slide":  8,
+        "effects":  [
+                        {
+                            "index":  1,
+                            "shape_name":  "Rectangle 26",
+                            "shape_id":  2,
+                            "effect_type":  2,
+                            "trigger":  1,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  2,
+                            "shape_name":  "Rectangle 48",
+                            "shape_id":  4,
+                            "effect_type":  2,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  3,
+                            "shape_name":  "TextBox 47",
+                            "shape_id":  3,
+                            "effect_type":  10,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  4,
+                            "shape_name":  "Rectangle 51",
+                            "shape_id":  6,
+                            "effect_type":  18,
+                            "trigger":  1,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  5,
+                            "shape_name":  "Rounded Rectangle 54",
+                            "shape_id":  7,
+                            "effect_type":  18,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  6,
+                            "shape_name":  "Rounded Rectangle 55",
+                            "shape_id":  8,
+                            "effect_type":  18,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  7,
+                            "shape_name":  "Group 33",
+                            "shape_id":  9,
+                            "effect_type":  42,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  8,
+                            "shape_name":  "Rectangle 57",
+                            "shape_id":  12,
+                            "effect_type":  18,
+                            "trigger":  1,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  9,
+                            "shape_name":  "Rounded Rectangle 60",
+                            "shape_id":  13,
+                            "effect_type":  18,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  10,
+                            "shape_name":  "Rounded Rectangle 61",
+                            "shape_id":  14,
+                            "effect_type":  18,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  11,
+                            "shape_name":  "Group 34",
+                            "shape_id":  21,
+                            "effect_type":  42,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  12,
+                            "shape_name":  "Rectangle 67",
+                            "shape_id":  15,
+                            "effect_type":  18,
+                            "trigger":  1,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  13,
+                            "shape_name":  "Rounded Rectangle 70",
+                            "shape_id":  16,
+                            "effect_type":  18,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  14,
+                            "shape_name":  "Rounded Rectangle 71",
+                            "shape_id":  17,
+                            "effect_type":  18,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  15,
+                            "shape_name":  "Group 37",
+                            "shape_id":  24,
+                            "effect_type":  42,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  16,
+                            "shape_name":  "Rectangle 73",
+                            "shape_id":  18,
+                            "effect_type":  18,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  17,
+                            "shape_name":  "Rounded Rectangle 76",
+                            "shape_id":  19,
+                            "effect_type":  18,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  18,
+                            "shape_name":  "Rounded Rectangle 77",
+                            "shape_id":  20,
+                            "effect_type":  18,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        },
+                        {
+                            "index":  19,
+                            "shape_name":  "Group 40",
+                            "shape_id":  27,
+                            "effect_type":  42,
+                            "trigger":  2,
+                            "duration":  0.3,
+                            "delay":  0
+                        }
+                    ]
+    },
+    {
+        "slide":  9,
+        "effects":  [
+                        {
+                            "index":  1,
+                            "shape_name":  "Freeform 6",
+                            "shape_id":  3,
+                            "effect_type":  48,
+                            "trigger":  1,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  2,
+                            "shape_name":  "Freeform 5",
+                            "shape_id":  2,
+                            "effect_type":  48,
+                            "trigger":  2,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  3,
+                            "shape_name":  "Freeform 8",
+                            "shape_id":  5,
+                            "effect_type":  48,
+                            "trigger":  1,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  4,
+                            "shape_name":  "Freeform 7",
+                            "shape_id":  4,
+                            "effect_type":  48,
+                            "trigger":  2,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  5,
+                            "shape_name":  "TextBox 36",
+                            "shape_id":  6,
+                            "effect_type":  2,
+                            "trigger":  1,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  6,
+                            "shape_name":  "Text Placeholder 3",
+                            "shape_id":  10,
+                            "effect_type":  48,
+                            "trigger":  2,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  7,
+                            "shape_name":  "TextBox 39",
+                            "shape_id":  7,
+                            "effect_type":  2,
+                            "trigger":  1,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  8,
+                            "shape_name":  "Text Placeholder 3",
+                            "shape_id":  12,
+                            "effect_type":  48,
+                            "trigger":  2,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  9,
+                            "shape_name":  "TextBox 41",
+                            "shape_id":  8,
+                            "effect_type":  2,
+                            "trigger":  2,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  10,
+                            "shape_name":  "Text Placeholder 3",
+                            "shape_id":  13,
+                            "effect_type":  48,
+                            "trigger":  2,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  11,
+                            "shape_name":  "TextBox 42",
+                            "shape_id":  9,
+                            "effect_type":  2,
+                            "trigger":  2,
+                            "duration":  0.35,
+                            "delay":  0
+                        },
+                        {
+                            "index":  12,
+                            "shape_name":  "Text Placeholder 3",
+                            "shape_id":  11,
+                            "effect_type":  48,
+                            "trigger":  2,
+                            "duration":  0.35,
+                            "delay":  0
+                        }
+                    ]
+    },
+    {
+        "slide":  10,
+        "effects":  [
+
+                    ]
+    },
+    {
+        "slide":  11,
+        "effects":  [
+
+                    ]
+    },
+    {
+        "slide":  12,
+        "effects":  [
+
+                    ]
+    }
+]
