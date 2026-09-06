@@ -20,7 +20,6 @@ families = [
     ("N02 Company Professional | NET-02", ROOT / "network-supplements/NET-02/previews", "Network candidate: SlidesMania", ["brand-company-profile", "data-boardroom", "generic-corporate"]),
     ("N03 Career Portfolio | NET-03", ROOT / "network-supplements/NET-03/previews", "Network candidate: SlidesMania", ["career-portfolio"]),
     ("N04 Wedding Amelia | NET-04", ROOT / "network-supplements/NET-04/previews", "Network candidate: SlidesMania", ["wedding-bridal"]),
-    ("N05 Event Culture Tourism | NET-05", ROOT / "network-supplements/NET-05/previews", "Network candidate: SlidesCarnival", ["marketing-event", "culture-tourism"]),
 ]
 W, H = landscape((842, 595)); M = 24; TITLE_H = 46; CW = (W-2*M)/3; CH = (H-TITLE_H-2*M)/2
 c = canvas.Canvas(str(TMP), pagesize=(W,H)); page_map = {}; page_no = 0

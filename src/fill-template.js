@@ -2,6 +2,12 @@ const fs = require('node:fs');
 const path = require('node:path');
 const { Automizer, modify } = require('pptx-automizer');
 
+const { createTypographyModifier } = require('./typography-system');
+
+function typographyModifierFor(theme, slotName) {
+  return theme ? createTypographyModifier(theme, slotName) : null;
+}
+
 function ensureSafePlan(family, plan) {
   if (!family?.source_template) throw new Error('Template family must define source_template.');
   if (!fs.existsSync(family.source_template)) throw new Error(`Source template does not exist: ${family.source_template}`);
@@ -33,7 +39,12 @@ async function fillPlan({ family, plan, outputPath }) {
       for (const [slot, value] of Object.entries(page.content || {})) {
         // Selecting the existing named shape is intentional: it preserves the page's
         // structure and any timing reference pointing to that shape.
-        slide.modifyElement(`slot_${slot}`, [modify.setText(String(value))]);
+        const shapeName = `slot_${slot}`;
+        const typography = typographyModifierFor(page.typography_theme || plan.typography_theme, slot);
+        slide.modifyElement(shapeName, [
+          modify.setText(String(value)),
+          ...(typography ? [typography] : [])
+        ]);
       }
     });
   }

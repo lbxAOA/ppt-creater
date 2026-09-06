@@ -5,6 +5,7 @@ const path = require('node:path');
 const { execFileSync } = require('node:child_process');
 const test = require('node:test');
 const { fillPlan } = require('../src/fill-template');
+const { resolveTypographyTheme } = require('../src/typography-system');
 
 test('fillPlan copies a source template slide and replaces named slot text', async () => {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), 'ppt-creater-fill-'));
@@ -24,11 +25,15 @@ test('fillPlan copies a source template slide and replaces named slot text', asy
 
   await fillPlan({
     family: { source_template: templatePath },
-    plan: { slides: [{ source_slide_index: 1, content: { title: '已替换标题' } }] },
+    plan: { slides: [{ source_slide_index: 1, content: { title: '已替换标题' }, typography_theme: resolveTypographyTheme('modern-business') }] },
     outputPath
   });
   assert.equal(fs.existsSync(outputPath), true);
   const inspect = `from pptx import Presentation\np=Presentation(r'''${outputPath.replace(/\\/g, '\\\\')}''')\nprint('\\n'.join(sh.text for s in p.slides for sh in s.shapes if getattr(sh,'has_text_frame',False)))`;
   const found = execFileSync('python', ['-c', inspect], { encoding: 'utf8' });
   assert.match(found, /已替换标题/);
+  const xml = await require('jszip').loadAsync(fs.readFileSync(outputPath));
+  const slideXml = await xml.file('ppt/slides/slide2.xml').async('string');
+  assert.match(slideXml, /typeface="Inter"/);
+  assert.match(slideXml, /typeface="Noto Sans SC"/);
 });

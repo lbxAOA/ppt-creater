@@ -8,7 +8,6 @@
 | NET-02 | Simple & Professional | 02 数据经营 / 03 企业介绍 | 标题、KPI、产品/服务、团队、行动计划 | [SlidesMania 页面](https://slidesmania.com/simple-professional-free-presentation-template/) | 搜索结果称为 free，支持 PowerPoint；下载与条款待逐项复核 | candidate_only / license_review_required |
 | NET-03 | My Portfolio | 06 个人作品集 | 案例研究、项目图集、个人介绍、过程页 | [SlidesMania 页面](https://slidesmania.com/my-portfolio-free-presentation-template/) | 页面称为 free，说明有图像占位符及 PowerPoint 支持 | candidate_only / license_review_required |
 | NET-04 | Amelia / Rochester | 05 婚礼 / 婚庆 | 婚礼流程、人物故事、相册、致谢 | [Amelia](https://slidesmania.com/amelia-free-presentation-template/)；[Rochester](https://slidesmania.com/rochester-free-elegant-template-for-google-slides-or-pptx/) | 搜索结果明确称为 free PPT/PPTX；下载与具体使用限制待核验 | candidate_only / license_review_required |
-| NET-05 | Elegant Hospitality & Tourism | 04 活动 / 文化文旅 | 目的地、行程、资源介绍、客户旅程、图文页 | [SlidesCarnival 页面](https://slidescarnival.com/template/hospitality-tourism/50919) | 页面标明 Canva 优先；不直接纳入原生 PPTX 路线，除非获得可下载 PPTX 并单独核验 | reference_only |
 | NET-06 | Travel & Tourism Industry | 04 活动 / 文化文旅 | 市场、产业、招商、数据与路线页 | [SlidesCarnival 页面](https://slidescarnival.com/template/travel-and-tourism-industry-in-india-slides/215633) | 页面称提供 PPT/Google Slides，但需逐次确认实际下载和许可 | candidate_only / license_review_required |
 
 ## 来源边界

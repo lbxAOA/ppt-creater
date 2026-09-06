@@ -1,0 +1,2 @@
+template-library/local-production-sources/**/*.pptx filter=lfs diff=lfs merge=lfs -text
+production-library/**/*.pptx filter=lfs diff=lfs merge=lfs -text

@@ -14,7 +14,6 @@ def test_external_network_production_families_are_named_consistently_and_strictl
         "external-company-professional": "NET-02",
         "external-career-portfolio": "NET-03",
         "external-wedding-amelia": "NET-04",
-        "external-event-culture-tourism": "NET-05",
         "external-investor-strategy": "NET-06",
         "external-b2b-market-analysis": "NET-07",
         "external-tech-product-workflow": "NET-08",

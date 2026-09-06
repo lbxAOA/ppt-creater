@@ -13,8 +13,16 @@
     {
       "id": "NET-01",
       "title": "Pitch with Confidence",
-      "targets": ["ai-industry", "investor-pitch"],
-      "missing_page_types": ["market", "value_proposition", "funding_logic", "simple_data"],
+      "targets": [
+        "ai-industry",
+        "investor-pitch"
+      ],
+      "missing_page_types": [
+        "market",
+        "value_proposition",
+        "funding_logic",
+        "simple_data"
+      ],
       "page_url": "https://slidesmania.com/free-simple-business-pitch-free-template/",
       "pptx_url": "https://docs.google.com/presentation/d/1K2cIYoHSqmtNhbO17D_PFgfJArEKPcg3feRxuByx8WY/export/pptx",
       "source": "SlidesMania",
@@ -24,8 +32,17 @@
     {
       "id": "NET-02",
       "title": "Simple & Professional",
-      "targets": ["data-boardroom", "brand-company-profile", "generic-corporate"],
-      "missing_page_types": ["kpi", "product_service", "team", "action_plan"],
+      "targets": [
+        "data-boardroom",
+        "brand-company-profile",
+        "generic-corporate"
+      ],
+      "missing_page_types": [
+        "kpi",
+        "product_service",
+        "team",
+        "action_plan"
+      ],
       "page_url": "https://slidesmania.com/simple-professional-free-presentation-template/",
       "source": "SlidesMania",
       "license_status": "review_required",
@@ -34,8 +51,15 @@
     {
       "id": "NET-03",
       "title": "My Portfolio",
-      "targets": ["career-portfolio"],
-      "missing_page_types": ["case_study", "project_gallery", "about", "process"],
+      "targets": [
+        "career-portfolio"
+      ],
+      "missing_page_types": [
+        "case_study",
+        "project_gallery",
+        "about",
+        "process"
+      ],
       "page_url": "https://slidesmania.com/my-portfolio-free-presentation-template/",
       "source": "SlidesMania",
       "license_status": "review_required",
@@ -44,22 +68,106 @@
     {
       "id": "NET-04",
       "title": "Amelia / Rochester",
-      "targets": ["wedding-bridal"],
-      "missing_page_types": ["timeline", "story", "album", "thanks"],
+      "targets": [
+        "wedding-bridal"
+      ],
+      "missing_page_types": [
+        "timeline",
+        "story",
+        "album",
+        "thanks"
+      ],
       "page_url": "https://slidesmania.com/amelia-free-presentation-template/",
       "source": "SlidesMania",
       "license_status": "review_required",
       "ingest_status": "manual_download_url_discovery_required"
     },
     {
-      "id": "NET-05",
-      "title": "Travel and Tourism Industry",
-      "targets": ["culture-tourism", "marketing-event"],
-      "missing_page_types": ["market", "itinerary", "destination", "industry_data"],
+      "id": "NET-06",
+      "title": "Travel & Tourism Industry",
+      "targets": [
+        "culture-tourism",
+        "marketing-event"
+      ],
+      "missing_page_types": [
+        "market",
+        "industry",
+        "sponsorship",
+        "data",
+        "route"
+      ],
       "page_url": "https://slidescarnival.com/template/travel-and-tourism-industry-in-india-slides/215633",
       "source": "SlidesCarnival",
       "license_status": "review_required",
-      "ingest_status": "manual_download_url_discovery_required"
+      "ingest_status": "reference_only_manual_license_review"
+    },
+    {
+      "id": "NET-21",
+      "title": "Public Policy Project Proposal",
+      "targets": [
+        "public-policy",
+        "government"
+      ],
+      "missing_page_types": [
+        "policy_problem",
+        "stakeholders",
+        "implementation_path",
+        "impact_evaluation",
+        "timeline"
+      ],
+      "page_url": "https://slidesgo.com/theme/public-policy-project-proposal",
+      "source": "Slidesgo",
+      "license_status": "manual_external_review_required",
+      "ingest_status": "source_verified",
+      "archived_pptx": "C:\\ppt-creater\\network-supplements\\NET-21\\public-policy-project-proposal.pptx",
+      "sha256": "37056035de466c6be19375bb017f8042a895ee54eb21bd8d53505a0ea0d55f84",
+      "slide_count": 48,
+      "style_review_status": "candidate_only"
+    },
+    {
+      "id": "NET-22",
+      "title": "Architecture & Construction Management Company Profile",
+      "targets": [
+        "architecture-construction",
+        "real-estate"
+      ],
+      "missing_page_types": [
+        "company_profile",
+        "project_portfolio",
+        "project_governance",
+        "map",
+        "timeline"
+      ],
+      "page_url": "https://slidesgo.com/theme/architecture-construction-management-company-profile",
+      "source": "Slidesgo",
+      "license_status": "manual_external_review_required",
+      "ingest_status": "source_verified",
+      "archived_pptx": "C:\\ppt-creater\\network-supplements\\NET-22\\architecture-construction-management-company-profile.pptx",
+      "sha256": "8f284559631599add99853ae8d85fe3e24823383d80ea4a0ab2dceb52da976d6",
+      "slide_count": 56,
+      "style_review_status": "candidate_only"
+    },
+    {
+      "id": "NET-23",
+      "title": "Logistics and Distribution of Goods",
+      "targets": [
+        "logistics-distribution",
+        "supply-chain"
+      ],
+      "missing_page_types": [
+        "supply_chain",
+        "warehouse_transport",
+        "distribution_network",
+        "operations_kpi"
+      ],
+      "page_url": "https://slidesgo.com/theme/logistics-and-distribution-of-goods",
+      "source": "Slidesgo",
+      "license_status": "manual_external_review_required",
+      "ingest_status": "source_verified",
+      "archived_pptx": "C:\\ppt-creater\\network-supplements\\NET-23\\logistics-and-distribution-of-goods.pptx",
+      "sha256": "aea10d99615afd08bd9ef413005fd8ea9bf466d85df2f7615b62264b717d97b1",
+      "slide_count": 63,
+      "style_review_status": "candidate_only"
     }
   ]
 }

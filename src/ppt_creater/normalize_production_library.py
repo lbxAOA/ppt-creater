@@ -19,7 +19,6 @@ RENAMES = {
     "network-company-professional": "external-company-professional",
     "network-career-portfolio": "external-career-portfolio",
     "network-wedding-amelia": "external-wedding-amelia",
-    "network-event-culture-tourism": "external-event-culture-tourism",
     "network-investor-strategy": "external-investor-strategy",
     "network-b2b-market-analysis": "external-b2b-market-analysis",
     "network-tech-product-workflow": "external-tech-product-workflow",
@@ -46,6 +45,22 @@ LOCAL_TEMPLATES = {
         "route_targets": ["wedding-bridal"],
         "canonical_name": "Wedding Album",
     },
+    "local-marketing-event-chinese-style": {
+        "source_id": "LOCAL-04",
+        "source_pptx": ROOT / "curated/template-families/02-004/052_中国风模板.pptx",
+        "master_pptx": ROOT / "complete-production-library/marketing-event/master.pptx",
+        "validation_pptx": ROOT / "complete-production-library/validation/marketing-event/filled-validation.pptx",
+        "route_targets": ["marketing-event"],
+        "canonical_name": "Marketing Event Chinese Style",
+    },
+    "local-culture-tourism-chinese-style": {
+        "source_id": "LOCAL-03",
+        "source_pptx": ROOT / "curated/template-families/02-003/030_中国风模板.pptx",
+        "master_pptx": ROOT / "complete-production-library/culture-tourism/master.pptx",
+        "validation_pptx": ROOT / "complete-production-library/validation/culture-tourism/filled-validation.pptx",
+        "route_targets": ["culture-tourism"],
+        "canonical_name": "Culture Tourism Chinese Style",
+    },
 }
 
 # The primary template is the current default for a route.  Alternatives remain
@@ -57,8 +72,8 @@ ROUTES = {
     "data-boardroom": {"primary": "external-quarterly-business-review", "alternatives": ["external-kpi-scorecard", "external-financial-management-consulting"]},
     "brand-company-profile": {"primary": "external-company-professional", "alternatives": ["external-b2b-market-analysis"]},
     "generic-corporate": {"primary": "external-company-professional", "alternatives": ["external-quarterly-business-review"]},
-    "marketing-event": {"primary": "external-event-culture-tourism", "alternatives": []},
-    "culture-tourism": {"primary": "external-event-culture-tourism", "alternatives": []},
+    "marketing-event": {"primary": "local-marketing-event-chinese-style", "alternatives": []},
+    "culture-tourism": {"primary": "local-culture-tourism-chinese-style", "alternatives": []},
     "wedding-bridal": {"primary": "local-wedding-album", "alternatives": ["external-wedding-amelia"]},
     "career-portfolio": {"primary": "external-career-portfolio", "alternatives": []},
     "b2b-solution": {"primary": "external-b2b-market-analysis", "alternatives": []},

@@ -3,30 +3,22 @@ node_modules/
 __pycache__/
 *.py[cod]
 
-# Third-party downloads and raw provider-page captures remain isolated locally.
+# Third-party source downloads and non-redistributable review candidates.
 network-supplements/
-
-# PowerPoint source, master, and validation binaries stay local. The repository
-# contains scripts plus machine-readable registries that reproduce their intake
-# and verification; external source terms remain manual-review gated.
-*.ppt
-*.pptx
-
-# Generated decks and visual-review renders stay local.
-output/
-candidate-previews/
-network-supplements/**/previews/
-network-production-library/validation/
-production-library/**/validation/
-complete-production-library/validation/
-approved-template-additions/validation/
-
-# Historic and intermediate build outputs.
+network-production-library/
 legacy-converted/
 curated/
 approved-template-additions/
 complete-production-library/
 production-template-library/
+motion-library/
+template-library/ai-industry-navy-v1/
 
-# Old oversized visual-review PDFs are local inspection artifacts.
+# Validation copies and generated presentation outputs are local QA artifacts.
+**/validation/
+output/
+candidate-previews/
+
+# Local inspection documents and temporary build artifacts.
 *.pdf
+.pytest_cache/

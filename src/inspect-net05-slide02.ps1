@@ -1,3 +1,0 @@
-$input='C:\ppt-creater\network-supplements\NET-05\travel-tourism-industry.pptx'
-$app=New-Object -ComObject PowerPoint.Application;$app.Visible=-1
-try{$p=$app.Presentations.Open($input,$true,$false,$false);$s=$p.Slides.Item(2);$out=@();for($i=1;$i -le $s.Shapes.Count;$i++){$sh=$s.Shapes.Item($i);$t='';try{if($sh.HasTextFrame -and $sh.TextFrame.HasText){$t=$sh.TextFrame.TextRange.Text}}catch{};$out+=[ordered]@{index=$i;name=$sh.Name;text=$t;left=[math]::Round($sh.Left,1);top=[math]::Round($sh.Top,1);width=[math]::Round($sh.Width,1);height=[math]::Round($sh.Height,1);type=$sh.Type}};$out|ConvertTo-Json -Depth 3}catch{throw}finally{try{if($p){$p.Close()}}catch{};try{$app.Quit()}catch{};try{[System.Runtime.Interopservices.Marshal]::ReleaseComObject($app)|Out-Null}catch{}}

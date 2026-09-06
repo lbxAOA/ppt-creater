@@ -1,3 +1,7 @@
+const { resolveDeckColorTheme } = require('./color-system');
+const { resolveTypographyTheme } = require('./typography-system');
+const { buildNativePipelineContract } = require('./native-pipeline');
+
 function scoreFamily(family, request) {
   const requestedUseCase = (request.use_case || '').toLowerCase();
   const requestedTags = new Set((request.visual_tags || []).map((tag) => tag.toLowerCase()));
@@ -54,12 +58,22 @@ function buildDeckPlan(families, request) {
       content
     };
   });
+  const typographyTheme = request.typography_theme_id
+    ? resolveTypographyTheme(request.typography_theme_id)
+    : null;
   return {
     version: 1,
     title: request.title || '',
     family_id: family.family_id,
     aspect_ratio: family.aspect_ratio,
     theme: family.theme,
+    typography_theme: typographyTheme,
+    color_theme: resolveDeckColorTheme({
+      family,
+      colorMode: request.color_mode || 'template',
+      colors: request.colors,
+      name: request.color_theme_name
+    }),
     slides
   };
 }

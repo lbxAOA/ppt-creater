@@ -42,16 +42,19 @@ test('buildDeckPlan rejects a requested animation not approved by the family', (
   }), /not allowed/);
 });
 
-test('buildDeckPlan selects template slides and validates required slots', () => {
-  const plan = buildDeckPlan(families, {
+test('buildDeckPlan carries one resolved template theme for deck content and navigation', () => {
+  const themedFamilies = [{
+    ...families[0],
+    theme: { colors: ['172033', 'F5F8FC', '0B1F3A', 'DCE5EF', '00A6A6'], fonts: ['Microsoft YaHei'] }
+  }];
+
+  const plan = buildDeckPlan(themedFamilies, {
     family_id: 'tech-navy-01',
     title: '具身智能',
-    slides: [
-      { type: 'cover', animation: 'fade', content: { title: '具身智能', subtitle: '技术与商业机会' } },
-      { type: 'architecture_sequence', animation: 'left_to_right_sequence', content: { title: '闭环架构', world_model: '世界模型' } }
-    ]
+    slides: [{ type: 'cover', content: { title: '具身智能', subtitle: '技术与商业机会' } }]
   });
-  assert.equal(plan.family_id, 'tech-navy-01');
-  assert.equal(plan.slides.length, 2);
-  assert.equal(plan.slides[1].template_slide_id, 'architecture');
+
+  assert.equal(plan.color_theme.source.mode, 'template');
+  assert.equal(plan.color_theme.colors.accent, '00A6A6');
+  assert.equal(plan.color_theme.colors.nav.active, '00A6A6');
 });

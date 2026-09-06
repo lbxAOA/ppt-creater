@@ -19,6 +19,5 @@ def test_full_template_library_review_pdf_covers_local_and_network_families():
         "N02 Company Professional | NET-02",
         "N03 Career Portfolio | NET-03",
         "N04 Wedding Amelia | NET-04",
-        "N05 Event Culture Tourism | NET-05",
     }
     assert expected <= set(titles)

@@ -1,8 +1,23 @@
 const fs = require('node:fs');
+const path = require('node:path');
+
+function resolveRegistryPaths(value, registryPath) {
+  if (Array.isArray(value)) return value.map((item) => resolveRegistryPaths(item, registryPath));
+  if (!value || typeof value !== 'object') return value;
+  const root = path.resolve(path.dirname(registryPath), '..');
+  return Object.fromEntries(Object.entries(value).map(([key, item]) => {
+    if (typeof item === 'string' && /(?:^|_)(?:pptx|ppt)$/.test(key)) {
+      const normalized = item.replace(/\\/g, path.sep);
+      const isForeignAbsolute = /^[A-Za-z]:[\\/]/.test(normalized);
+      return [key, isForeignAbsolute || path.isAbsolute(normalized) ? normalized : path.resolve(root, normalized)];
+    }
+    return [key, resolveRegistryPaths(item, registryPath)];
+  }));
+}
 
 function loadProductionLibrary(registryPath) {
   const raw = fs.readFileSync(registryPath, 'utf8').replace(/^\uFEFF/, '');
-  return JSON.parse(raw);
+  return resolveRegistryPaths(JSON.parse(raw), registryPath);
 }
 
 function assertVerifiedTemplate(item, target) {

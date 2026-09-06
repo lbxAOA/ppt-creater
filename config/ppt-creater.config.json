@@ -1,8 +1,15 @@
 {
   "schema_version": 1,
-  "library_root": "C:/ppt-creater/curated/template-families",
+  "library_root": "template-library/local-production-sources",
   "catalog_root": "catalog",
+  "production_library_registry": "catalog/unified-production-template-library.json",
   "output_root": "output",
+  "backend": "auto",
+  "powerpoint_com": {
+    "visible": false,
+    "timeout_ms": 120000,
+    "display_alerts": false
+  },
   "scan": {
     "extensions": [".pptx"],
     "max_files_per_run": 0,
@@ -13,6 +20,35 @@
     "preserve_animation_shapes": true,
     "min_body_font_pt": 16,
     "max_bullets_per_slide": 6,
-    "require_sources_for_research_decks": true
+    "require_sources_for_research_decks": true,
+    "generation": {
+      "native_only": true,
+      "require_native_routing": true,
+      "require_native_page_copy": true,
+      "require_native_object_fill": true,
+      "require_preview_all_pages": true,
+      "require_text_optimization": true,
+      "require_powerpoint_normalization": true,
+      "require_powerpoint_qa": true,
+      "require_animation_playback": true
+    },
+    "native_object_kinds": [
+      "text",
+      "group_text",
+      "table_cell",
+      "smartart_text",
+      "chart_title",
+      "chart_label",
+      "chart_data",
+      "image_placeholder",
+      "image_fill",
+      "shape_fill"
+    ],
+    "color_management": {
+      "default_mode": "template",
+      "supported_modes": ["template", "user"],
+      "template_mode": "derive navigation colors from the selected template family palette",
+      "user_mode": "require a complete semantic palette for both template-approved color targets and navigation"
+    }
   }
 }

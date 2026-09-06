@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "resource_id": "local-animation-resource-library",
+  "canonical_name": "Animation Resource Library",
+  "source_pptx": "C:\\Users\\rdft1\\AppData\\Local\\hermes\\attachments\\001_动画资源.pptx",
+  "motion_master_pptx": "C:\\ppt-creater\\motion-library\\animation-resource-library.pptx",
+  "template_origin": "local",
+  "license_status": "user_provided",
+  "source_sha256": "5c2da5c9d70c28249e5269d66c4dcd8468ed17ff56086fd053529422819ebcf4",
+  "slide_count": 211,
+  "animation_timeline_slide_count": 206,
+  "media_asset_count": 98,
+  "motion_status": "intake_complete_pending_donor_annotation",
+  "allowed_usage": "reference_and_donor_copy_after_slide_level_annotation",
+  "constraints": {
+    "immutable_motion_master": true,
+    "one_family_per_output_deck": true,
+    "new_shapes": 0,
+    "require_slot_annotation_before_content_fill": true,
+    "require_powerpoint_playback_verification": true
+  },
+  "rename": {
+    "original_filename": "001_动画资源.pptx",
+    "canonical_filename": "animation-resource-library.pptx"
+  },
+  "next_action": "Inspect and annotate approved donor slides with stable donor_slide_id and slot_* shape names before they may be selected by ppt-creater."
+}
